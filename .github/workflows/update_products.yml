@@ -7,11 +7,14 @@ on:
         description: 'With build debug'
         required: false
         default:  false
+  schedule:
+    # 05:35 every wednesday
+    - cron: '35 5 * * WED'
 #  push:
 #    branches:
 #      - master
 jobs:
-  update_maps:
+  update_products:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
