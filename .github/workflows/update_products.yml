@@ -36,6 +36,9 @@ jobs:
             curl --silent --location "https://mibbrowser.online/mibs_json/$mib.json" | \
             ./pysmi-json-to-products-table.py >> ./product.sql.new; \
           done
+        echo '\.' >> ./product.sql.new
+        echo '' >> ./product.sql.new
+        echo '' >> ./product.sql.new
         mv ./product.sql.new ./product.sql
 
     - name: Commit files
