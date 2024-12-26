@@ -20,5 +20,5 @@ for value in data.values():
     description = value.get('description', '')
 
     # .1.3.6.1.6.3.10.3.1.1,SNMP-FRAMEWORK-MIB::snmpFrameworkMIBCompliance,,,,,,The description...
-    print(f'.{value['oid']}\t{module}\t{leaf}\t{description}')
+    print(f".{value['oid']}\t{module}\t{leaf}\t{description}")
     # print(f".{value['oid']},{module}::{leaf},,,,,,{description}")
