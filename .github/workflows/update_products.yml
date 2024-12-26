@@ -1,4 +1,4 @@
-name: Download Products JSON
+name: Update Products
 on:
   workflow_dispatch:
     inputs:
@@ -19,9 +19,11 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
-    - name: getjsonfiles
+    - name: Download and Build Products Table
       run: |
         cd products
+        echo 'DELETE FROM "product";' > ./product.sql.new
+        echo 'COPY "product" ("oid", "mib", "leaf", "description") FROM STDIN;' >> ./product.sql.new
         curl --silent --location "https://mibbrowser.online/mibdb_search.php?all=1" | \
           grep JUNIPER-CHASSIS-DEFINES | \
           grep -o 'mib=[^"]\+' | \
@@ -29,9 +31,9 @@ jobs:
           grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES)' | \
           while read mib; do \
             curl --silent --location "https://mibbrowser.online/mibs_json/$mib.json" | \
-            ./pysmi-json-to-oid-cache.py >> ./products_oids.new; \
+            ./pysmi-json-to-products-table.py >> ./product.sql.new; \
           done
-        mv ./products_oids.new ./products_oids
+        mv ./product.sql.new ./product.sql
 
     - name: Commit files
       run: |
