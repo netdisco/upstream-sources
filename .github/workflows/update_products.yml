@@ -28,7 +28,7 @@ jobs:
           sed -e 's/mib=//' | \
           grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES)' | \
           while read mib; do \
-            curl --silent --location --remote-name "https://mibbrowser.online/mibs_json/$mib.json" | \
+            curl --silent --location "https://mibbrowser.online/mibs_json/$mib.json" | \
             ./pysmi-json-to-oid-cache.py >> ./products_oids.new; \
           done
         mv ./products_oids.new ./products_oids
