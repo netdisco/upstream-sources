@@ -31,8 +31,8 @@ jobs:
       run: |
         curl -sL https://www.iana.org/assignments/enterprise-numbers.txt > ieee/SMI/enterprise-numbers.txt
         curl -sL https://standards-oui.ieee.org/oui/oui.csv > ieee/MA/MA-L.csv
-        curl -sL "https://standards-oui.ieee.org/oui28/mam.csv > ieee/MA/MA-M.csv
-        curl -sL "https://standards-oui.ieee.org/oui36/oui36.csv > ieee/MA/MA-S.csv
+        curl -sL https://standards-oui.ieee.org/oui28/mam.csv > ieee/MA/MA-M.csv
+        curl -sL https://standards-oui.ieee.org/oui36/oui36.csv > ieee/MA/MA-S.csv
 
     - name: Build Enterprises Table
       run: |
