@@ -61,18 +61,18 @@ jobs:
         export TARGET="ieee/MA/manufacturer.sql"
         echo 'DELETE FROM "manufacturer";' > ${TARGET}.new
         echo 'COPY "manufacturer" ("company", "abbrev", "base", "bits", "first", "last", "range") FROM STDIN;' >> ${TARGET}.new
-        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-L.csv" | \
+        curl --silent --location "https://standards-oui.ieee.org/oui/oui.csv" | \
           ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
-        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-M.csv" | \
+        curl --silent --location "https://standards-oui.ieee.org/oui28/mam.csv" | \
           ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
-        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-S.csv" | \
+        curl --silent --location "https://standards-oui.ieee.org/oui36/oui36.csv" | \
           ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
         echo '\.' >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
 
     - name: Combine complete SQL
       run: |
-        cat OUI/oui.sql ieee/SMI/enterprise.sql ieee/MA/manufacturer.sql products/product.sql > netdisco-lookup.sql
+        cat ieee/OUI/oui.sql ieee/SMI/enterprise.sql ieee/MA/manufacturer.sql products/product.sql > netdisco-lookup.sql
 
     - name: Commit files
       run: |
