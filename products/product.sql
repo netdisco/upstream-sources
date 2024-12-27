@@ -33534,3 +33534,4 @@ COPY "product" ("oid", "mib", "leaf", "description") FROM STDIN;
 .1.3.6.1.4.1.5504.1.7.5.3	ZhoneProductRegistrations	mxp1Ux5x	Description.
 .1.3.6.1.4.1.5504.1.7.5.3.1	ZhoneProductRegistrations	mxp1U15xFamily	Description.
 .1.3.6.1.4.1.5504.1.7.5.3.1.1	ZhoneProductRegistrations	mxp1U150	Description.
+\.
