@@ -89,7 +89,8 @@ foreach my $localbit (qw/2 6 a e/) {
 # COPY "manufacturer" ("company", "abbrev", "base", "bits", "first", "last", "range") FROM STDIN;
 # XEROX CORPORATION	Xerox	000000	24	00:00:00:00:00:00	00:00:00:ff:ff:ff	[0,16777216)
 
-foreach my $row (values %oui) {
+foreach my $base (sort keys %oui) {
+    my $row = $oui{$base};
     printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\n",
       $row->{'Organization Name'},
       $row->{abbrev},

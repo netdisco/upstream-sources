@@ -1,3 +1,4 @@
+DELETE FROM "oui";
 COPY oui (oui, company, abbrev) FROM stdin;
 00:00:00	XEROX CORPORATION	Xerox
 00:00:01	XEROX CORPORATION	Xerox
@@ -33850,4 +33851,3 @@ fc:fe:77	Hitachi Reftechno, Inc.	HitachiReftechno
 fc:fe:c2	Invensys Controls UK Limited	InvensysControls
 fc:ff:aa	IEEE Registration Authority	IeeeRegistration
 \.
-

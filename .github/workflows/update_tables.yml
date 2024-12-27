@@ -37,6 +37,7 @@ jobs:
           grep -o 'mib=[^"]\+' | \
           sed -e 's/mib=//' | \
           grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES)' | \
+          sort | \
           while read mib; do \
             curl --silent --location "https://mibbrowser.online/mibs_json/$mib.json" | \
             products/pysmi-json-to-products-table.py >> ${TARGET}.new; \
@@ -53,7 +54,25 @@ jobs:
           ieee/SMI/smi-to-enterprise-table.pl >> ${TARGET}.new
         echo '\.' >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
-  
+
+    - name: Download and Build Manufacturers Table
+      run: |
+        export TARGET="ieee/MA/manufacturer.sql"
+        echo 'DELETE FROM "manufacturer";' > ${TARGET}.new
+        echo 'COPY "manufacturer" ("company", "abbrev", "base", "bits", "first", "last", "range") FROM STDIN;' >> ${TARGET}.new
+        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-L.csv" | \
+          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
+        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-M.csv" | \
+          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
+        curl --silent --location "https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/MA/MA-S.csv" | \
+          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
+        echo '\.' >> ${TARGET}.new
+        mv ${TARGET}.new ${TARGET}
+
+    - name: Combine complete SQL
+      run: |
+        cat OUI/oui.sql ieee/SMI/enterprise.sql ieee/MA/manufacturer.sql products/product.sql > netdisco-lookup.sql
+
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
