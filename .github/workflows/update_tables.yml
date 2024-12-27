@@ -50,7 +50,7 @@ jobs:
         echo 'DELETE FROM "enterprise";' > ${TARGET}.new
         echo 'COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;' >> ${TARGET}.new
         curl --silent --location "https://www.iana.org/assignments/enterprise-numbers.txt" | \
-          ieee/SMI/smi-to-enterprise-table.py >> ${TARGET}.new
+          ieee/SMI/smi-to-enterprise-table.pl >> ${TARGET}.new
         echo '\.' >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
   
