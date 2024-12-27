@@ -26,47 +26,49 @@ jobs:
       run: |
         sudo apt install cpanminus
         cpanm Text::CSV
-  
+
+    - name: Download upstream content
+      run: |
+        curl -sL https://www.iana.org/assignments/enterprise-numbers.txt > ieee/SMI/enterprise-numbers.txt
+        curl -sL https://standards-oui.ieee.org/oui/oui.csv" > ieee/MA/MA-L.csv
+        curl -sL "https://standards-oui.ieee.org/oui28/mam.csv > ieee/MA/MA-M.csv
+        curl -sL "https://standards-oui.ieee.org/oui36/oui36.csv > ieee/MA/MA-S.csv
+
+    - name: Build Enterprises Table
+      run: |
+        export TARGET="ieee/SMI/enterprise.sql"
+        echo 'DELETE FROM "enterprise";' > ${TARGET}.new
+        echo 'COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;' >> ${TARGET}.new
+        cat ieee/SMI/enterprise-numbers.txt | ieee/SMI/smi-to-enterprise-table.pl >> ${TARGET}.new
+        echo '\.' >> ${TARGET}.new
+        mv ${TARGET}.new ${TARGET}
+
+    - name: Build Manufacturers Table
+      run: |
+        cpanm --local-lib=~/perl5 local::lib && eval $(perl -I ~/perl5/lib/perl5/ -Mlocal::lib)
+        export TARGET="ieee/MA/manufacturer.sql"
+        echo 'DELETE FROM "manufacturer";' > ${TARGET}.new
+        echo 'COPY "manufacturer" ("company", "abbrev", "base", "bits", "first", "last", "range") FROM STDIN;' >> ${TARGET}.new
+        { cat ieee/MA/MA-L.csv; sed 1d ieee/MA/MA-M.csv; sed 1d ieee/MA/MA-S.csv; } | \
+          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
+        echo '\.' >> ${TARGET}.new
+        mv ${TARGET}.new ${TARGET}
+
     - name: Download and Build Products Table
       run: |
         export TARGET="products/product.sql"
         echo 'DELETE FROM "product";' > ${TARGET}.new
         echo 'COPY "product" ("oid", "mib", "leaf", "description") FROM STDIN;' >> ${TARGET}.new
-        curl --silent --location "https://mibbrowser.online/mibdb_search.php?all=1" | \
+        curl -sL https://mibbrowser.online/mibdb_search.php?all=1 | \
           grep JUNIPER-CHASSIS-DEFINES | \
           grep -o 'mib=[^"]\+' | \
           sed -e 's/mib=//' | \
           grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES)' | \
           sort | \
           while read mib; do \
-            curl --silent --location "https://mibbrowser.online/mibs_json/$mib.json" | \
-            products/pysmi-json-to-products-table.py >> ${TARGET}.new; \
+            curl -sL "https://mibbrowser.online/mibs_json/$mib.json" | \
+              products/pysmi-json-to-products-table.py >> ${TARGET}.new; \
           done
-        echo '\.' >> ${TARGET}.new
-        mv ${TARGET}.new ${TARGET}
-
-    - name: Download and Build Enterprises Table
-      run: |
-        export TARGET="ieee/SMI/enterprise.sql"
-        echo 'DELETE FROM "enterprise";' > ${TARGET}.new
-        echo 'COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;' >> ${TARGET}.new
-        curl --silent --location "https://www.iana.org/assignments/enterprise-numbers.txt" | \
-          ieee/SMI/smi-to-enterprise-table.pl >> ${TARGET}.new
-        echo '\.' >> ${TARGET}.new
-        mv ${TARGET}.new ${TARGET}
-
-    - name: Download and Build Manufacturers Table
-      run: |
-        cpanm --local-lib=~/perl5 local::lib && eval $(perl -I ~/perl5/lib/perl5/ -Mlocal::lib)
-        export TARGET="ieee/MA/manufacturer.sql"
-        echo 'DELETE FROM "manufacturer";' > ${TARGET}.new
-        echo 'COPY "manufacturer" ("company", "abbrev", "base", "bits", "first", "last", "range") FROM STDIN;' >> ${TARGET}.new
-        curl --silent --location "https://standards-oui.ieee.org/oui/oui.csv" | \
-          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
-        curl --silent --location "https://standards-oui.ieee.org/oui28/mam.csv" | \
-          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
-        curl --silent --location "https://standards-oui.ieee.org/oui36/oui36.csv" | \
-          ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
         echo '\.' >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
 
