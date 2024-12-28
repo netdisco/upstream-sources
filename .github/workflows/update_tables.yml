@@ -68,7 +68,7 @@ jobs:
             curl -sL "https://mibbrowser.online/mibs_json/$mib.json" | \
               products/pysmi-json-to-products-table.py >> ${TARGET}.new.oids; \
           done
-        sort -t " " -k 1,1 ${TARGET}.new.oids | sort -t " " -k 1,1 -u >> ${TARGET}.new
+        sort -t "	" -k 1,1 ${TARGET}.new.oids | sort -t "	" -k 1,1 -u >> ${TARGET}.new
         rm ${TARGET}.new.oids
         echo '\.' >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
