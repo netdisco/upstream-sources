@@ -47,6 +47,7 @@ foreach my $row (@$aoh) {
     next if $row->{'Organization Name'} eq 'IEEE Registration Authority';
     next if exists $oui{ lc $row->{'Assignment'} };
 
+    $row->{'Organization Name'} =~ s/^\s+|\s+$//g;
     $row->{abbrev} = shorten($row->{'Organization Name'});
 
     $row->{base} = lc $row->{'Assignment'};
