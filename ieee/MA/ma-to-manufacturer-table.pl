@@ -58,7 +58,7 @@ foreach my $row (@$aoh) {
     $row->{last}  = $row->{'Assignment'} . 'F' x ( 12 - length( $row->{'Assignment'} ) );
 
     $row->{range} = '['. Math::BigInt->from_hex($row->{first})->as_int()
-      .','. Math::BigInt->from_hex($row->{last})->as_int() .')';
+      .','. Math::BigInt->from_hex($row->{last})->as_int() .']';
 
     $oui{ $row->{base} } = $row;
 }
@@ -78,7 +78,7 @@ foreach my $localbit (qw/2 6 a e/) {
       'last' => $strlast,
       'base' => $firstdigit.$localbit,
       'bits' => $bits,
-      'range' => '['. Math::BigInt->from_hex($strbase =~ s/://gr)->as_int() .','. Math::BigInt->from_hex($strlast =~ s/://gr)->as_int() .')' 
+      'range' => '['. Math::BigInt->from_hex($strbase =~ s/://gr)->as_int() .','. Math::BigInt->from_hex($strlast =~ s/://gr)->as_int() .']' 
     };
 
     #print "add local range $firstdigit$localbit:00:00:00:00:00 - $firstdigit$localbit:ff:ff:ff:ff:ff\n". Dumper($randrow);
