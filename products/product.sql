@@ -1,5 +1,5 @@
 DELETE FROM "product";
-COPY "product" ("oid", "mib", "leaf", "description") FROM STDIN;
+COPY "product" ("oid", "mib", "leaf", "descr") FROM STDIN;
 .1.3.6.1.4.1.43.45.1.10.3	A3COM-HUAWEI-ENTITY-VENDORTYPE-OID-MIB	h3cEntityVendorTypeOID	The private MIB includes the definition of the object identifiers on H3C products, which are used by the entPhysicalTable of the ENTITY-MIB to uniquely identify the type of each physical entry.
 .1.3.6.1.4.1.43.45.1.10.3.1	A3COM-HUAWEI-ENTITY-VENDORTYPE-OID-MIB	h3cEntityVendortypeObjects	
 .1.3.6.1.4.1.43.45.1.10.3.1.1	A3COM-HUAWEI-ENTITY-VENDORTYPE-OID-MIB	h3cevtOther	

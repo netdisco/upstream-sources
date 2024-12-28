@@ -58,7 +58,7 @@ jobs:
       run: |
         export TARGET="products/product.sql"
         echo 'DELETE FROM "product";' > ${TARGET}.new
-        echo 'COPY "product" ("oid", "mib", "leaf", "description") FROM STDIN;' >> ${TARGET}.new
+        echo 'COPY "product" ("oid", "mib", "leaf", "descr") FROM STDIN;' >> ${TARGET}.new
         curl -sL https://mibbrowser.online/mibdb_search.php?all=1 | \
           grep JUNIPER-CHASSIS-DEFINES | \
           grep -o 'mib=[^"]\+' | \
