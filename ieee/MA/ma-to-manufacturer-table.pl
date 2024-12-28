@@ -97,8 +97,8 @@ foreach my $base (sort keys %oui) {
       $row->{abbrev},
       $row->{base},
       $row->{bits},
-      lc (join ':', unpack("(a2)*", $row->{first})),
-      lc (join ':', unpack("(a2)*", $row->{last})),
+      $row->{first},
+      $row->{last},
       $row->{range};
 }
 
