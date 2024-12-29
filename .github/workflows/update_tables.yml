@@ -75,7 +75,7 @@ jobs:
 
     - name: Combine complete SQL
       run: |
-        cat ieee/OUI/oui.sql ieee/SMI/enterprise.sql ieee/MA/manufacturer.sql products/product.sql > netdisco-lookup.sql
+        cat ieee/OUI/oui.sql ieee/SMI/enterprise.sql ieee/MA/manufacturer.sql products/product.sql > bootstrap/netdisco-db.sql
 
     - name: Commit files
       run: |
