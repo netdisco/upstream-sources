@@ -22,6 +22,7 @@ foreach my $row (@lines) {
         $number = $row;
     }
     elsif ($row =~ m/^\s\s\S/) {
+        $row =~ s/^\s+|\s+$//g;
         print "$number\t$row\n";
     }
     else {
