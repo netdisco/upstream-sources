@@ -7361,15 +7361,15 @@ MA-L,880F62,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701
 MA-L,245D92,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,3034DB,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
 MA-L,5823BC,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,7410E0,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
+MA-L,A0E06D,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,903CDA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,3C9722,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800 "
+MA-L,04208A,浙江路川科技有限公司,仓前街道IT公园A幢805 杭州市 浙江省 CN 311121 
 MA-L,20F120,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,ECDD24,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,30BE29,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,7410E0,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,8449EE,Demant Enterprise A/S,Kongebakken 9 Smorum  DK 2765 
-MA-L,3C9722,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800 "
-MA-L,04208A,浙江路川科技有限公司,仓前街道IT公园A幢805 杭州市 浙江省 CN 311121 
-MA-L,A0E06D,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
-MA-L,903CDA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14637,6 +14637,8 @@ MA-L,701AD5,Avigilon Alta,"13428 Maxella Ave, #866 Marina Del Rey CA US 90292 "
 MA-L,4CB82C,"Cambridge Mobile Telematics, Inc.",314 Main Street Suite 1200 Cambridge MA US 02142 
 MA-L,A844AA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,D87D45,"Nicent Technology Co., Ltd.","F/4, BLK1, No.9 JinHeng 1st Rd. Hi-Tech Park Zhuhai Guangdong CN 519085 "
+MA-L,C8D959,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,9C5A8A,DJI BAIWANG TECHNOLOGY CO LTD,"Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street Shenzhen Guangdong CN 518057 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -18718,7 +18720,6 @@ MA-L,1CE165,Marshal Corporation,"Field Three Sotokanda Bldg. 5-3-6, Sotokanda, C
 MA-L,284121,"OptiSense Network, LLC",1308 10th Street Bridgeport TX US 76426 
 MA-L,38458C,MyCloud Technology corporation,"Room 705£¬Building F, Jiahua Building£¬ Beijing  CN 100085 "
 MA-L,10E4AF,"APR, LLC",4800 US HWY 280 West Opelika AL US 36801 
-MA-L,2C2D48,bct electronic GesmbH,Saalachstraße 86a Salzburg  AT 5020 
 MA-L,90F72F,"Phillips Machine & Welding Co., Inc. ",16125 E. Gale Ave. Industry CA US 91745 
 MA-L,F4EA67,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,28BA18,"NextNav, LLC",484 Oakmead Parkway Sunnyvale CA US 94085 
@@ -21958,11 +21959,14 @@ MA-L,5C8E10,TimeWatch Infocom Pvt. Ltd. ,"D-162, Okhla Indl. Area Phase -1  New 
 MA-L,005245,GANATECHWIN,"32-77, Deulseong-ro 9-gil, Goa-eup Gumi-si Gyeongsangbuk-do KR 39146 "
 MA-L,44C20C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,88948E,Max Weishaupt SE,Max-Weishaupt-Str. 14 Schwendi  DE 88475 
-MA-L,74ADCB,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,647B40,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
-MA-L,186041,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
-MA-L,A06B4A,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,3877CD,KOKUSAI DENKI Electric Inc.,"32 Miyuki-cho Kodaira-shi, Tokyo 187-8511, Japan Tokyo  Japan JP 187-8511 "
+MA-L,74ADCB,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,A06B4A,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+MA-L,186041,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,2C2D48,Commend International GmbH,Saalachstrasse 51 Salzburg Salzburg AT A-5020 
+MA-L,14335C,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,9888E0,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29353,6 +29357,7 @@ MA-L,F003BC,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,D4E5C9,Senao Networks Inc.,"No.500, Fusing 3rd RD., Kuei-Shan Dist. Taoyuan  Taiwan TW 333001 "
 MA-L,9C4B6B,iFlight Technology Company Limited,Science Park West Avenue Hongkon  HK 999077 
 MA-L,4C4968,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
+MA-L,D45B51,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "

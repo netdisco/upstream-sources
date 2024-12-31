@@ -62897,4 +62897,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62895	The Silent Trust CA
 62896	The Music Place
 62897	YUSUR Technology CO., LTD.
+62898	aktivistisch.de
+62899	Miatel LLC
+62900	Wurth Argentina S.A.
 \.
