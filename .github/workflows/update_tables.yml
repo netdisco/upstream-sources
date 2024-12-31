@@ -52,6 +52,7 @@ jobs:
         { cat ieee/MA/MA-L.csv; sed 1d ieee/MA/MA-M.csv; sed 1d ieee/MA/MA-S.csv; } | \
           ieee/MA/ma-to-manufacturer-table.pl >> ${TARGET}.new
         echo '\.' >> ${TARGET}.new
+        echo "UPDATE node SET oui = ( SELECT base FROM manufacturer WHERE ('x' || lpad( translate( mac::text, ':', ''), 16, '0')) ::bit(64) ::bigint <@ range LIMIT 1)" >> ${TARGET}.new
         mv ${TARGET}.new ${TARGET}
 
     - name: Download and Build Products Table
