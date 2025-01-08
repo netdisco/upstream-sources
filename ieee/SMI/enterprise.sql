@@ -265,7 +265,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 263	Seiko Instruments, Inc.
 264	RCE (Reseaux de Communication d'Entreprise S.A.)
 265	Xenocom, Inc.
-266	Nexans Deutschland Industries
+266	Aginode Germany GmbH
 267	Systech Computer Corporation
 268	Visual
 269	CSC Airline Solutions Denmark A/S
@@ -34813,7 +34813,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34811	Stollmann E+V GmbH
 34812	Mirifice Ltd
 34813	Multilink
-34814	Zpend Pty. Ltd.
+34814	OpenExpertise Pty. Ltd.
 34815	Angry Dog Business Sytems
 34816	Icon Power Solutions Pvt. Ltd.
 34817	Tamtron Oy
@@ -62900,4 +62900,27 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62898	aktivistisch.de
 62899	Miatel LLC
 62900	Wurth Argentina S.A.
+62901	zhiyan114
+62902	Tarik Hodzic
+62903	Anyum
+62904	Born Creativity, LLC.
+62905	AGMAH
+62906	littleroot
+62907	Stites & Harbison PLLC
+62908	Mount Horeb Area School District
+62909	Knorrie
+62910	Polizei Sachsen-Anhalt
+62911	Elment
+62912	HyperX Technologies
+62913	Medtronic Endoscopy OU
+62914	Ovavi Fluid
+62915	SZTFH
+62916	Thorsten Seiler
+62917	Utila Inc.
+62918	Victor Barbu
+62919	IP Technology Labs LLC
+62920	Redbrick
+62921	CONVEY INDIA PRIVATE LIMITED
+62922	Euroclear Bank
+62923	PNO Solutions Limited
 \.
