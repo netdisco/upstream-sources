@@ -35439,7 +35439,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35437	SERPRO - ServiÃ§o Federal de Processamento de Dados
 35438	ekom21 - KGRZ Hessen
 35439	App B.V.
-35440	Faivre et Mahon
+35440	ADNT SÃ rl
 35441	corporacion empresarial iunka
 35442	deZem GmbH
 35443	Cat Consulting, Inc
@@ -46088,7 +46088,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 46086	CONDIS SA
 46087	IT Scharschinger
 46088	SylvainÂ Girod
-46089	edisonlee55
+46089	yuna0x0
 46090	namotronic GmbH
 46091	ICM University of Warsaw
 46092	Ingenieurgesellschaft fÃ¼r GebÃ¤udeautomation mbH
@@ -62923,4 +62923,29 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62921	CONVEY INDIA PRIVATE LIMITED
 62922	Euroclear Bank
 62923	PNO Solutions Limited
+62924	Elmwood Local School District
+62925	Pacific Energy Inc
+62926	DEC
+62927	IE Tecnologia
+62928	Eloi Holding, Inc.
+62929	BIZMATTERS CONSULTING
+62930	Kopparfors Fastigheter AB
+62931	AKYTEC LLC
+62932	Heru, Inc.
+62933	Verkada
+62934	Acuvity Inc
+62935	Side Asset Management Ltd.
+62936	ForÃ§a AÃ©rea Portuguesa
+62937	Datamarx Inc. dba Primary
+62938	Cloud Artificial Intelligence Service Engineering (CAISE) Platform
+62939	Blueday Technology AS
+62940	Tayftech
+62941	OpenText
+62942	Echo Neurotechnologies
+62943	Jackery Inc.
+62944	Filigran
+62945	Secureist Inc.
+62946	Ever Fortune.AI Co., Ltd.
+62947	Waxwing Epitome Ltd
+62948	Ampacity Ltd
 \.
