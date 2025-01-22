@@ -26099,7 +26099,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26097	Linux Training NZ
 26098	King County
 26099	Shanghai Engineering Research Center for Broadband Technologies & Applications(B-STAR) Co., Ltd.
-26100	Cypress Integrated Systems, Inc.
+26100	FigureOne, Inc.
 26101	NUPPEAD - NÃºcleo de Pesquisa e Projetos em EducaÃ§Ã£o a DistÃ¢ncia
 26102	Advance Internet, Inc.
 26103	WOBCOM GmbH
@@ -44830,7 +44830,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44828	SilverNet Ltd.
 44829	Ganymed Pharmaceuticals AG
 44830	Trio Motion Technology Ltd
-44831	Nuvotex Solutions GmbH & Co KG
+44831	Nuvotex GmbH
 44832	Product Ventures Ltd
 44833	peteheilig.com
 44834	SYSTEMS AND TECHNOLOGIES, ZAO
@@ -62948,4 +62948,40 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62946	Ever Fortune.AI Co., Ltd.
 62947	Waxwing Epitome Ltd
 62948	Ampacity Ltd
+62949	Naomi Amethyst
+62950	Grzegorz ZieliÅski
+62951	matmair
+62952	RELICUS TECHNOLOGIES PRIVATE LIMITED
+62953	OOO NovoScript
+62954	STAMPEE
+62955	Ð­Ð¼Ð¸Ð»Ð¸Ð½Ðº (Emilink)
+62956	Koncado Ltd
+62957	Xpota Limited
+62958	Nantava
+62959	Copernik
+62960	FooBar LLC
+62961	Distril Ltd
+62962	Noctys Technologies, Inc.
+62963	SmartSite
+62964	RUBRICAE BUSINESS SOLUTIONS SL
+62965	Moelven NotnÃ¤s Ransby AB
+62966	Bambang Sugiharto
+62967	Business Cyber Guardian
+62968	NEWare Info Technology LTD
+62969	Agilence, Inc.
+62970	Usramambo
+62971	ZAO PATIO (PATIO, CJSC)
+62972	Goldtech Information
+62973	Kwizda Holding GmbH
+62974	OLLY IT
+62975	Novem Operations Inc
+62976	Documatica
+62977	Ingenieurgruppe IVV GmbH & Co. KG
+62978	MARU International Business Consulting
+62979	Hiconics Eco-energy Drive Technology Co.,LTD
+62980	Moelven ValÃ¥sen AB
+62981	Moelven VÃ¤nerply AB
+62982	Moelven EdanesÃ¥gen AB
+62983	Moelven ÃrjÃ¤ng SÃ¥g AB
+62984	Moelven DalatrÃ¤ AB
 \.
