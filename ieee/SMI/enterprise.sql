@@ -2087,7 +2087,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2085	Isolation Systems Limited
 2086	AVIDIA Systems, Inc.
 2087	Cidera-Mainstream Services
-2088	Radstone Technology Plc
+2088	Abaco Systems
 2089	Philips Business Communications
 2090	FMS Services
 2091	Supernova Communications
@@ -9677,7 +9677,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 9675	Grupo Financiero Uno
 9676	hottis.de
 9677	Hydriads
-9678	K.U. Leuven
+9678	KU Leuven
 9679	mBalance
 9680	SelectMetrics, Inc.
 9681	Mortgage Systems International
@@ -41015,7 +41015,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 41013	Miyagi University of Education
 41014	Attam Ltd
 41015	Intelligenza
-41016	HÃ©onium SARL
+41016	Kapsule Production SAS
 41017	EDV-Studio Stephan Konheiser
 41018	WaldiNetwork Ltd. Home
 41019	Axians
@@ -44774,7 +44774,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44772	West Genesee Central School District
 44773	Sistemas de Seguridade A1
 44774	Alameda Health Services
-44775	City Network International AB
+44775	Cleura AB
 44776	Hedberg Produtions
 44777	MEAZON SA
 44778	thinkindifferent.net
@@ -62984,4 +62984,39 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62982	Moelven EdanesÃ¥gen AB
 62983	Moelven ÃrjÃ¤ng SÃ¥g AB
 62984	Moelven DalatrÃ¤ AB
+62985	EVABANK
+62986	Tom Plant
+62987	DMS DivTel
+62988	BlueRock Security, Inc.
+62989	Mirion Technologies
+62990	ADT System
+62991	AppsHandler S.A.S.
+62992	Sunshine Quality Solutions
+62993	Praha1.net
+62994	Delairco
+62995	Hosenso GmbH und Co. KG
+62996	ZStudio
+62997	Gregory Smith
+62998	TOMAS CHOTT
+62999	Sitehop Ltd
+63000	MLVision
+63001	Neurology Center
+63002	Homerun Management AG
+63003	Eltronic Group
+63004	DÃ¶hler GmbH
+63005	Alerta d.o.o.
+63006	Southeastern Medical Oncology Center
+63007	The Performing, Endurance, and Artistic Athlete Clinic, PLLC
+63008	Aberia
+63009	Instituut van de Belastingadviseurs en de Accountants (ITAA)
+63010	MTower
+63011	Hansestadt LÃ¼beck
+63012	Andreas Resch
+63013	Automatio
+63014	The American University of Paris
+63015	Shape Technology Limited
+63016	OpenCloud GmbH
+63017	Canford Group Limited
+63018	CabalServices
+63019	Caritas Schweiz
 \.
