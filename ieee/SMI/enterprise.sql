@@ -4345,7 +4345,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4343	Boundless Technologies
 4344	Post-Industrial Training Institute
 4345	Thomas & Betts
-4346	Phoenix Contact GmbH & Co.
+4346	Phoenix Contact GmbH & Co. KG
 4347	MessageWise Inc.
 4348	Domino Computers Nigeria Ltd
 4349	LXCO Technologies AG
@@ -4373,7 +4373,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4371	Digital United Inc.
 4372	Softlink s.r.o.
 4373	Rivere Corporation
-4374	Motive Communications, Inc.
+4374	Motive Software Solutions
 4375	DT Research, Inc
 4376	Nettech Systems, Inc.
 4377	X-Point Communications
@@ -23428,7 +23428,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23426	Louverturenet
 23427	The Home Depot Supply MRO
 23428	NOC, School of Engineering, Morgan State University
-23429	Eurocis
+23429	Philippe Duveau
 23430	Lumigent Technologies, Inc.
 23431	CAMed
 23432	Packet Island Inc.
@@ -59017,7 +59017,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 59015	Transports BachÃ©
 59016	JusonTech
 59017	Beyondbell
-59018	STAXCON
+59018	Unassigned
 59019	ISSM Consulting SRL
 59020	Yashiro Laboratory
 59021	Miln
@@ -63019,4 +63019,38 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63017	Canford Group Limited
 63018	CabalServices
 63019	Caritas Schweiz
+63020	PECO Foods
+63021	TryBuy CZ
+63022	Block Solution
+63023	SREE Hotels
+63024	Computerservice ips
+63025	Tampa Electric Company
+63026	CatchSystems B.V.
+63027	Shi Qiu
+63028	GBT Solutions
+63029	Steve Gauvin
+63030	Trafficlight de MÃ©xico
+63031	HANAOKA MUSEN DENKI CO.,LTD
+63032	Engage USA
+63033	Axiado Corporation
+63034	Tecnologias Plexus S.L.
+63035	COFO e.K.
+63036	Onsite Women's Health
+63037	Limited liability company "Mobil Telecom"
+63038	Nikolay Zaytsev
+63039	vaettir.net
+63040	TOAD Consulting
+63041	Jimzy.ca
+63042	New Inergy GmbH
+63043	TMC, LLC
+63044	Harrison  County Health Department
+63045	Nlets
+63046	Yass Valley Council
+63047	UCDPN Freelance
+63048	The Cyber Security Clinic
+63049	Trevor
+63050	Roskilde Festival
+63051	Plugnotes
+63052	Agile Design Services Pvt Ltd
+63053	MIND Software
 \.
