@@ -44648,7 +44648,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44646	Emko Elektronik Sanayi ve Ticaret A.Å.
 44647	Argus der Presse AG
 44648	Manet Ltd
-44649	Alma Technologies
+44649	John K. Hinsdale
 44650	Hemotology Oncology Care of Northern VA
 44651	University of Detroit Jesuit High School and Academy
 44652	LaMarche Mfg. Company
@@ -63053,4 +63053,44 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63051	Plugnotes
 63052	Agile Design Services Pvt Ltd
 63053	MIND Software
+63054	Nplus S.r.l.
+63055	Cardiff Students' Union
+63056	Ø·Ø±Ø§Ø­Ø§Ù Ø§Ø±ØªØ¨Ø§Ø· Ù¾Ø§ÛØ¯Ø§Ø± Ø¢Ø±ÙÛÙ, (Tarahan Ertabat Payedar Arvin)
+63057	Barrientos FRG
+63058	InbisPlus
+63059	Qingdao Haier New Energy Technology Co.,Ltd.
+63060	FAFO e.V.
+63061	Michael Vostrikov
+63062	SpiderOak
+63063	Marceco LTD
+63064	Squared Paper
+63065	ESDEE BUSINESS MACHINE PVT.LTD.
+63066	MCS IT Distribution Limited
+63067	Wiremax s.r.o.
+63068	Klinikum der Stadt Ludwigshafen am Rhein gGmbH
+63069	MightyFalcon DMCC
+63070	Tilt Brand Solutions
+63071	DirecciÃ³n de GestiÃ³n de Resultados
+63072	Procescom
+63073	Scene Above, Inc.
+63074	Nexthop Systems Inc.
+63075	Peter DÃ¶hle Schiffahrts-KG
+63076	Credit Agricole Consumer Finance
+63077	NOREST-TELECOM
+63078	Slate
+63079	influence.money LLC
+63080	Nanjing Aozheng Information Technology Co., Ltd.
+63081	Unscrew IT
+63082	Bioinformation and DDBJ Center
+63083	ARQUUS DEFENSE
+63084	CryptoNext Security
+63085	FreeIPA.xyz
+63086	GDU_SIUS_OVESZI
+63087	Finanz Informatik GmbH & Co. KG
+63088	Pixop
+63089	Moose Interactive Entertainment LTD
+63090	JÃ¤rvi-Suomen Uittoyhdistys
+63091	elektronik-labor CARLS GmbH & Co. KG
+63092	"RUBICON WIRELESS COMMUNICATION" LLC
+63093	TJ Innovation
 \.
