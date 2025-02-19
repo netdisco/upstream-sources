@@ -11913,7 +11913,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 11911	Unassigned
 11912	NetMotion Wireless Inc.
 11913	netsys.com
-11914	National Information Infrastructure Development Institute
+11914	National Information Infrastructure Development Program
 11915	Oldring & Associates, Inc.
 11916	Pablix
 11917	PAR3 Communications
@@ -23095,7 +23095,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23093	ANAGRAN
 23094	Kuehne + Nagel (AG&Co.) KG
 23095	ClarioNet, s.r.o.
-23096	jminet.com
+23096	Unassigned
 23097	Municipalidad de Rosario
 23098	ServicePilot Technologies
 23099	NeTAMS
@@ -40151,7 +40151,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 40149	PFA Pension
 40150	Kenium
 40151	GÂ²mobility SA
-40152	Trimtab.ca
+40152	Unassigned
 40153	Abraxas Informatik AG
 40154	North-Caucasus Federal University
 40155	Groundhog Technologies
@@ -47091,7 +47091,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 47089	Ramp Holdings, Inc.
 47090	Exdev
 47091	Cancer and Blood Specialist of Northern Virginia, PC
-47092	Tangible Trade
+47092	Unassigned
 47093	DeMaTech HB
 47094	Sielte S.p.A.
 47095	Subtopia Ltd
@@ -63088,9 +63088,44 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63086	GDU_SIUS_OVESZI
 63087	Finanz Informatik GmbH & Co. KG
 63088	Pixop
-63089	Moose Interactive Entertainment LTD
+63089	Moose Interactive LTD
 63090	JÃ¤rvi-Suomen Uittoyhdistys
 63091	elektronik-labor CARLS GmbH & Co. KG
 63092	"RUBICON WIRELESS COMMUNICATION" LLC
 63093	TJ Innovation
+63094	3um
+63095	OpenSensie.org
+63096	Vidau Systems
+63097	Natech SA
+63098	KUNBUS GmbH
+63099	Riverside Partners LLC
+63100	Zoobook Systems LLC
+63101	TripleCyber Corp
+63102	Gauriganj Secondary School
+63103	ANSATRADINGMARKETING
+63104	Pemerintah Kota Magelang
+63105	Encore Property Group
+63106	Colway Industrial S.L.
+63107	OLT Cloud
+63108	Standards & Companies
+63109	Panasonic Avionics Corporation - Security Services
+63110	Data catcher
+63111	LexWell Foundation
+63112	St. John's Episcopal Hospital
+63113	mvtel
+63114	Western Seminary
+63115	Arizona Network
+63116	GREEN ESS PTY LTD
+63117	Info21, spol. s r.o.
+63118	URC systems
+63119	Altowav
+63120	Alexey D. Filimonov
+63121	OJV De Koornbeurs
+63122	Suxun Yunlian Technology
+63123	2p10 Internal Infrastructure
+63124	XAYONE SOLUTIONS
+63125	ABUS August Bremicker SÃ¶hne KG
+63126	CRT ELECTRONIC s.r.o.
+63127	Hallersrums SkogstjÃ¤nst AB
+63128	UNEXSYS Technologies, LLC
 \.
