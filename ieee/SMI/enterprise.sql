@@ -2865,7 +2865,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2863	Thomson Inc.
 2864	Digitel S/A Industria Eletronica
 2865	Nortel Networks - Optical Metro
-2866	Technical Insights
+2866	Virginia Computer Solutions, Inc
 2867	NKF Electronics
 2868	Glasshouse Business Networks B.V.
 2869	VSI Enterprises
@@ -15117,7 +15117,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 15115	Obvius LLc
 15116	Liberty IT Solutions
 15117	Protection One Inc.
-15118	Westar Energy
+15118	Evergy Inc
 15119	Fidelity National Information Solutions
 15120	CRCnet Wireless Network
 15121	Mentata Systems
@@ -29373,7 +29373,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 29371	CDC Arkhineo
 29372	BidiX
 29373	Dillet.net
-29374	elegiac
+29374	Unassigned
 29375	Selekron Microcontrol s.l.
 29376	TrÃ¤gerverein BÃ¼rgernetz Bamberg e.V.
 29377	Automate The Things, LLC
@@ -54797,7 +54797,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 54795	HiveMQ / dc-square GmbH
 54796	Department of Public Instruction - State of Wisconsin
 54797	New England Hernia Center LLC
-54798	Dalian Neusoft Education Technology Group Co., Ltd.
+54798	Neutech Group Limited
 54799	SVD Gmbh
 54800	Apparent Inc.
 54801	County of Kern
@@ -63128,4 +63128,34 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63126	CRT ELECTRONIC s.r.o.
 63127	Hallersrums SkogstjÃ¤nst AB
 63128	UNEXSYS Technologies, LLC
+63129	Ting Chen
+63130	HEISEY JEFFREY WALTER
+63131	INOVA DC
+63132	Universidad Carlos III de Madrid
+63133	MIO Partners
+63134	Abakus Plus d.o.o.
+63135	Chemicals Incorporated
+63136	Gruhn IT GmbH
+63137	Altowav AltoReach
+63138	ÃstgÃ¶ta Rundvirke
+63139	SkÃ¶vde Energi AB
+63140	Karlstads Energi AB
+63141	Nova banka AD Banja Luka
+63142	LUIS+ LTD
+63143	Axians SE
+63144	Michael Kieffer
+63145	Jedda Wignall
+63146	Einzelunternehmen Tassilo Philipp
+63147	Techniken Tecnologia
+63148	Community Bankshares, Inc.
+63149	BBSakura Networks, Inc.
+63150	Vinnergi AB
+63151	Oxyfi AB
+63152	Kristiansand kommune
+63153	Mark SchÃ¶ppler
+63154	Falkenberg Energi AB
+63155	Samet Keskin
+63156	OTGH Cloud Ltd
+63157	Bayross Technologies Inc.
+63158	siut.eu
 \.
