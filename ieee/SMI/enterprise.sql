@@ -26823,7 +26823,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26821	Agent Logic
 26822	Beijing Telestone Technology Co.,Ltd.
 26823	MarzhillStudios
-26824	Conseil GÃ©nÃ©ral de Meurthe et Moselle
+26824	Conseil DÃ©partemental de Meurthe et Moselle
 26825	netWerkz IT Solutions
 26826	Eon Corporation
 26827	ICT 4 Schools
@@ -34080,7 +34080,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34078	Informtekhnika & Communication, LLC
 34079	Axios Systems
 34080	rtCamp Solutions Pvt. Ltd.
-34081	INSYS Microelectronics GmbH
+34081	INSYS icom GmbH
 34082	CitySync Limited
 34083	Erayd LTD
 34084	Universidade Federal de Juiz de Fora
@@ -37459,7 +37459,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37457	Medas S.R.L.
 37458	QualCare, Inc
 37459	Yealink
-37460	Nova banka AD
+37460	Unassigned
 37461	Peakwork GmbH
 37462	COGISTICS, INC.
 37463	Leitwelt GmbH
@@ -55000,7 +55000,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 54998	Keramist
 54999	Uniview Europe B.V.
 55000	Local
-55001	eSite Power Systems AB
+55001	Clear blue technologies
 55002	Shenzhen Putianan Network Technology Co., Ltd.
 55003	mapway
 55004	Bridge Alliance
@@ -63158,4 +63158,51 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63156	OTGH Cloud Ltd
 63157	Bayross Technologies Inc.
 63158	siut.eu
+63159	Visser BV
+63160	PMA-275 Poway
+63161	Yukishige Yoshida
+63162	March Health Information Systems
+63163	SANJEEV PREMI
+63164	Waggeryd Cell AB
+63165	VÃ¤stervik MiljÃ¶ & Energi AB
+63166	Scanvaegt Systems AB
+63167	FUNDACIÃN COOLTURE4KIDS
+63168	UnipartRail
+63169	TEXAS DEPARTMENT OF DEVELOPMENT
+63170	XYC INDUSTRY CO.,LIMITED
+63171	C4 Energi AB
+63172	Brueterei Weser-Ems GmbH & Co. KG
+63173	Etcbase Yazilim
+63174	LD Invest
+63175	VAN BRAND
+63176	PNS Data GmbH
+63177	Sylvamo
+63178	Beijing Yukuan Technology Co., Ltd
+63179	University of Applied Sciences and Arts Dortmund
+63180	AffÃ¤rsverken Karlskrona AB
+63181	Kopjra S.R.L.
+63182	Ystad Energi AB
+63183	Prewen AG
+63184	Lenovo AIO
+63185	Brighton Fire Rescue District
+63186	OneWeb
+63187	Krycklinge Skog AB
+63188	Neoway Technology
+63189	MÃ¤larenergi AB
+63190	GÃ¤llivare Energi AB
+63191	Episcopal Health Services
+63192	FjÃ¤rrvÃ¤rme i Osby AB
+63193	Minnetonka Public School District (ISD 276)
+63194	Vissing & Company
+63195	Alexandre LEVAVASSEUR
+63196	Cumberland County CommuniCare Inc.
+63197	New York Oncology Hematology
+63198	Kraftringen AB
+63199	imID CJSC
+63200	IT Black
+63201	accesso
+63202	Erbe Elektromedizin
+63203	Mediactive Connect
+63204	Institut Camille Miret
+63205	EUTOP Group
 \.
