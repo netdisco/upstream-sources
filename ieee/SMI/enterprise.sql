@@ -6625,7 +6625,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 6623	servizi2000
 6624	Sauro Prosperi
 6625	PVT, a.s.
-6626	Tekotelecom S.p.A.
+6626	JMA Servizi e Industria srl
 6627	Telematica International B.V.
 6628	Juaben
 6629	ulticom
@@ -13681,7 +13681,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 13679	AltiGen Communications Inc.
 13680	Aviva Solutions Inc.
 13681	CHILDLOCK solutions
-13682	Ecole des Mines de Nantes
+13682	IMT Atlantique
 13683	EFTechnologies, Inc.
 13684	ELPROMA Elektronika
 13685	Faculty of Mathematics and Computer Science, Nicholas Copernicus University of Torun
@@ -14777,7 +14777,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 14775	Peak Internet
 14776	Mystic Coders
 14777	izenpe s.a.
-14778	GEV - Ecole des Mines
+14778	IMT Atlantique - Feue GEV
 14779	e2 Technology Inc.
 14780	KAEVEE
 14781	ThoughtPort Authority of Chicacgo
@@ -26768,7 +26768,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26766	.vantronix secure systems
 26767	Alcatel-Lucent TMC (formerly 'Alcatel SOC')
 26768	Comune di Rimini
-26769	Raytheon Technologies Corporation
+26769	RTX Corporation
 26770	Virtutility Ltd
 26771	Versaterm Inc.
 26772	The Royal Conservatoire
@@ -32027,7 +32027,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 32025	Primal Research
 32026	Sigma ITS Co., Ltd.
 32027	Edvina AB
-32028	Tray International Services and Administration (Pty) Ltd
+32028	Overseas Administration Management (Pty) Ltd
 32029	The Rafferty Patent Law Firm, PC
 32030	Commodity Systems
 32031	XITIJ INDIA
@@ -32287,7 +32287,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 32285	Sumavision Technologies Co.,Ltd
 32286	ACD Elektronik GmbH
 32287	Sattvik Software & Technology Resources, Ltd. Co.
-32288	eg-electronic GmbH
+32288	EIZO Technologies GmbH
 32289	CellSpotting.com
 32290	Records For Living, Inc.
 32291	lingzhou NetWork
@@ -35152,7 +35152,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35150	inno-networks
 35151	Raiffeisen Bank Aval
 35152	AvroRAID
-35153	Kynetics srl
+35153	Kynetics Inc
 35154	PowerShield Ltd.
 35155	IP Cube Co.,Ltd
 35156	Unbit
@@ -43450,7 +43450,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 43448	THEFEINERS.COM
 43449	mobilcom-debitel GmbH
 43450	Agencja Restrukturyzacji i Modernizacji Rolnictwa
-43451	Australian Customs and Border Protection Service
+43451	Department of Home Affairs
 43452	Pragtec inc.
 43453	Visiometrics S.L.
 43454	Wiccess
@@ -52670,7 +52670,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52668	jÃ¶rg giencke | internet design
 52669	Cognida Foundation
 52670	ZULU
-52671	arvato
+52671	Document Channel
 52672	Teleservice Bredband Skane AB
 52673	VPSign Ltd.
 52674	Schneider Electric / APC NetBotz
@@ -61033,7 +61033,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61031	PyCERR Beta
 61032	Oltiva Hong Kong Limited
 61033	Energie Service Biel/Bienne
-61034	EDEKA SÃ¼dbayern Handels Stiftung & Co. KG
+61034	Unassigned
 61035	Hotel President SA
 61036	SEE Critical Comms
 61037	Alzheimer's Research UK
@@ -63205,4 +63205,48 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63203	Mediactive Connect
 63204	Institut Camille Miret
 63205	EUTOP Group
+63206	Koninklijke Philips Electronics NV
+63207	Andrea Filoso
+63208	MOSTYLE CORPORATION
+63209	Vision Intelligence
+63210	Kreisfeuerwehrzentrale Paderborn
+63211	MÃ¤larenergi AB/ KungsÃ¶r
+63212	ANDRITZ Hydro GmbH
+63213	Ljusdal Energi
+63214	Reolink Innovation Limited
+63215	OpenSSL Corporation
+63216	SwissSign AG
+63217	Sarat Chandra Prasad Ginjupalli
+63218	PenAir Credit Union
+63219	AuthorityGate Inc
+63220	Biral AG
+63221	ABB Oy Distribution Solutions
+63222	PlumSpace
+63223	Mysecuregift
+63224	Tomasz Sobon
+63225	Anvilcraft
+63226	Telemach Slovenia
+63227	Business Card Associates
+63228	HANGZHOU INNOWAVEPOWER ELECTRIONIC TECHNOLOGY CO.,LTD
+63229	Spaeth Technologies
+63230	æä¹éè¡¨ (Long-lasting Clock)
+63231	Genelach DÃ¡il Cuinn Projectâ¢
+63232	Harman Connected Services Corporation India Pvt. Ltd.
+63233	Layer Acht Software GmbH & Co. KG
+63234	Compass Group Italia spa
+63235	Rivos Inc.
+63236	Hunan Zhizhou Technology Co., Ltd.
+63237	William Nyman
+63238	Kideco
+63239	Galactic Fortress 4
+63240	Silver IT Co.
+63241	Digity.Tech
+63242	CryptoStudio
+63243	BitTechnology
+63244	BRDSOFT SoluÃ§Ãµes de T.i e TelecomunicaÃ§Ãµes
+63245	mcnsky
+63246	æ·±å³ä¼è¾¾å¨ç§ææéå¬å¸ (Shenzhen Zhongdawei Technology Co., Ltd.)
+63247	Guangdong Showmac Technology Co., LTD
+63248	DER Security Corp
+63249	LLC Â«SPE Sensor TechnologiesÂ»
 \.
