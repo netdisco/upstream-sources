@@ -6100,7 +6100,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 6098	AvantGo
 6099	INTELLIDEN, Incorporated
 6100	Covalent Technologies, Inc.
-6101	Trend Micro Inc.
+6101	Trend Micro Incorporated
 6102	Integrated Research Ltd.
 6103	Al Rasheed
 6104	Cosmobridge Co., Ltd.
@@ -10733,7 +10733,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 10731	Silicon Energy
 10732	Symbidia Limited
 10733	The Mercury File System
-10734	TippingPoint Technologies
+10734	Trend Micro Inc. (formerly 'TippingPoint Technologies')
 10735	Unicorn Holding a.s.
 10736	University of Denver
 10737	Web Simulation
@@ -13032,7 +13032,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 13030	Monitor724 Services Limited
 13031	NextGen Business Solution, Inc. (previously 'neix,Inc.')
 13032	Reach Technologies
-13033	DragonBoxSolar
+13033	DragonBoxSolar npub13fux9a5rzcrty5van2uedgqwreszzzwl38qufmnftfpe922w675qlagzfe
 13034	SoftNet Systems, Inc.
 13035	Sonangol
 13036	Stradient, Inc.
@@ -23384,7 +23384,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23382	Swissphone Telecom AG
 23383	Azienda Sanitaria Locale N.4 Chiavarese
 23384	Aptus Elektronik AB
-23385	GESIS Gesellschaft fÃ¼r Informationssysteme mit beschraenkter Haftung (formerly 'GESIS mbH')
+23385	Salzgitter Digital Solutions GmbH
 23386	Pole Universitaire Leonard de Vinci
 23387	iXTS Software GmbH
 23388	Hypercube Systems Ltd.
@@ -35645,7 +35645,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35643	EURIX srl
 35644	Olson Consulting
 35645	ZiChen Tech. Co. Ltd.
-35646	Arca Technologies S.r.l.
+35646	SESAMI Technologies Srl
 35647	G4S Deposita (RF) (Pty) Ltd (formerly 'Deposita Systems (Pty) Ltd')
 35648	Broadband Solutions Technology Pty Ltd
 35649	Direct Payment Solutions Limited
@@ -61782,7 +61782,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61780	Beijing Maker 6 Technology Co. Ltd.
 61781	Noosphere Technologies, Inc.
 61782	Century Autogroep BV
-61783	RLKM UG
+61783	FabInfra
 61784	CIUSSS du Centre-Sud-de-l'Ãle-de-MontrÃ©al
 61785	ä¸æµ·æºä¸­ä¿¡æ¯ç§ææéå¬å¸ (Shanghai Yuanzhong Information Technology Co., Ltd.)
 61786	Medicalholodeck
@@ -63249,4 +63249,26 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63247	Guangdong Showmac Technology Co., LTD
 63248	DER Security Corp
 63249	LLC Â«SPE Sensor TechnologiesÂ»
+63250	Pontiro Ltd.
+63251	Kaon Ltd
+63252	Harlan Connor
+63253	Corning Community College
+63254	AUTOCRYPT Co., Ltd.
+63255	Massie Manufacturing Inc
+63256	Hans Johnson
+63257	Renesas Electronics Corporation
+63258	Pediatric Services of Springfield, Inc.
+63259	Beatson Clark Ltd
+63260	Datawaves
+63261	WCG Clinical
+63262	OndÅej HoÅ¡ek
+63263	DatACT GmbH
+63264	Timo Kokkonen
+63265	Sequans Communications
+63266	Neovox Technology
+63267	QSR System LLC
+63268	BenzGroup
+63269	Saskatchewan Rivers Public School Division
+63270	SA Power Networks
+63271	Kompaniya BIS
 \.
