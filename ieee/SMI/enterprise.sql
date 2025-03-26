@@ -62064,7 +62064,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62062	4MITECH
 62063	EasyNet Industry (Shenzhen) Co., Ltd
 62064	ÐÐÐ "ÐÐ¾Ð²ÑÐµ Ð¾Ð±Ð»Ð°ÑÐ½ÑÐµ ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸Ð¸" (LLC "New cloud technologies")
-62065	CommScope Italy SRL
+62065	ANDREW, an Amphenol company
 62066	CloudXP Ltd
 62067	ORLEN OddziaÅ Centralny PGNiG w Warszawie
 62068	Qasky
@@ -63271,4 +63271,46 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63269	Saskatchewan Rivers Public School Division
 63270	SA Power Networks
 63271	Kompaniya BIS
+63272	FotoFinder Systems GmbH
+63273	SOCIETE PUBLIQUE DE GESTION DE L'EAU
+63274	Clinton Bunch
+63275	Carver Automation Corporation
+63276	Microsoft WebXT Core Infra
+63277	Hotwire Communication
+63278	Koris 365 Limited
+63279	Aron Lennart Starnitzke
+63280	Renaissance Health, LLC
+63281	LÃ¥ngemÃ¥la Energileveranser AB
+63282	Funke IT
+63283	tvONE
+63284	Yoet Ltd
+63285	UherskohradiÅ¡Å¥skÃ¡ nemocnice a. s.
+63286	PESCO Information Technologies
+63287	Comesta
+63288	Potix Corporation
+63289	Delta Energy Systems (Germany) GmbH
+63290	Rumi Mind Health Inc
+63291	Beisheim Holding
+63292	Roselle Public Schools
+63293	Attacking-Lab
+63294	Chengdu Chengdian Feibo International Trading Co.Ltd
+63295	Wuertt. VWA e.V.
+63296	CONCON
+63297	Berghof Group GmbH
+63298	Baker Hughes Inteq GmbH
+63299	EMBLEM TECHNOLOGY TRANSFER GMBH
+63300	Qubic Trading LLC
+63301	Ken MacDougall
+63302	Mate Precision Technologies
+63303	The Health Care Authority for Baptist Health, An Affiliate of UAB Health System
+63304	AD-Secure.net
+63305	M-MOT Sp. z o. o.
+63306	Keydom Smart Technology Co., Ltd.
+63307	Notruf NÃ GmbH
+63308	Adam Schubert
+63309	Beautiful Card Corporation
+63310	Alekso
+63311	Alvicom Ltd.
+63312	Alternetivo
+63313	OID Hosting
 \.
