@@ -31792,7 +31792,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 31790	Compressus, Inc
 31791	County of Erie, New York
 31792	Adways Co., Ltd.
-31793	TEMIX S.p.A.
+31793	TEMIX Communications Srl
 31794	Infinovate, Inc.
 31795	Board of Regents of The University System of Georgia
 31796	IdentiPHI, Inc
@@ -41436,7 +41436,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 41434	Rolamasao.org
 41435	Smart Associates Limited
 41436	Allwin Telecommunication Co., Ltd.
-41437	Geoffroy Gramaize
+41437	CÃ©lestine Gramaize
 41438	HITOTEK Co.,Ltd
 41439	Moscow Psychological and Social University
 41440	Stabilus GmbH
@@ -44710,7 +44710,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44708	Crews Banking corporation
 44709	Xolphin B.V.
 44710	Ensured B.V.
-44711	T-Mobile Nederland BV
+44711	Odido Netherlands B.V.
 44712	AGAT-System
 44713	COSMOS-SOFT.net
 44714	Transdata
@@ -51833,7 +51833,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 51831	Gratika
 51832	EnableIT Technologies Ltd
 51833	Macadam
-51834	Atam Id
+51834	Atam Ltd
 51835	French-Road
 51836	SUNY College of Optometry
 51837	INVEST - M, Ltd.
@@ -63313,4 +63313,28 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63311	Alvicom Ltd.
 63312	Alternetivo
 63313	OID Hosting
+63314	Solvegio Limited
+63315	Patrick Michael McMahon
+63316	OyuAI
+63317	INNOLOGY SRL
+63318	IREM S.p.A.
+63319	PKI Quest
+63320	TextNow Inc.
+63321	WavTek Technologies, Inc
+63322	Office of the Indiana State Chemist
+63323	YoctoTech
+63324	IF LOGIC PTE. LTD
+63325	Elysium Security
+63326	Allen Kemp
+63327	GapAsk Inc.,
+63328	Emergent Solutions Inc.
+63329	Dictalabs LLC
+63330	MC2
+63331	Skydive
+63332	Magnus Roth
+63333	Altasec Co., Ltd
+63334	Elektrokem d.o.o.
+63335	Native American Church of Turtle Island
+63336	Frontgrade Technologies
+63337	Catalyst Brands
 \.
