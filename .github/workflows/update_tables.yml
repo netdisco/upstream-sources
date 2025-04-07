@@ -64,7 +64,7 @@ jobs:
           grep JUNIPER-CHASSIS-DEFINES | \
           grep -o 'mib=[^"]\+' | \
           sed -e 's/mib=//' | \
-          grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES)' | \
+          grep -hi -E '(product|oid|JUNIPER-CHASSIS-DEFINES|FORTINET-FORTIGATE-MIB)' | \
           while read mib; do \
             curl -sL "https://mibbrowser.online/mibs_json/$mib.json" | \
               products/pysmi-json-to-products-table.py >> ${TARGET}.new.oids; \
