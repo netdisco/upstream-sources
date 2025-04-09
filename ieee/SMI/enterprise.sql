@@ -1290,7 +1290,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 1288	ALFA, Inc.
 1289	TELEFONICA SISTEMAS, S.A.
 1290	Image Sciences, Inc.
-1291	MITSUBISHI ELECTRIC INFORMATION NETWORK CORPORATION (MIND)
+1291	Mitsubishi Electric Digital Innovation Corporation
 1292	Central Flow Management Unit
 1293	Woods Hole Oceanographic Institution
 1294	Raptor Systems, Inc.
@@ -12184,7 +12184,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 12182	Airbus Space and Defence (formerly 'Astrium (UK)')
 12183	Baldwin Hackett & Meeks, Inc.
 12184	Bamsco
-12185	Ben Nederland BV
+12185	Odido Netherlands B.V.
 12186	Compagnon AG
 12187	Direct Solutions
 12188	GBase Communications
@@ -28885,7 +28885,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 28883	Tomas Bata University in ZlÃ­n
 28884	Kucko
 28885	Spolka Inzynierow SIM Sp. z o.o.
-28886	OQ Chemicals
+28886	OXEA
 28887	LabSET
 28888	UXtechnology B.V.
 28889	NemoQ Iberica, S.A.
@@ -48081,7 +48081,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48079	NEC Enterprise Communication Technologies
 48080	Mimetrix Design Group
 48081	Max Planck Institute for Plant Breeding Research
-48082	Stromnetz Hamburg GmbH
+48082	Hamburger Energienetze GmbH
 48083	AIRESERVICES
 48084	Stewart Investors
 48085	RCCA COMMUNITY HEMATOLOGY ONOCOLGY
@@ -57730,7 +57730,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57728	InsidePacket Inc
 57729	Foundry Health - an IQVIA business
 57730	Brayden Automation Corporation
-57731	Zoom Video Communications, Inc.
+57731	Zoom Communications, Inc.
 57732	Frontier KZ LLP
 57733	Neom Company
 57734	Trasna Solutions Telecom Limited
@@ -63208,7 +63208,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63206	Koninklijke Philips Electronics NV
 63207	Andrea Filoso
 63208	MOSTYLE CORPORATION
-63209	Vision Intelligence
+63209	Vision Intelligence Pty Ltd
 63210	Kreisfeuerwehrzentrale Paderborn
 63211	MÃ¤larenergi AB/ KungsÃ¶r
 63212	ANDRITZ Hydro GmbH
@@ -63337,4 +63337,40 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63335	Native American Church of Turtle Island
 63336	Frontgrade Technologies
 63337	Catalyst Brands
+63338	Edgeofcali Media Network LLC
+63339	Merededdo
+63340	O'Jive, Inc
+63341	Bistum Osnabrueck
+63342	TEZ IT SOLUTIONS LLC
+63343	Sellox B.V.
+63344	BUREAU NATIONAL D'ETUDES TECHNIQUES ET DE DEVELOPPEMENT (BNETD)
+63345	SIGN8 AG
+63346	Shenzhen EverExceed Industrial Co., Ltd.
+63347	NOTIX DOO BEOGRAD
+63348	SJP INFORMATION SYSTEM COMPANY LIMITED
+63349	Telethings d.o.o.
+63350	IRE SOLUTION
+63351	ARCHIMEDIC Sp. z o.o. Sp.k.
+63352	Senegal NumÃ©rique (Senum)
+63353	EPSI
+63354	Nanjing Fiberhome StarrySky  Co., Ltd.
+63355	AM Smart Company Ltd
+63356	Medperion GmbH
+63357	Artillence Kft.
+63358	Revo Health
+63359	Blount County Schools
+63360	SkutskÃ¤rs TrÃ¤ AB
+63361	Design and Manufacturing Vista Electronics Pvt.Ltd.
+63362	Synot ICT
+63363	BackBenchDevs
+63364	HitchPin
+63365	accelerate
+63366	Leaf Tecnologia Ltda
+63367	Netzorange IT-Dienstleistungen GmbH
+63368	EPI Company SE
+63369	Miraworx
+63370	Shenzhen Daren High Tech Electronic Co., Ltd.
+63371	KassenÃ¤rztliche Vereinigung Hamburg
+63372	PER CLAESSON ÃKERI AB
+63373	Buderus Edelstahl GmbH
 \.

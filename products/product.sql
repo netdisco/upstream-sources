@@ -3238,6 +3238,893 @@ COPY "product" ("oid", "mib", "leaf", "descr") FROM STDIN;
 .1.3.6.1.4.1.11863.5.7	TPLINK-PRODUCTS-MIB	tplink-tlsg5428	
 .1.3.6.1.4.1.11863.5.8	TPLINK-PRODUCTS-MIB	tplink-tlsg3424p	
 .1.3.6.1.4.1.11863.5.9	TPLINK-PRODUCTS-MIB	tplink-tlsg5412f	
+.1.3.6.1.4.1.12356.101	FORTINET-FORTIGATE-MIB	fnFortiGateMib	Various non-monotonically increase Counter32 values have been changed to Gauge32.
+.1.3.6.1.4.1.12356.101.1	FORTINET-FORTIGATE-MIB	fgModel	
+.1.3.6.1.4.1.12356.101.1.10004	FORTINET-FORTIGATE-MIB	fgt1000C	
+.1.3.6.1.4.1.12356.101.1.10005	FORTINET-FORTIGATE-MIB	fgt1000D	
+.1.3.6.1.4.1.12356.101.1.1004	FORTINET-FORTIGATE-MIB	fgt100D	
+.1.3.6.1.4.1.12356.101.1.12000	FORTINET-FORTIGATE-MIB	fgt1200D	
+.1.3.6.1.4.1.12356.101.1.1401	FORTINET-FORTIGATE-MIB	fgt140D	
+.1.3.6.1.4.1.12356.101.1.1402	FORTINET-FORTIGATE-MIB	fgt140P	
+.1.3.6.1.4.1.12356.101.1.15000	FORTINET-FORTIGATE-MIB	fgt1500D	
+.1.3.6.1.4.1.12356.101.1.15001	FORTINET-FORTIGATE-MIB	fgt1500DT	
+.1.3.6.1.4.1.12356.101.1.2005	FORTINET-FORTIGATE-MIB	fgt200D	
+.1.3.6.1.4.1.12356.101.1.2006	FORTINET-FORTIGATE-MIB	fgt240D	
+.1.3.6.1.4.1.12356.101.1.2007	FORTINET-FORTIGATE-MIB	fgt200DP	
+.1.3.6.1.4.1.12356.101.1.2008	FORTINET-FORTIGATE-MIB	fgt240DP	
+.1.3.6.1.4.1.12356.101.1.2013	FORTINET-FORTIGATE-MIB	fgt280D	
+.1.3.6.1.4.1.12356.101.1.30	FORTINET-FORTIGATE-MIB	fgtVM64	
+.1.3.6.1.4.1.12356.101.1.30000	FORTINET-FORTIGATE-MIB	fgt3000D	
+.1.3.6.1.4.1.12356.101.1.3006	FORTINET-FORTIGATE-MIB	fgt3HD	
+.1.3.6.1.4.1.12356.101.1.304	FORTINET-FORTIGATE-MIB	fgt30D	
+.1.3.6.1.4.1.12356.101.1.305	FORTINET-FORTIGATE-MIB	fgt30DPOE	
+.1.3.6.1.4.1.12356.101.1.306	FORTINET-FORTIGATE-MIB	fgt30E	
+.1.3.6.1.4.1.12356.101.1.31	FORTINET-FORTIGATE-MIB	fgtVM64VMX	
+.1.3.6.1.4.1.12356.101.1.31000	FORTINET-FORTIGATE-MIB	fgt3100D	
+.1.3.6.1.4.1.12356.101.1.314	FORTINET-FORTIGATE-MIB	fwf30D	
+.1.3.6.1.4.1.12356.101.1.315	FORTINET-FORTIGATE-MIB	fwf30DPOE	
+.1.3.6.1.4.1.12356.101.1.316	FORTINET-FORTIGATE-MIB	fwf30E	
+.1.3.6.1.4.1.12356.101.1.32	FORTINET-FORTIGATE-MIB	fgtVM64SVM	
+.1.3.6.1.4.1.12356.101.1.32000	FORTINET-FORTIGATE-MIB	fgt3200D	
+.1.3.6.1.4.1.12356.101.1.32401	FORTINET-FORTIGATE-MIB	fgt3240C	
+.1.3.6.1.4.1.12356.101.1.36004	FORTINET-FORTIGATE-MIB	fgt3600C	
+.1.3.6.1.4.1.12356.101.1.37000	FORTINET-FORTIGATE-MIB	fgt3700D	
+.1.3.6.1.4.1.12356.101.1.37001	FORTINET-FORTIGATE-MIB	fgt3700DX	
+.1.3.6.1.4.1.12356.101.1.38101	FORTINET-FORTIGATE-MIB	fgt3810D	
+.1.3.6.1.4.1.12356.101.1.38150	FORTINET-FORTIGATE-MIB	fgt3815D	
+.1.3.6.1.4.1.12356.101.1.40	FORTINET-FORTIGATE-MIB	fgtVM64XEN	
+.1.3.6.1.4.1.12356.101.1.4004	FORTINET-FORTIGATE-MIB	fgt400D	
+.1.3.6.1.4.1.12356.101.1.45	FORTINET-FORTIGATE-MIB	fgtVM64AWS	
+.1.3.6.1.4.1.12356.101.1.46	FORTINET-FORTIGATE-MIB	fgtVM64AWSONDEMAND	
+.1.3.6.1.4.1.12356.101.1.50014	FORTINET-FORTIGATE-MIB	fgt5001C	
+.1.3.6.1.4.1.12356.101.1.50015	FORTINET-FORTIGATE-MIB	fgt5001D	
+.1.3.6.1.4.1.12356.101.1.5004	FORTINET-FORTIGATE-MIB	fgt500D	
+.1.3.6.1.4.1.12356.101.1.505	FORTINET-FORTIGATE-MIB	fgt50E	
+.1.3.6.1.4.1.12356.101.1.506	FORTINET-FORTIGATE-MIB	fwf50E	
+.1.3.6.1.4.1.12356.101.1.515	FORTINET-FORTIGATE-MIB	fgt51E	
+.1.3.6.1.4.1.12356.101.1.516	FORTINET-FORTIGATE-MIB	fwf51E	
+.1.3.6.1.4.1.12356.101.1.60	FORTINET-FORTIGATE-MIB	fgtVM64KVm	
+.1.3.6.1.4.1.12356.101.1.6003	FORTINET-FORTIGATE-MIB	fgt600C	
+.1.3.6.1.4.1.12356.101.1.6004	FORTINET-FORTIGATE-MIB	fgt600D	
+.1.3.6.1.4.1.12356.101.1.624	FORTINET-FORTIGATE-MIB	fgt60D	
+.1.3.6.1.4.1.12356.101.1.625	FORTINET-FORTIGATE-MIB	fgt60DPOE	
+.1.3.6.1.4.1.12356.101.1.626	FORTINET-FORTIGATE-MIB	fwf60D	
+.1.3.6.1.4.1.12356.101.1.627	FORTINET-FORTIGATE-MIB	fw60DP	
+.1.3.6.1.4.1.12356.101.1.628	FORTINET-FORTIGATE-MIB	fgtsoc3	
+.1.3.6.1.4.1.12356.101.1.630	FORTINET-FORTIGATE-MIB	fgt90D	
+.1.3.6.1.4.1.12356.101.1.631	FORTINET-FORTIGATE-MIB	fgt90DPOE	
+.1.3.6.1.4.1.12356.101.1.632	FORTINET-FORTIGATE-MIB	fwf90D	
+.1.3.6.1.4.1.12356.101.1.633	FORTINET-FORTIGATE-MIB	fwf90DPOE	
+.1.3.6.1.4.1.12356.101.1.634	FORTINET-FORTIGATE-MIB	fgt94DPOE	
+.1.3.6.1.4.1.12356.101.1.635	FORTINET-FORTIGATE-MIB	fgt98DPOE	
+.1.3.6.1.4.1.12356.101.1.636	FORTINET-FORTIGATE-MIB	fgt92D	
+.1.3.6.1.4.1.12356.101.1.637	FORTINET-FORTIGATE-MIB	fwf92D	
+.1.3.6.1.4.1.12356.101.1.638	FORTINET-FORTIGATE-MIB	fgr90D	
+.1.3.6.1.4.1.12356.101.1.643	FORTINET-FORTIGATE-MIB	fgr60D	
+.1.3.6.1.4.1.12356.101.1.70	FORTINET-FORTIGATE-MIB	fgtVM64HV	
+.1.3.6.1.4.1.12356.101.1.700	FORTINET-FORTIGATE-MIB	fgt70D	
+.1.3.6.1.4.1.12356.101.1.701	FORTINET-FORTIGATE-MIB	fgt70DPOE	
+.1.3.6.1.4.1.12356.101.1.800	FORTINET-FORTIGATE-MIB	fgt80C	
+.1.3.6.1.4.1.12356.101.1.8003	FORTINET-FORTIGATE-MIB	fgt800C	
+.1.3.6.1.4.1.12356.101.1.8004	FORTINET-FORTIGATE-MIB	fgt800D	
+.1.3.6.1.4.1.12356.101.1.801	FORTINET-FORTIGATE-MIB	fgt80CM	
+.1.3.6.1.4.1.12356.101.1.803	FORTINET-FORTIGATE-MIB	fgt80D	
+.1.3.6.1.4.1.12356.101.1.810	FORTINET-FORTIGATE-MIB	fwf80CM	
+.1.3.6.1.4.1.12356.101.1.811	FORTINET-FORTIGATE-MIB	fwf81CM	
+.1.3.6.1.4.1.12356.101.1.900	FORTINET-FORTIGATE-MIB	fg900D	
+.1.3.6.1.4.1.12356.101.1.90000	FORTINET-FORTIGATE-MIB	fosVM64	
+.1.3.6.1.4.1.12356.101.1.90060	FORTINET-FORTIGATE-MIB	fosVM64KVM	
+.1.3.6.1.4.1.12356.101.10	FORTINET-FORTIGATE-MIB	fgApplications	
+.1.3.6.1.4.1.12356.101.10.1	FORTINET-FORTIGATE-MIB	fgWebfilter	
+.1.3.6.1.4.1.12356.101.10.1.1	FORTINET-FORTIGATE-MIB	fgWebfilterInfo	
+.1.3.6.1.4.1.12356.101.10.1.2	FORTINET-FORTIGATE-MIB	fgWebfilterTables	
+.1.3.6.1.4.1.12356.101.10.1.2.1	FORTINET-FORTIGATE-MIB	fgWebfilterStatsTable	A table of Web-filter statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.1.2.1.1	FORTINET-FORTIGATE-MIB	fgWebfilterStatsEntry	Web-filter statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.1	FORTINET-FORTIGATE-MIB	fgWfHTTPBlocked	Number of HTTP sessions blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.2	FORTINET-FORTIGATE-MIB	fgWfHTTPSBlocked	Number of HTTPS sessions blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.3	FORTINET-FORTIGATE-MIB	fgWfHTTPURLBlocked	Number of HTTP URLs blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.4	FORTINET-FORTIGATE-MIB	fgWfHTTPSURLBlocked	Number of HTTPS URLs blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.5	FORTINET-FORTIGATE-MIB	fgWfActiveXBlocked	Number of ActiveX downloads blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.6	FORTINET-FORTIGATE-MIB	fgWfCookieBlocked	Number of HTTP Cookies blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.1.1.7	FORTINET-FORTIGATE-MIB	fgWfAppletBlocked	Number of Applets blocked by Web-filter since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2	FORTINET-FORTIGATE-MIB	fgFortiGuardStatsTable	A table of FortiGuard statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.1.2.2.1	FORTINET-FORTIGATE-MIB	fgFortiGuardStatsEntry	FortiGuard statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.1	FORTINET-FORTIGATE-MIB	fgFgWfHTTPExamined	Number of HTTP requests examined using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.10	FORTINET-FORTIGATE-MIB	fgFgWfHTTPSOverridden	Number of HTTPS requests overridden using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.2	FORTINET-FORTIGATE-MIB	fgFgWfHTTPSExamined	Number of HTTPS requests examined using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.3	FORTINET-FORTIGATE-MIB	fgFgWfHTTPAllowed	Number of HTTP requests allowed to proceed using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.4	FORTINET-FORTIGATE-MIB	fgFgWfHTTPSAllowed	Number of HTTPS requests allowed to proceed using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.5	FORTINET-FORTIGATE-MIB	fgFgWfHTTPBlocked	Number of HTTP requests blocked using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.6	FORTINET-FORTIGATE-MIB	fgFgWfHTTPSBlocked	Number of HTTPS requests blocked using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.7	FORTINET-FORTIGATE-MIB	fgFgWfHTTPLogged	Number of HTTP requests logged using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.8	FORTINET-FORTIGATE-MIB	fgFgWfHTTPSLogged	Number of HTTPS requests logged using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.1.2.2.1.9	FORTINET-FORTIGATE-MIB	fgFgWfHTTPOverridden	Number of HTTP requests overridden using FortiGuard since start-up
+.1.3.6.1.4.1.12356.101.10.100	FORTINET-FORTIGATE-MIB	fgAppProxyHTTP	
+.1.3.6.1.4.1.12356.101.10.100.1	FORTINET-FORTIGATE-MIB	fgApHTTPUpTime	HTTP proxy up-time (in seconds)
+.1.3.6.1.4.1.12356.101.10.100.2	FORTINET-FORTIGATE-MIB	fgApHTTPMemUsage	HTTP proxy memory usage (percentage of system total)
+.1.3.6.1.4.1.12356.101.10.100.3	FORTINET-FORTIGATE-MIB	fgApHTTPStatsTable	A table of HTTP Proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.100.3.1	FORTINET-FORTIGATE-MIB	fgApHTTPStatsEntry	HTTP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.100.3.1.1	FORTINET-FORTIGATE-MIB	fgApHTTPReqProcessed	Number of HTTP requests in this virtual domain processed by the HTTP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.100.4	FORTINET-FORTIGATE-MIB	fgApHTTPConnections	HTTP proxy current connections
+.1.3.6.1.4.1.12356.101.10.100.5	FORTINET-FORTIGATE-MIB	fgApHTTPMaxConnections	Maximum number of connections supported by HTTP proxy
+.1.3.6.1.4.1.12356.101.10.101	FORTINET-FORTIGATE-MIB	fgAppProxySMTP	
+.1.3.6.1.4.1.12356.101.10.101.1	FORTINET-FORTIGATE-MIB	fgApSMTPUpTime	SMTP Proxy up-time, in seconds
+.1.3.6.1.4.1.12356.101.10.101.2	FORTINET-FORTIGATE-MIB	fgApSMTPMemUsage	SMTP Proxy memory utilization (percentage of system total)
+.1.3.6.1.4.1.12356.101.10.101.3	FORTINET-FORTIGATE-MIB	fgApSMTPStatsTable	A table of SMTP proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.101.3.1	FORTINET-FORTIGATE-MIB	fgApSMTPStatsEntry	SMTP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.101.3.1.1	FORTINET-FORTIGATE-MIB	fgApSMTPReqProcessed	Number of requests in this virtual domain processed by the SMTP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.101.3.1.2	FORTINET-FORTIGATE-MIB	fgApSMTPSpamDetected	Number of spam detected in this virtual domain by the SMTP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.101.4	FORTINET-FORTIGATE-MIB	fgApSMTPConnections	SMTP proxy current connections
+.1.3.6.1.4.1.12356.101.10.101.5	FORTINET-FORTIGATE-MIB	fgApSMTPMaxConnections	Maximum number of connections supported by SMTP proxy
+.1.3.6.1.4.1.12356.101.10.102	FORTINET-FORTIGATE-MIB	fgAppProxyPOP3	
+.1.3.6.1.4.1.12356.101.10.102.1	FORTINET-FORTIGATE-MIB	fgApPOP3UpTime	Up-time of the POP3 proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.102.2	FORTINET-FORTIGATE-MIB	fgApPOP3MemUsage	Memory usage of the POP3 Proxy (percentage of system total)
+.1.3.6.1.4.1.12356.101.10.102.3	FORTINET-FORTIGATE-MIB	fgApPOP3StatsTable	A table of POP3 proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.102.3.1	FORTINET-FORTIGATE-MIB	fgApPOP3StatsEntry	Proxy pop3 statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.102.3.1.1	FORTINET-FORTIGATE-MIB	fgApPOP3ReqProcessed	Number of requests in this virtual domain processed by the POP3 proxy since start-up
+.1.3.6.1.4.1.12356.101.10.102.3.1.2	FORTINET-FORTIGATE-MIB	fgApPOP3SpamDetected	Number of spam detected in this virtual domain by the POP3 Proxy since start-up
+.1.3.6.1.4.1.12356.101.10.102.4	FORTINET-FORTIGATE-MIB	fgApPOP3Connections	POP3 proxy current connections
+.1.3.6.1.4.1.12356.101.10.102.5	FORTINET-FORTIGATE-MIB	fgApPOP3MaxConnections	Maximum number of connections supported by POP3 proxy
+.1.3.6.1.4.1.12356.101.10.103	FORTINET-FORTIGATE-MIB	fgAppProxyIMAP	
+.1.3.6.1.4.1.12356.101.10.103.1	FORTINET-FORTIGATE-MIB	fgApIMAPUpTime	Up-time of the IMAP proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.103.2	FORTINET-FORTIGATE-MIB	fgApIMAPMemUsage	Memory utilization of the IMAP Proxy (as a percentage of the system total)
+.1.3.6.1.4.1.12356.101.10.103.3	FORTINET-FORTIGATE-MIB	fgApIMAPStatsTable	A table of IMAP proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.103.3.1	FORTINET-FORTIGATE-MIB	fgApIMAPStatsEntry	IMAP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.103.3.1.1	FORTINET-FORTIGATE-MIB	fgApIMAPReqProcessed	Number of requests in this virtual domain processed by the IMAP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.103.3.1.2	FORTINET-FORTIGATE-MIB	fgApIMAPSpamDetected	Number of spam detected in this virtual domain by the IMAP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.103.4	FORTINET-FORTIGATE-MIB	fgApIMAPConnections	IMAP proxy current connections
+.1.3.6.1.4.1.12356.101.10.103.5	FORTINET-FORTIGATE-MIB	fgApIMAPMaxConnections	Maximum number of connections supported by IMAP proxy
+.1.3.6.1.4.1.12356.101.10.104	FORTINET-FORTIGATE-MIB	fgAppProxyNNTP	
+.1.3.6.1.4.1.12356.101.10.104.1	FORTINET-FORTIGATE-MIB	fgApNNTPUpTime	Up-time of the NNTP proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.104.2	FORTINET-FORTIGATE-MIB	fgApNNTPMemUsage	Memory utilization of the NNTP proxy, as a percentage of the system total
+.1.3.6.1.4.1.12356.101.10.104.3	FORTINET-FORTIGATE-MIB	fgApNNTPStatsTable	A table of NNTP proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.104.3.1	FORTINET-FORTIGATE-MIB	fgApNNTPStatsEntry	NNTP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.104.3.1.1	FORTINET-FORTIGATE-MIB	fgApNNTPReqProcessed	Number of requests in the virtual domain processed by the NNTP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.104.4	FORTINET-FORTIGATE-MIB	fgApNNTPConnections	NNTP proxy current connections
+.1.3.6.1.4.1.12356.101.10.104.5	FORTINET-FORTIGATE-MIB	fgApNNTPMaxConnections	Maximum number of connections supported by NNTP proxy
+.1.3.6.1.4.1.12356.101.10.105	FORTINET-FORTIGATE-MIB	fgAppProxyIM	
+.1.3.6.1.4.1.12356.101.10.105.1	FORTINET-FORTIGATE-MIB	fgApIMUpTime	Up-time of the IM proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.105.2	FORTINET-FORTIGATE-MIB	fgApIMMemUsage	IM Proxy memory usage, as a percentage of the system total
+.1.3.6.1.4.1.12356.101.10.105.3	FORTINET-FORTIGATE-MIB	fgApIMStatsTable	A table of IM proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.105.3.1	FORTINET-FORTIGATE-MIB	fgApIMStatsEntry	IM Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.105.3.1.1	FORTINET-FORTIGATE-MIB	fgApIMReqProcessed	Number of requests in this virtual domain processed by the IM proxy since start-up
+.1.3.6.1.4.1.12356.101.10.106	FORTINET-FORTIGATE-MIB	fgAppProxySIP	
+.1.3.6.1.4.1.12356.101.10.106.1	FORTINET-FORTIGATE-MIB	fgApSIPUpTime	Up-time of the SIP Proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.106.2	FORTINET-FORTIGATE-MIB	fgApSIPMemUsage	SIP Proxy memory utilization, as a percentage of the system total
+.1.3.6.1.4.1.12356.101.10.106.3	FORTINET-FORTIGATE-MIB	fgApSIPStatsTable	A table of SIP proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.106.3.1	FORTINET-FORTIGATE-MIB	fgApSIPStatsEntry	SIP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.106.3.1.1	FORTINET-FORTIGATE-MIB	fgApSIPClientReg	Number of client registration requests (Register and Options) in this virtual domain processed by the SIP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.106.3.1.2	FORTINET-FORTIGATE-MIB	fgApSIPCallHandling	Number of call handling requests (Invite, Ack, Bye, Cancel and Refer) in this virtual domain processed by the SIP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.106.3.1.3	FORTINET-FORTIGATE-MIB	fgApSIPServices	Number of service requests (Subscribe, notify and Message) in this virtual domain processed by the SIP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.106.3.1.4	FORTINET-FORTIGATE-MIB	fgApSIPOtherReq	Number of other sip requests in this virtual domain processed by the SIP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.107	FORTINET-FORTIGATE-MIB	fgAppScanUnit	
+.1.3.6.1.4.1.12356.101.10.107.1	FORTINET-FORTIGATE-MIB	fgAppSuNumber	The number of scan units in the fgAppSuStatsTable
+.1.3.6.1.4.1.12356.101.10.107.2	FORTINET-FORTIGATE-MIB	fgAppSuStatsTable	A table of scan unit statistics
+.1.3.6.1.4.1.12356.101.10.107.2.1	FORTINET-FORTIGATE-MIB	fgAppSuStatsEntry	Statistics entry for a particular scan unit
+.1.3.6.1.4.1.12356.101.10.107.2.1.1	FORTINET-FORTIGATE-MIB	fgAppSuIndex	Index that uniquely identifies a scan unit in the fgAppSuStatsTable
+.1.3.6.1.4.1.12356.101.10.107.2.1.2	FORTINET-FORTIGATE-MIB	fgAppSuFileScanned	Number of files scanned by this scan unit
+.1.3.6.1.4.1.12356.101.10.108	FORTINET-FORTIGATE-MIB	fgAppVoIP	
+.1.3.6.1.4.1.12356.101.10.108.1	FORTINET-FORTIGATE-MIB	fgAppVoIPStatsTable	A table of VoIP related statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.108.1.1	FORTINET-FORTIGATE-MIB	fgAppVoIPStatsEntry	VoIP statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.108.1.1.1	FORTINET-FORTIGATE-MIB	fgAppVoIPConn	The current number of VoIP connections on the virtual domain
+.1.3.6.1.4.1.12356.101.10.108.1.1.2	FORTINET-FORTIGATE-MIB	fgAppVoIPCallBlocked	Number of VoIP calls blocked (SIP Invites blocked and SCCP calls blocked) in this virtual domain
+.1.3.6.1.4.1.12356.101.10.109	FORTINET-FORTIGATE-MIB	fgAppP2P	
+.1.3.6.1.4.1.12356.101.10.109.1	FORTINET-FORTIGATE-MIB	fgAppP2PStatsTable	A table of P2P protocol related statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.109.1.1	FORTINET-FORTIGATE-MIB	fgAppP2PStatsEntry	P2P statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.109.1.1.1	FORTINET-FORTIGATE-MIB	fgAppP2PConnBlocked	Number of P2P connections blocked in this virtual domain
+.1.3.6.1.4.1.12356.101.10.109.2	FORTINET-FORTIGATE-MIB	fgAppP2PProtoTable	A table of peer to peer statistics per virtual domain per protocol. This table has a dependent expansion relationship with fgVdTable.
+.1.3.6.1.4.1.12356.101.10.109.2.1	FORTINET-FORTIGATE-MIB	fgAppP2PProtoEntry	P2P statistics for a particular virtual domain and protocol
+.1.3.6.1.4.1.12356.101.10.109.2.1.1	FORTINET-FORTIGATE-MIB	fgAppP2PProtEntProto	P2P protocol this row of statistics is for, within the specified virtual domain
+.1.3.6.1.4.1.12356.101.10.109.2.1.2	FORTINET-FORTIGATE-MIB	fgAppP2PProtEntBytes	Number of bytes transferred through this virtual domain on this P2P protocol since last reset
+.1.3.6.1.4.1.12356.101.10.109.2.1.3	FORTINET-FORTIGATE-MIB	fgAppP2PProtoEntLastReset	Time elapsed since the corresponding fgAppP2PProtEntBytes was last reset to 0.
+.1.3.6.1.4.1.12356.101.10.110	FORTINET-FORTIGATE-MIB	fgAppIM	
+.1.3.6.1.4.1.12356.101.10.110.1	FORTINET-FORTIGATE-MIB	fgAppIMStatsTable	A table of instant messaging statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.110.1.1	FORTINET-FORTIGATE-MIB	fgAppIMStatsEntry	IM statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.110.1.1.1	FORTINET-FORTIGATE-MIB	fgAppIMMessages	Total number of IM messages processed in this virtual domain
+.1.3.6.1.4.1.12356.101.10.110.1.1.2	FORTINET-FORTIGATE-MIB	fgAppIMFileTransfered	Number of files transferred through this virtual domain
+.1.3.6.1.4.1.12356.101.10.110.1.1.3	FORTINET-FORTIGATE-MIB	fgAppIMFileTxBlocked	Number of blocked file transfers in this virtual domain
+.1.3.6.1.4.1.12356.101.10.110.1.1.4	FORTINET-FORTIGATE-MIB	fgAppIMConnBlocked	Number of connections blocked in this virtual domain
+.1.3.6.1.4.1.12356.101.10.111	FORTINET-FORTIGATE-MIB	fgAppProxyFTP	
+.1.3.6.1.4.1.12356.101.10.111.1	FORTINET-FORTIGATE-MIB	fgApFTPUpTime	Up-time of the FTP proxy, in seconds
+.1.3.6.1.4.1.12356.101.10.111.2	FORTINET-FORTIGATE-MIB	fgApFTPMemUsage	FTP Proxy memory utilization, as a percentage of the system total
+.1.3.6.1.4.1.12356.101.10.111.3	FORTINET-FORTIGATE-MIB	fgApFTPStatsTable	A table of FTP proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.111.3.1	FORTINET-FORTIGATE-MIB	fgApFTPStatsEntry	FTP Proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.111.3.1.1	FORTINET-FORTIGATE-MIB	fgApFTPReqProcessed	Number of requests in this virtual domain processed by the FTP proxy since start-up
+.1.3.6.1.4.1.12356.101.10.111.4	FORTINET-FORTIGATE-MIB	fgApFTPConnections	FTP proxy current connections
+.1.3.6.1.4.1.12356.101.10.111.5	FORTINET-FORTIGATE-MIB	fgApFTPMaxConnections	Maximum number of connections supported by FTP proxy
+.1.3.6.1.4.1.12356.101.10.112	FORTINET-FORTIGATE-MIB	fgAppExplicitProxy	
+.1.3.6.1.4.1.12356.101.10.112.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyInfo	
+.1.3.6.1.4.1.12356.101.10.112.1.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyUpTime	Explicit proxy up-time (in seconds)
+.1.3.6.1.4.1.12356.101.10.112.1.2	FORTINET-FORTIGATE-MIB	fgExplicitProxyMemUsage	Explicit proxy memory usage (percentage of system total)
+.1.3.6.1.4.1.12356.101.10.112.1.3	FORTINET-FORTIGATE-MIB	fgExplicitProxyRequests	Explicit proxy total number of requests
+.1.3.6.1.4.1.12356.101.10.112.2	FORTINET-FORTIGATE-MIB	fgExplicitProxyStatsTable	A table of explicit proxy statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.112.2.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyStatsEntry	Explicit proxy statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.112.2.1.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyUsers	Number of current users in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.2.1.2	FORTINET-FORTIGATE-MIB	fgExplicitProxySessions	Number of current sessions in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3	FORTINET-FORTIGATE-MIB	fgExplicitProxyScanStatsTable	A table of explicit proxy scan statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyScanStatsEntry	Explicit proxy scan statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyScanStatsDisp	Disposition of an Scan result
+.1.3.6.1.4.1.12356.101.10.112.3.1.10	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchUnsupported	Number of archives with unsupported (but known) formats in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.11	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchBomb	Number of archive bombs in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.12	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchCorrupt	Number of corrupt archives in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.2	FORTINET-FORTIGATE-MIB	fgExplicitProxyVirus	Number of viruses in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.3	FORTINET-FORTIGATE-MIB	fgExplicitProxyBannedWords	Number of elements containing banned words in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.4	FORTINET-FORTIGATE-MIB	fgExplicitProxyPolicy	Number of elements violating policy (e.g. filename or file type rules) in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.5	FORTINET-FORTIGATE-MIB	fgExplicitProxyOversized	Number of oversized elements in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.6	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchNest	Number of too deeply nested archives in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.7	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchSize	Number of archives that decompress beyond size limit in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.8	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchEncrypted	Number of encrypted archives in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.3.1.9	FORTINET-FORTIGATE-MIB	fgExplicitProxyArchMultiPart	Number of multipart archives in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4	FORTINET-FORTIGATE-MIB	fgExplicitProxyScriptStatsTable	A table of explicit proxy script filtering statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyScriptStatsEntry	Explicit proxy scan statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredApplets	Number of applets filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.2	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredActiveX	Number of ActiveX scripts filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.3	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredJScript	Number of JScript scripts filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.4	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredJS	Number of JavaScript scripts filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.5	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredVBS	Number of Visual Basic scripts filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.4.1.6	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilteredOthScript	Number of other types of scripts filtered from files in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilterStatsTable	A table of explicit proxy policy enforcement statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyFilterStatsEntry	Explicit proxy scan statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.1	FORTINET-FORTIGATE-MIB	fgExplicitProxyBlockedDLP	Number of elements blocked due to Data Leak Prevention in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.2	FORTINET-FORTIGATE-MIB	fgExplicitProxyBlockedConType	Number of elements blocked due to Content-Type filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.3	FORTINET-FORTIGATE-MIB	fgExplicitProxyExaminedURLs	Number of URLs inspected against filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.4	FORTINET-FORTIGATE-MIB	fgExplicitProxyAllowedURLs	Number of URLs explicitly allowed due to filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.5	FORTINET-FORTIGATE-MIB	fgExplicitProxyBlockedURLs	Number of URLs explicitly blocked due to filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.6	FORTINET-FORTIGATE-MIB	fgExplicitProxyLoggedURLs	Number of URLs logged due to filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.112.5.1.7	FORTINET-FORTIGATE-MIB	fgExplicitProxyOverriddenURLs	Number of URLs access due to overriding filtering rules in this virtual domain
+.1.3.6.1.4.1.12356.101.10.113	FORTINET-FORTIGATE-MIB	fgAppWebCache	
+.1.3.6.1.4.1.12356.101.10.113.1	FORTINET-FORTIGATE-MIB	fgWebCacheInfo	
+.1.3.6.1.4.1.12356.101.10.113.1.1	FORTINET-FORTIGATE-MIB	fgWebCacheRAMLimit	RAM available for web cache in bytes
+.1.3.6.1.4.1.12356.101.10.113.1.2	FORTINET-FORTIGATE-MIB	fgWebCacheRAMUsage	RAM used by web cache in bytes
+.1.3.6.1.4.1.12356.101.10.113.1.3	FORTINET-FORTIGATE-MIB	fgWebCacheRAMHits	Number of cache hits in RAM since last reset
+.1.3.6.1.4.1.12356.101.10.113.1.4	FORTINET-FORTIGATE-MIB	fgWebCacheRAMMisses	Number of cache misses in RAM since last reset
+.1.3.6.1.4.1.12356.101.10.113.1.5	FORTINET-FORTIGATE-MIB	fgWebCacheRequests	Number of cache requests since last reset
+.1.3.6.1.4.1.12356.101.10.113.1.6	FORTINET-FORTIGATE-MIB	fgWebCacheBypass	Number of cache bypasses since last reset
+.1.3.6.1.4.1.12356.101.10.113.1.7	FORTINET-FORTIGATE-MIB	fgWebCacheUpTime	Web Cache up-time (in seconds)
+.1.3.6.1.4.1.12356.101.10.113.2	FORTINET-FORTIGATE-MIB	fgWebCacheDiskStatsTable	A table of the Web Cache disk statistics per disk
+.1.3.6.1.4.1.12356.101.10.113.2.1	FORTINET-FORTIGATE-MIB	fgWebCacheDiskStatsEntry	The Web Cache disk statistics for a particular disk
+.1.3.6.1.4.1.12356.101.10.113.2.1.1	FORTINET-FORTIGATE-MIB	fgWebCacheDisk	The Web Cache Disk index
+.1.3.6.1.4.1.12356.101.10.113.2.1.2	FORTINET-FORTIGATE-MIB	fgWebCacheDiskLimit	The about of storage (in bytes) available for the Web Cache on a particular disk
+.1.3.6.1.4.1.12356.101.10.113.2.1.3	FORTINET-FORTIGATE-MIB	fgWebCacheDiskUsage	The about of storage (in bytes) in use by the Web Cache on a paricular disk
+.1.3.6.1.4.1.12356.101.10.113.2.1.4	FORTINET-FORTIGATE-MIB	fgWebCacheDiskHits	The number of cache hits on a paricular disk
+.1.3.6.1.4.1.12356.101.10.113.2.1.5	FORTINET-FORTIGATE-MIB	fgWebCacheDiskMisses	The number of cache misses on a paricular disk
+.1.3.6.1.4.1.12356.101.10.114	FORTINET-FORTIGATE-MIB	fgAppWanOpt	
+.1.3.6.1.4.1.12356.101.10.114.1	FORTINET-FORTIGATE-MIB	fgWanOptInfo	
+.1.3.6.1.4.1.12356.101.10.114.1.1	FORTINET-FORTIGATE-MIB	fgMemCacheLimit	RAM available for mem cache in bytes
+.1.3.6.1.4.1.12356.101.10.114.1.2	FORTINET-FORTIGATE-MIB	fgMemCacheUsage	RAM used by mem cache in bytes
+.1.3.6.1.4.1.12356.101.10.114.1.3	FORTINET-FORTIGATE-MIB	fgMemCacheHits	Number of hits in mem cache since last reset
+.1.3.6.1.4.1.12356.101.10.114.1.4	FORTINET-FORTIGATE-MIB	fgMemCacheMisses	Number of misses in mem cache since last reset
+.1.3.6.1.4.1.12356.101.10.114.1.5	FORTINET-FORTIGATE-MIB	fgByteCacheRAMLimit	RAM available for byte cache in bytes
+.1.3.6.1.4.1.12356.101.10.114.1.6	FORTINET-FORTIGATE-MIB	fgByteCacheRAMUsage	RAM used by byte cache in bytes
+.1.3.6.1.4.1.12356.101.10.114.1.7	FORTINET-FORTIGATE-MIB	fgWanOptUpTime	Wan Optimization up-time (in seconds)
+.1.3.6.1.4.1.12356.101.10.114.2	FORTINET-FORTIGATE-MIB	fgWanOptStatsTable	A table of WAN optimization statistics per virtual domain
+.1.3.6.1.4.1.12356.101.10.114.2.1	FORTINET-FORTIGATE-MIB	fgWanOptStatsEntry	WAN optimization statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.10.114.2.1.1	FORTINET-FORTIGATE-MIB	fgWanOptTunnels	Number of current tunnels in this virtual domain
+.1.3.6.1.4.1.12356.101.10.114.2.1.2	FORTINET-FORTIGATE-MIB	fgWanOptLANBytesIn	Number of bytes received on LAN in last 5 seconds
+.1.3.6.1.4.1.12356.101.10.114.2.1.3	FORTINET-FORTIGATE-MIB	fgWanOptLANBytesOut	Number of bytes sent on LAN in last 5 seconds
+.1.3.6.1.4.1.12356.101.10.114.2.1.4	FORTINET-FORTIGATE-MIB	fgWanOptWANBytesIn	Number of bytes received on WAN in last 5 seconds
+.1.3.6.1.4.1.12356.101.10.114.2.1.5	FORTINET-FORTIGATE-MIB	fgWanOptWANBytesOut	Number of bytes sent on WAN in last 5 seconds
+.1.3.6.1.4.1.12356.101.10.114.3	FORTINET-FORTIGATE-MIB	fgWanOptHistoryStatsTable	A table of the WAN optimization history per protocol
+.1.3.6.1.4.1.12356.101.10.114.3.1	FORTINET-FORTIGATE-MIB	fgWanOptHistoryStatsEntry	The WAN optimization history for a particular virtual domain, period, and protocol
+.1.3.6.1.4.1.12356.101.10.114.3.1.1	FORTINET-FORTIGATE-MIB	fgWanOptHistPeriod	WAN optimization table entry period
+.1.3.6.1.4.1.12356.101.10.114.3.1.2	FORTINET-FORTIGATE-MIB	fgWanOptProtocol	Internal WAN optimization table entry protocol
+.1.3.6.1.4.1.12356.101.10.114.3.1.3	FORTINET-FORTIGATE-MIB	fgWanOptReductionRate	Reduction rate achieved by WAN optimization
+.1.3.6.1.4.1.12356.101.10.114.3.1.4	FORTINET-FORTIGATE-MIB	fgWanOptLanTraffic	Number of bytes transferred via LAN
+.1.3.6.1.4.1.12356.101.10.114.3.1.5	FORTINET-FORTIGATE-MIB	fgWanOptWanTraffic	Number of bytes transferred via WAN
+.1.3.6.1.4.1.12356.101.10.114.4	FORTINET-FORTIGATE-MIB	fgWanOptTrafficStatsTable	A table of the WAN optimization traffic for a particular virtual domain and protocol
+.1.3.6.1.4.1.12356.101.10.114.4.1	FORTINET-FORTIGATE-MIB	fgWanOptTrafficStatsEntry	The WAN optimization history for a particular protocol
+.1.3.6.1.4.1.12356.101.10.114.4.1.1	FORTINET-FORTIGATE-MIB	fgWanOptLanInTraffic	Amount of traffic received from the LAN by WAN optimization
+.1.3.6.1.4.1.12356.101.10.114.4.1.2	FORTINET-FORTIGATE-MIB	fgWanOptLanOutTraffic	Amount of traffic sent to the LAN by WAN optimization
+.1.3.6.1.4.1.12356.101.10.114.4.1.3	FORTINET-FORTIGATE-MIB	fgWanOptWanInTraffic	Amount of traffic received from the WAN by WAN optimization
+.1.3.6.1.4.1.12356.101.10.114.4.1.4	FORTINET-FORTIGATE-MIB	fgWanOptWanOutTraffic	Amount of traffic sent to the WAN by WAN optimization
+.1.3.6.1.4.1.12356.101.10.114.5	FORTINET-FORTIGATE-MIB	fgWanOptDiskStatsTable	A table of the Web Cache disk statistics per disk
+.1.3.6.1.4.1.12356.101.10.114.5.1	FORTINET-FORTIGATE-MIB	fgWanOptDiskStatsEntry	The Web Cache disk statistics for a particular disk
+.1.3.6.1.4.1.12356.101.10.114.5.1.1	FORTINET-FORTIGATE-MIB	fgWanOptDisk	The Web Cache Disk index
+.1.3.6.1.4.1.12356.101.10.114.5.1.2	FORTINET-FORTIGATE-MIB	fgWanOptDiskLimit	The about of storage (in bytes) available for the Web Cache on a particular disk
+.1.3.6.1.4.1.12356.101.10.114.5.1.3	FORTINET-FORTIGATE-MIB	fgWanOptDiskUsage	The about of storage (in bytes) in use by the Web Cache on a paricular disk
+.1.3.6.1.4.1.12356.101.10.114.5.1.4	FORTINET-FORTIGATE-MIB	fgWanOptDiskHits	The number of cache hits on a paricular disk
+.1.3.6.1.4.1.12356.101.10.114.5.1.5	FORTINET-FORTIGATE-MIB	fgWanOptDiskMisses	The number of cache misses on a paricular disk
+.1.3.6.1.4.1.12356.101.100	FORTINET-FORTIGATE-MIB	fgMibConformance	
+.1.3.6.1.4.1.12356.101.100.1	FORTINET-FORTIGATE-MIB	fgFmTrapGroup	Traps are intended for use in conjunction with a FortiManager.
+.1.3.6.1.4.1.12356.101.100.10	FORTINET-FORTIGATE-MIB	fgAppServicesObjectGroup	Objects pertaining to application proxy and filtering services on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.100	FORTINET-FORTIGATE-MIB	fgMIBCompliance	The compliance statement for the application MIB.
+.1.3.6.1.4.1.12356.101.100.101	FORTINET-FORTIGATE-MIB	fg300MibCompliance	The backwards compatibility compliance statement for the application MIB.
+.1.3.6.1.4.1.12356.101.100.102	FORTINET-FORTIGATE-MIB	fgObsolteMIBCompliance	The compliance statement for the application MIB.
+.1.3.6.1.4.1.12356.101.100.11	FORTINET-FORTIGATE-MIB	fgAntivirusObjectGroup	Objects pertaining to Antivirus services on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.12	FORTINET-FORTIGATE-MIB	fgIntrusionPrevtObjectGroup	Objects pertaining to Intrusion Detection and Prevention services on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.13	FORTINET-FORTIGATE-MIB	fgWebFilterObjectGroup	Objects pertaining to FortiGate and FortiGuard based Web Filtering services on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.14	FORTINET-FORTIGATE-MIB	fgVirtualDomainObjectGroup	Objects pertaining to Virtual Firewall Domain services on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.15	FORTINET-FORTIGATE-MIB	fgAdministrationObjectGroup	Objects pertaining to the administration of FortiGate device.
+.1.3.6.1.4.1.12356.101.100.16	FORTINET-FORTIGATE-MIB	fgIntfObjectGroup	Objects pertaining to the interface table of FortiGate device.
+.1.3.6.1.4.1.12356.101.100.17	FORTINET-FORTIGATE-MIB	fgProcessorsObjectGroup	Objects pertaining to the processors table of FortiGate device.
+.1.3.6.1.4.1.12356.101.100.18	FORTINET-FORTIGATE-MIB	fgNotificationGroup	Notifications that can be generated from a FortiGate device.
+.1.3.6.1.4.1.12356.101.100.19	FORTINET-FORTIGATE-MIB	fgObsoleteNotificationsGroup	Notifications that have been deprecated, but may still be generated by older models.
+.1.3.6.1.4.1.12356.101.100.2	FORTINET-FORTIGATE-MIB	fgFmTrapObjectGroup	These objects support the traps in the fgFmTrapGroup.
+.1.3.6.1.4.1.12356.101.100.20	FORTINET-FORTIGATE-MIB	fgExplicitProxyObjectGroup	Objects pertaining to explicit proxy
+.1.3.6.1.4.1.12356.101.100.21	FORTINET-FORTIGATE-MIB	fgWebCacheObjectGroup	Objects pertaining to explicit proxy, web cache and wan optimization.
+.1.3.6.1.4.1.12356.101.100.22	FORTINET-FORTIGATE-MIB	fgWanOptObjectGroup	Objects pertaining to explicit proxy, web cache and wan optimization.
+.1.3.6.1.4.1.12356.101.100.23	FORTINET-FORTIGATE-MIB	fgObsoleteAppServicesObjectGroup	Objects that have been deprecated, but may still be generated by older models.
+.1.3.6.1.4.1.12356.101.100.24	FORTINET-FORTIGATE-MIB	fgSystemAdvancedObjectGroup	Objects pertaining to the system advanced status of the device.
+.1.3.6.1.4.1.12356.101.100.25	FORTINET-FORTIGATE-MIB	fgWcObjectGroup	Objects pertaining to wireless controller.
+.1.3.6.1.4.1.12356.101.100.26	FORTINET-FORTIGATE-MIB	fgFcObjectGroup	Objects pertaining to switch controller.
+.1.3.6.1.4.1.12356.101.100.27	FORTINET-FORTIGATE-MIB	fgServerLoadBalanceObjectGroup	Objects pertaining to Server Load Balance group.
+.1.3.6.1.4.1.12356.101.100.28	FORTINET-FORTIGATE-MIB	fgUsbportsObjectGroup	Objects pertaining to USB device group.
+.1.3.6.1.4.1.12356.101.100.29	FORTINET-FORTIGATE-MIB	fgUsbModemInfoGroup	Objects pertaining to USB Modem Info group.
+.1.3.6.1.4.1.12356.101.100.3	FORTINET-FORTIGATE-MIB	fgAdminObjectGroup	Objects pertaining to administration of the device.
+.1.3.6.1.4.1.12356.101.100.30	FORTINET-FORTIGATE-MIB	fgDeviceObjectGroup	Objects pertaining to Device group.
+.1.3.6.1.4.1.12356.101.100.31	FORTINET-FORTIGATE-MIB	fgLinkMonitorGroup	Objects pertaining to Link Monitor group.
+.1.3.6.1.4.1.12356.101.100.4	FORTINET-FORTIGATE-MIB	fgSystemObjectGroup	Objects pertaining to the system status of the device.
+.1.3.6.1.4.1.12356.101.100.5	FORTINET-FORTIGATE-MIB	fgSoftwareObjectGroup	Objects pertaining to software running on the device.
+.1.3.6.1.4.1.12356.101.100.6	FORTINET-FORTIGATE-MIB	fgHwSensorsObjectGroup	Object pertaining to hardware sensors on the device.
+.1.3.6.1.4.1.12356.101.100.7	FORTINET-FORTIGATE-MIB	fgHighAvailabilityObjectGroup	Objects pertaining to High Availability clustering of FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.8	FORTINET-FORTIGATE-MIB	fgVpnObjectGroup	Objects pertaining to Virtual Priavet Networking on FortiGate devices.
+.1.3.6.1.4.1.12356.101.100.9	FORTINET-FORTIGATE-MIB	fgFirewallObjectGroup	Objects pertaining to Firewall functionality on FortiGate devices.
+.1.3.6.1.4.1.12356.101.11	FORTINET-FORTIGATE-MIB	fgInetProto	
+.1.3.6.1.4.1.12356.101.11.1	FORTINET-FORTIGATE-MIB	fgInetProtoInfo	
+.1.3.6.1.4.1.12356.101.11.2	FORTINET-FORTIGATE-MIB	fgInetProtoTables	
+.1.3.6.1.4.1.12356.101.11.2.1	FORTINET-FORTIGATE-MIB	fgIpSessTable	Information on the IP sessions active on the device
+.1.3.6.1.4.1.12356.101.11.2.1.1	FORTINET-FORTIGATE-MIB	fgIpSessEntry	Information on a specific session, including source and destination
+.1.3.6.1.4.1.12356.101.11.2.1.1.1	FORTINET-FORTIGATE-MIB	fgIpSessIndex	An index value that uniquely identifies an IP session within the fgIpSessTable
+.1.3.6.1.4.1.12356.101.11.2.1.1.2	FORTINET-FORTIGATE-MIB	fgIpSessProto	The protocol the session is using (IP, TCP, UDP, etc.)
+.1.3.6.1.4.1.12356.101.11.2.1.1.3	FORTINET-FORTIGATE-MIB	fgIpSessFromAddr	Source IP address (IPv4 only) of the session
+.1.3.6.1.4.1.12356.101.11.2.1.1.4	FORTINET-FORTIGATE-MIB	fgIpSessFromPort	Source port number (UDP and TCP only) of the session
+.1.3.6.1.4.1.12356.101.11.2.1.1.5	FORTINET-FORTIGATE-MIB	fgIpSessToAddr	Destination IP address (IPv4 only) of the session
+.1.3.6.1.4.1.12356.101.11.2.1.1.6	FORTINET-FORTIGATE-MIB	fgIpSessToPort	Destination Port number (UDP and TCP only) of the session
+.1.3.6.1.4.1.12356.101.11.2.1.1.7	FORTINET-FORTIGATE-MIB	fgIpSessExp	Number of seconds remaining before the session expires (if idle)
+.1.3.6.1.4.1.12356.101.11.2.1.1.8	FORTINET-FORTIGATE-MIB	fgIpSessVdom	Virtual domain the session is part of. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.11.2.2	FORTINET-FORTIGATE-MIB	fgIpSessStatsTable	IP session statistics table
+.1.3.6.1.4.1.12356.101.11.2.2.1	FORTINET-FORTIGATE-MIB	fgIpSessStatsEntry	IP session statistics on a virtual domain
+.1.3.6.1.4.1.12356.101.11.2.2.1.1	FORTINET-FORTIGATE-MIB	fgIpSessNumber	Current number of sessions on the virtual domain
+.1.3.6.1.4.1.12356.101.11.2.3	FORTINET-FORTIGATE-MIB	fgIp6SessStatsTable	IP session statistics table
+.1.3.6.1.4.1.12356.101.11.2.3.1	FORTINET-FORTIGATE-MIB	fgIp6SessStatsEntry	IP session statistics on a virtual domain
+.1.3.6.1.4.1.12356.101.11.2.3.1.1	FORTINET-FORTIGATE-MIB	fgIp6SessNumber	Current number of sessions on the virtual domain
+.1.3.6.1.4.1.12356.101.12	FORTINET-FORTIGATE-MIB	fgVpn	
+.1.3.6.1.4.1.12356.101.12.1	FORTINET-FORTIGATE-MIB	fgVpnInfo	
+.1.3.6.1.4.1.12356.101.12.1.1	FORTINET-FORTIGATE-MIB	fgVpnTunnelUpCount	The number of IPsec VPN tunnels with at least one SA
+.1.3.6.1.4.1.12356.101.12.2	FORTINET-FORTIGATE-MIB	fgVpnTables	
+.1.3.6.1.4.1.12356.101.12.2.1	FORTINET-FORTIGATE-MIB	fgVpnDialupTable	Dial-up VPN peers information
+.1.3.6.1.4.1.12356.101.12.2.1.1	FORTINET-FORTIGATE-MIB	fgVpnDialupEntry	Dial-up VPN peer info
+.1.3.6.1.4.1.12356.101.12.2.1.1.1	FORTINET-FORTIGATE-MIB	fgVpnDialupIndex	An index value that uniquely identifies an VPN dial-up peer within the fgVpnDialupTable
+.1.3.6.1.4.1.12356.101.12.2.1.1.10	FORTINET-FORTIGATE-MIB	fgVpnDialupOutOctets	Number of bytes sent on tunnel since instantiation.
+.1.3.6.1.4.1.12356.101.12.2.1.1.2	FORTINET-FORTIGATE-MIB	fgVpnDialupGateway	Remote gateway IP address of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.3	FORTINET-FORTIGATE-MIB	fgVpnDialupLifetime	Tunnel life time (seconds) of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.4	FORTINET-FORTIGATE-MIB	fgVpnDialupTimeout	Time before the next key exchange (seconds) of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.5	FORTINET-FORTIGATE-MIB	fgVpnDialupSrcBegin	Remote subnet address of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.6	FORTINET-FORTIGATE-MIB	fgVpnDialupSrcEnd	Remote subnet mask of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.7	FORTINET-FORTIGATE-MIB	fgVpnDialupDstAddr	Local subnet address of the tunnel
+.1.3.6.1.4.1.12356.101.12.2.1.1.8	FORTINET-FORTIGATE-MIB	fgVpnDialupVdom	Virtual domain tunnel is part of. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.12.2.1.1.9	FORTINET-FORTIGATE-MIB	fgVpnDialupInOctets	Number of bytes received on tunnel since instantiation.
+.1.3.6.1.4.1.12356.101.12.2.2	FORTINET-FORTIGATE-MIB	fgVpnTunTable	Table of non-dial-up IPsec VPN tunnels
+.1.3.6.1.4.1.12356.101.12.2.2.1	FORTINET-FORTIGATE-MIB	fgVpnTunEntry	Tunnel VPN peer info
+.1.3.6.1.4.1.12356.101.12.2.2.1.1	FORTINET-FORTIGATE-MIB	fgVpnTunEntIndex	An index value that uniquely identifies a VPN tunnel within the fgVpnTunTable
+.1.3.6.1.4.1.12356.101.12.2.2.1.10	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorSrcPort	Source selector port
+.1.3.6.1.4.1.12356.101.12.2.2.1.11	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorDstBeginIp	Beginning of address range of destination selector
+.1.3.6.1.4.1.12356.101.12.2.2.1.12	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorDstEndIp	End of address range of destination selector
+.1.3.6.1.4.1.12356.101.12.2.2.1.13	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorDstPort	Destination selector port
+.1.3.6.1.4.1.12356.101.12.2.2.1.14	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorProto	Protocol number for selector
+.1.3.6.1.4.1.12356.101.12.2.2.1.15	FORTINET-FORTIGATE-MIB	fgVpnTunEntLifeSecs	Lifetime of tunnel in seconds, if time based lifetime used
+.1.3.6.1.4.1.12356.101.12.2.2.1.16	FORTINET-FORTIGATE-MIB	fgVpnTunEntLifeBytes	Lifetime of tunnel in bytes, if byte transfer based lifetime used
+.1.3.6.1.4.1.12356.101.12.2.2.1.17	FORTINET-FORTIGATE-MIB	fgVpnTunEntTimeout	Timeout of tunnel in seconds
+.1.3.6.1.4.1.12356.101.12.2.2.1.18	FORTINET-FORTIGATE-MIB	fgVpnTunEntInOctets	Number of bytes received on tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.19	FORTINET-FORTIGATE-MIB	fgVpnTunEntOutOctets	Number of bytes sent out on tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.2	FORTINET-FORTIGATE-MIB	fgVpnTunEntPhase1Name	Descriptive name of phase1 configuration for the tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.20	FORTINET-FORTIGATE-MIB	fgVpnTunEntStatus	Current status of tunnel (up or down)
+.1.3.6.1.4.1.12356.101.12.2.2.1.21	FORTINET-FORTIGATE-MIB	fgVpnTunEntVdom	Virtual domain the tunnel is part of. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.12.2.2.1.3	FORTINET-FORTIGATE-MIB	fgVpnTunEntPhase2Name	Descriptive name of phase2 configuration for the tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.4	FORTINET-FORTIGATE-MIB	fgVpnTunEntRemGwyIp	IP of remote gateway used by the tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.5	FORTINET-FORTIGATE-MIB	fgVpnTunEntRemGwyPort	port of remote gateway used by tunnel, if UDP
+.1.3.6.1.4.1.12356.101.12.2.2.1.6	FORTINET-FORTIGATE-MIB	fgVpnTunEntLocGwyIp	IP of local gateway used by the tunnel
+.1.3.6.1.4.1.12356.101.12.2.2.1.7	FORTINET-FORTIGATE-MIB	fgVpnTunEntLocGwyPort	port of local gateway used by tunnel, if UDP
+.1.3.6.1.4.1.12356.101.12.2.2.1.8	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorSrcBeginIp	Beginning of address range of source selector
+.1.3.6.1.4.1.12356.101.12.2.2.1.9	FORTINET-FORTIGATE-MIB	fgVpnTunEntSelectorSrcEndIp	End of address range of source selector
+.1.3.6.1.4.1.12356.101.12.2.3	FORTINET-FORTIGATE-MIB	fgVpnSslStatsTable	SSL VPN statistics table
+.1.3.6.1.4.1.12356.101.12.2.3.1	FORTINET-FORTIGATE-MIB	fgVpnSslStatsEntry	SSL VPN statistics for a given virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.1	FORTINET-FORTIGATE-MIB	fgVpnSslState	Whether SSL-VPN is enabled on this virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.2	FORTINET-FORTIGATE-MIB	fgVpnSslStatsLoginUsers	The current number of users logged in through SSL-VPN tunnels in the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.3	FORTINET-FORTIGATE-MIB	fgVpnSslStatsMaxUsers	The maximum number of total users that can be logged in at any one time on the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.4	FORTINET-FORTIGATE-MIB	fgVpnSslStatsActiveWebSessions	The current number of active SSL web sessions in the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.5	FORTINET-FORTIGATE-MIB	fgVpnSslStatsMaxWebSessions	The maximum number of active SSL web sessions at any one time within the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.6	FORTINET-FORTIGATE-MIB	fgVpnSslStatsActiveTunnels	The current number of active SSL tunnels in the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.3.1.7	FORTINET-FORTIGATE-MIB	fgVpnSslStatsMaxTunnels	The maximum number of active SSL tunnels at any one time in the virtual domain
+.1.3.6.1.4.1.12356.101.12.2.4	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelTable	A list of active SSL VPN tunnel entries
+.1.3.6.1.4.1.12356.101.12.2.4.1	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelEntry	An SSL VPN tunnel entry containing connection information and traffic statistics
+.1.3.6.1.4.1.12356.101.12.2.4.1.1	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelIndex	An index value that uniquely identifies an active SSL VPN tunnel within the fgVpnSslTunnelTable
+.1.3.6.1.4.1.12356.101.12.2.4.1.2	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelVdom	The index of the virtual domain this tunnel belongs to. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.12.2.4.1.3	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelUserName	The user name used to authenticate the tunnel
+.1.3.6.1.4.1.12356.101.12.2.4.1.4	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelSrcIp	The source IP address of this tunnel
+.1.3.6.1.4.1.12356.101.12.2.4.1.5	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelIp	The connection IP address of this tunnel
+.1.3.6.1.4.1.12356.101.12.2.4.1.6	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelUpTime	The up-time of this tunnel in seconds
+.1.3.6.1.4.1.12356.101.12.2.4.1.7	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelBytesIn	The number of incoming bytes of L2 traffic through this tunnel since it was established
+.1.3.6.1.4.1.12356.101.12.2.4.1.8	FORTINET-FORTIGATE-MIB	fgVpnSslTunnelBytesOut	The number of outgoing bytes of L2 traffic through this tunnel since it was established
+.1.3.6.1.4.1.12356.101.12.3	FORTINET-FORTIGATE-MIB	fgVpnTrapObjects	
+.1.3.6.1.4.1.12356.101.12.3.2	FORTINET-FORTIGATE-MIB	fgVpnTrapLocalGateway	Local gateway IP address. Used in VPN related traps.
+.1.3.6.1.4.1.12356.101.12.3.3	FORTINET-FORTIGATE-MIB	fgVpnTrapRemoteGateway	Remote gateway IP address. Used in VPN related traps.
+.1.3.6.1.4.1.12356.101.12.3.4	FORTINET-FORTIGATE-MIB	fgVpnTrapPhase1Name	Name of the phase 1. Used in VPN related traps.
+.1.3.6.1.4.1.12356.101.13	FORTINET-FORTIGATE-MIB	fgHighAvailability	
+.1.3.6.1.4.1.12356.101.13.1	FORTINET-FORTIGATE-MIB	fgHaInfo	
+.1.3.6.1.4.1.12356.101.13.1.1	FORTINET-FORTIGATE-MIB	fgHaSystemMode	High-availability mode (Standalone, A-A or A-P)
+.1.3.6.1.4.1.12356.101.13.1.2	FORTINET-FORTIGATE-MIB	fgHaGroupId	HA cluster group ID device is configured for
+.1.3.6.1.4.1.12356.101.13.1.3	FORTINET-FORTIGATE-MIB	fgHaPriority	HA clustering priority of the device (default = 127)
+.1.3.6.1.4.1.12356.101.13.1.4	FORTINET-FORTIGATE-MIB	fgHaOverride	Status of a master override flag
+.1.3.6.1.4.1.12356.101.13.1.5	FORTINET-FORTIGATE-MIB	fgHaAutoSync	Configuration of an automatic configuration synchronization (enabled or disabled)
+.1.3.6.1.4.1.12356.101.13.1.6	FORTINET-FORTIGATE-MIB	fgHaSchedule	Load-balancing schedule of cluster (in A-A mode)
+.1.3.6.1.4.1.12356.101.13.1.7	FORTINET-FORTIGATE-MIB	fgHaGroupName	HA cluster group name
+.1.3.6.1.4.1.12356.101.13.2	FORTINET-FORTIGATE-MIB	fgHaTables	
+.1.3.6.1.4.1.12356.101.13.2.1	FORTINET-FORTIGATE-MIB	fgHaStatsTable	Some useful statistics for all members of a cluster. This table is also available in standalone mode.
+.1.3.6.1.4.1.12356.101.13.2.1.1	FORTINET-FORTIGATE-MIB	fgHaStatsEntry	Statistics for a particular HA cluster's unit
+.1.3.6.1.4.1.12356.101.13.2.1.1.1	FORTINET-FORTIGATE-MIB	fgHaStatsIndex	An index value that uniquely identifies an unit in the HA Cluster
+.1.3.6.1.4.1.12356.101.13.2.1.1.10	FORTINET-FORTIGATE-MIB	fgHaStatsAvCount	Number of anti-virus events triggered on the specified cluster member since start-up
+.1.3.6.1.4.1.12356.101.13.2.1.1.11	FORTINET-FORTIGATE-MIB	fgHaStatsHostname	Host name of the specified cluster member
+.1.3.6.1.4.1.12356.101.13.2.1.1.12	FORTINET-FORTIGATE-MIB	fgHaStatsSyncStatus	Current HA Sync status
+.1.3.6.1.4.1.12356.101.13.2.1.1.13	FORTINET-FORTIGATE-MIB	fgHaStatsSyncDatimeSucc	Date and time of last successful sync
+.1.3.6.1.4.1.12356.101.13.2.1.1.14	FORTINET-FORTIGATE-MIB	fgHaStatsSyncDatimeUnsucc	Date and time of last unsuccessful sync
+.1.3.6.1.4.1.12356.101.13.2.1.1.15	FORTINET-FORTIGATE-MIB	fgHaStatsGlobalChecksum	Current HA global checksum value
+.1.3.6.1.4.1.12356.101.13.2.1.1.16	FORTINET-FORTIGATE-MIB	fgHaStatsMasterSerial	Serial number of master during the last synch attempt (successful of not)
+.1.3.6.1.4.1.12356.101.13.2.1.1.2	FORTINET-FORTIGATE-MIB	fgHaStatsSerial	Serial number of the HA cluster member for this row
+.1.3.6.1.4.1.12356.101.13.2.1.1.3	FORTINET-FORTIGATE-MIB	fgHaStatsCpuUsage	CPU usage of the specified cluster member (percentage)
+.1.3.6.1.4.1.12356.101.13.2.1.1.4	FORTINET-FORTIGATE-MIB	fgHaStatsMemUsage	Memory usage of the specified cluster member (percentage)
+.1.3.6.1.4.1.12356.101.13.2.1.1.5	FORTINET-FORTIGATE-MIB	fgHaStatsNetUsage	Network bandwidth usage of specified cluster member (kbps)
+.1.3.6.1.4.1.12356.101.13.2.1.1.6	FORTINET-FORTIGATE-MIB	fgHaStatsSesCount	Current session count of specified cluster member
+.1.3.6.1.4.1.12356.101.13.2.1.1.7	FORTINET-FORTIGATE-MIB	fgHaStatsPktCount	Number of packets processed by the specified cluster member since start-up
+.1.3.6.1.4.1.12356.101.13.2.1.1.8	FORTINET-FORTIGATE-MIB	fgHaStatsByteCount	Number of bytes processed by the specified cluster member since start-up
+.1.3.6.1.4.1.12356.101.13.2.1.1.9	FORTINET-FORTIGATE-MIB	fgHaStatsIdsCount	Number of IDS/IPS events triggered on the specified cluster member since start-up
+.1.3.6.1.4.1.12356.101.13.3	FORTINET-FORTIGATE-MIB	fgHaTrapObjects	
+.1.3.6.1.4.1.12356.101.13.3.1	FORTINET-FORTIGATE-MIB	fgHaTrapMemberSerial	Serial number of an HA cluster member. Used to identify the origin of a trap when a cluster is configured.
+.1.3.6.1.4.1.12356.101.14	FORTINET-FORTIGATE-MIB	fgWc	
+.1.3.6.1.4.1.12356.101.14.1	FORTINET-FORTIGATE-MIB	fgWcTrapObjects	
+.1.3.6.1.4.1.12356.101.14.1.1	FORTINET-FORTIGATE-MIB	fgWcApVdom	Virtual domain the wtp is part of
+.1.3.6.1.4.1.12356.101.14.1.2	FORTINET-FORTIGATE-MIB	fgWcApSerial	Serial number of the wtp
+.1.3.6.1.4.1.12356.101.14.1.3	FORTINET-FORTIGATE-MIB	fgWcApName	Name of the wtp
+.1.3.6.1.4.1.12356.101.14.2	FORTINET-FORTIGATE-MIB	fgWcInfo	
+.1.3.6.1.4.1.12356.101.14.2.1	FORTINET-FORTIGATE-MIB	fgWcInfoName	Represents the name of an AC
+.1.3.6.1.4.1.12356.101.14.2.2	FORTINET-FORTIGATE-MIB	fgWcInfoLocation	Represents the location of an AC
+.1.3.6.1.4.1.12356.101.14.2.3	FORTINET-FORTIGATE-MIB	fgWcInfoWtpCapacity	Represents the maximum number of WTPs that can be managed on the AC.
+.1.3.6.1.4.1.12356.101.14.2.4	FORTINET-FORTIGATE-MIB	fgWcInfoWtpManaged	Represents the number of WTPs being managed on the AC.
+.1.3.6.1.4.1.12356.101.14.2.5	FORTINET-FORTIGATE-MIB	fgWcInfoWtpSessions	Represents the number of WTPs that are connecting to the AC.
+.1.3.6.1.4.1.12356.101.14.2.6	FORTINET-FORTIGATE-MIB	fgWcInfoStationCapacity	Represents the maximum number of stations that can be supported on the AC.
+.1.3.6.1.4.1.12356.101.14.2.7	FORTINET-FORTIGATE-MIB	fgWcInfoStationCount	Represents the number of stations that are accessing the wireless service provided by the AC.
+.1.3.6.1.4.1.12356.101.14.3	FORTINET-FORTIGATE-MIB	fgWcWlanTable	A table that allows the operator to display WLAN profiles.
+.1.3.6.1.4.1.12356.101.14.3.1	FORTINET-FORTIGATE-MIB	fgWcWlanEntry	A set of objects that stores the settings of a WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.1	FORTINET-FORTIGATE-MIB	fgWcWlanSsid	Service set ID of this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.10	FORTINET-FORTIGATE-MIB	fgWcWlanMeshBackhaul	Whether mesh backhaul is enabled on this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.11	FORTINET-FORTIGATE-MIB	fgWcWlanStationCapacity	Represents the maximum number of clients allowed on this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.12	FORTINET-FORTIGATE-MIB	fgWcWlanStationCount	Represents the number of clients currently connected to this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.2	FORTINET-FORTIGATE-MIB	fgWcWlanBroadcastSsid	Whether SSID broadcast is enabled on this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.3	FORTINET-FORTIGATE-MIB	fgWcWlanSecurity	Represents the security type of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.4	FORTINET-FORTIGATE-MIB	fgWcWlanEncryption	Represents the encryption method of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.5	FORTINET-FORTIGATE-MIB	fgWcWlanAuthentication	Represents the authentication method of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.6	FORTINET-FORTIGATE-MIB	fgWcWlanRadiusServer	Represents the specified RADIUS server of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.7	FORTINET-FORTIGATE-MIB	fgWcWlanUserGroup	Represents the specified user group of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.8	FORTINET-FORTIGATE-MIB	fgWcWlanLocalBridging	Whether local bridging is enabled on this WLAN profile.
+.1.3.6.1.4.1.12356.101.14.3.1.9	FORTINET-FORTIGATE-MIB	fgWcWlanVlanId	Represents the VLAN ID of the WLAN profile.
+.1.3.6.1.4.1.12356.101.14.4	FORTINET-FORTIGATE-MIB	fgWcWtpTables	
+.1.3.6.1.4.1.12356.101.14.4.1	FORTINET-FORTIGATE-MIB	fgWcWtpProfileTable	A table of objects that display WTP profiles for WTPs to be managed before they connect to the AC. A WTP could get the new configuration through the CAPWAP control channel.
+.1.3.6.1.4.1.12356.101.14.4.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpProfileEntry	A set of objects that display a WTP profile.
+.1.3.6.1.4.1.12356.101.14.4.1.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpProfileName	Represents the name of a WTP profile.
+.1.3.6.1.4.1.12356.101.14.4.1.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpProfilePlatform	Represents the hardware platform of a WTP profile.
+.1.3.6.1.4.1.12356.101.14.4.1.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpProfileDataChannelDtlsPolicy	The AC communicates its policy on the use of DTLS for the CAPWAP data channel. The AC MAY support more than one option, represented by the bit field below: other(0) - Other method, for example, vendor specific clear(1) - Clear text dtls(2) - DTLS
+.1.3.6.1.4.1.12356.101.14.4.1.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpProfileCountryString	Represents the country setting of a WTP profile, in ISO string format.
+.1.3.6.1.4.1.12356.101.14.4.2	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioTable	A table of objects that display WTP radio profiles for WTP radios to be managed before the WTPs connect to the AC. A WTP radio could get the new configuration through the CAPWAP control channel.
+.1.3.6.1.4.1.12356.101.14.4.2.1	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioEntry	A set of objects that display a WTP radio profile.
+.1.3.6.1.4.1.12356.101.14.4.2.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioProfileName	Represents the name of a WTP profile.
+.1.3.6.1.4.1.12356.101.14.4.2.1.10	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioDtimPeriod	This attribute shall specify the number of beacon intervals that shall elapse between transmission of Beacon frames containing a TIM element whose DTIM Count field is 0. This value is transmitted in the DTIM Period field of Beacon frames.
+.1.3.6.1.4.1.12356.101.14.4.2.1.11	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioBand	Represents the radio band setting configured for this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.12	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioChannelBonding	Whether channel bonding is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.13	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioChannel	Represents a list of channels configured for this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.14	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioAutoTxPowerControl	Whether automatic TX power control is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.15	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioAutoTxPowerLow	Represents the low limit of the power level configured for this WTP radio, in dBm. Applicable only when auto power leveling is enabled.
+.1.3.6.1.4.1.12356.101.14.4.2.1.16	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioAutoTxPowerHigh	Represents the high limit of the power level configured for this WTP radio, in dBm. Applicable only when auto power leveling is enabled.
+.1.3.6.1.4.1.12356.101.14.4.2.1.17	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioTxPowerLevel	Represents the radio TX power setting configured for this WTP radio, in percentage. Application only when auto power leveling is disabled.
+.1.3.6.1.4.1.12356.101.14.4.2.1.18	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioVaps	Represents a list of WLANs configured for this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.19	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioStationCapacity	Represents the maximum number of clients allowed on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioRadioId	Represents the radio Id of a WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.20	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioChannelWidth	Represents the channel width on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioMode	Represents the operating mode of a WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioApScan	Whether background scan is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.5	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioWidsProfile	Represents the WIDS profile configured for this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.6	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioDarrp	Whether DARRP is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.7	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioFrequencyHandoff	Whether frequency handoff is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.8	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioApHandoff	Whether AP handoff is enabled on this WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.2.1.9	FORTINET-FORTIGATE-MIB	fgWcWtpProfileRadioBeaconInterval	This attribute shall specify the number of TUs that a station shall use for scheduling Beacon transmissions. This value is transmitted in Beacon and Probe Response frames.
+.1.3.6.1.4.1.12356.101.14.4.3	FORTINET-FORTIGATE-MIB	fgWcWtpConfigTable	A table of objects that display the configuration of WTPs.
+.1.3.6.1.4.1.12356.101.14.4.3.1	FORTINET-FORTIGATE-MIB	fgWcWtpConfigEntry	A set of objects that display the configuration of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpConfigWtpId	Represents the unique identifier of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.10	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioTxPowerLevel	Represents the radio TX power setting configured for this WTP, in percentage.
+.1.3.6.1.4.1.12356.101.14.4.3.1.11	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioBand	Represents the radio band configured for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.12	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioApScan	Whether background scan is enabled on this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.13	FORTINET-FORTIGATE-MIB	fgWcWtpConfigVapAll	Whether all VAPs are selected for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.14	FORTINET-FORTIGATE-MIB	fgWcWtpConfigVaps	Represents a list of VAPs configured for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpConfigWtpAdmin	Represents the administrative status of this WTP. The following enumerated values are supported: discovered(1) - This WTP was discovered though discovery or join request messages. disable(2) - Controller is configured to not provide service to this WTP. enable(3), - Controller is configured to provide service to this WTP. other(0) - The administration state of the WTP is unknown.
+.1.3.6.1.4.1.12356.101.14.4.3.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpConfigWtpName	Represents the name configured for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpConfigWtpLocation	Represents the location of this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.5	FORTINET-FORTIGATE-MIB	fgWcWtpConfigWtpProfile	Represents the WTP profile configured for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.6	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioEnable	Whether radio is enabled for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.7	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioAutoTxPowerControl	Whether radio automatic TX power control is enabled on this WTP.
+.1.3.6.1.4.1.12356.101.14.4.3.1.8	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioAutoTxPowerLow	Represents the low limit of radio automatic TX power control configured for this WTP, in dBm.
+.1.3.6.1.4.1.12356.101.14.4.3.1.9	FORTINET-FORTIGATE-MIB	fgWcWtpConfigRadioAutoTxPowerHigh	Represents the high limit of radio automatic TX power control configured for this WTP, in dBm.
+.1.3.6.1.4.1.12356.101.14.4.4	FORTINET-FORTIGATE-MIB	fgWcWtpSessionTable	A table of objects that indicate the AC's CAPWAP FSM state for each WTP, and helps the operator to query a WTP's current status.
+.1.3.6.1.4.1.12356.101.14.4.4.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionEntry	A set of objects that displays the AC's CAPWAP FSM state for each WTP. Also, the operator could query the current status of a WTP by using the identifier of the corresponding WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpId	Represents the unique identifier of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.10	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpSessionUpTime	Represents the time (in hundredths of a second) since the WTP connects to the AC.
+.1.3.6.1.4.1.12356.101.14.4.4.1.11	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpProfileName	Represents the profile configured for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.12	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpModelNumber	Represents the model number of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.13	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpHwVersion	Represents the hardware version of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.14	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpSwVersion	Represents the software version of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.15	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpBootVersion	Represents the boot loader version of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.16	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpRegionCode	Represents the region code programmed for this WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.17	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpStationCount	Represents the number of clients currently connected to this WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.18	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpByteRxCount	Represents the number of bytes received by this WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.19	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpByteTxCount	Represents the number of bytes transmitted by this WTP.
+.1.3.6.1.4.1.12356.101.14.4.4.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpIpAddressType	Represents the IP address type of a WTP. Only ipv4(1) and ipv6(2) are supported by the object.
+.1.3.6.1.4.1.12356.101.14.4.4.1.20	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpCpuUsage	Represents the current CPU usage of a WTP (percentage).
+.1.3.6.1.4.1.12356.101.14.4.4.1.21	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpMemoryUsage	Represents the current memory usage of a WTP (percentage).
+.1.3.6.1.4.1.12356.101.14.4.4.1.22	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpMemoryCapacity	Represents the total physical memory (RAM) installed (KB).
+.1.3.6.1.4.1.12356.101.14.4.4.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpIpAddress	Represents the IP address of a WTP that corresponds to the IP address in the IP packet header. The format of this IP address is determined by the corresponding instance of object fgWcWtpWtpIpAddressType.
+.1.3.6.1.4.1.12356.101.14.4.4.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpLocalIpAddressType	Represents the local IP address type of a WTP. Only ipv4(1) and ipv6(2) are supported by the object.
+.1.3.6.1.4.1.12356.101.14.4.4.1.5	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpLocalIpAddress	Represents the local IP address of a WTP and models the CAPWAP Local IPv4 Address or CAPWAP Local IPv6 Address fields [RFC5415]. If a Network Address Translation (NAT) device is present between WTP and AC, the value of fgWcWtpWtpLocalIpAddress will be different from the value of fgWcWtpWtpIpAddress. The format of this IP address is determined by the corresponding instance of object fgWcWtpSessionWtpLocalIpAddressType.
+.1.3.6.1.4.1.12356.101.14.4.4.1.6	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpBaseMacAddress	Represents the WTP's Base MAC Address, which MAY be assigned to the primary Ethernet interface. The instance of the object corresponds to the Base MAC Address sub-element in the CAPWAP protocol [RFC5415].
+.1.3.6.1.4.1.12356.101.14.4.4.1.7	FORTINET-FORTIGATE-MIB	fgWcWtpSessionConnectionState	Represents the connection state of a WTP to AC. The following enumerated values are supported: offLine(1) - The WTP is not connected. onLine(2) - The WTP is connected. downloadingImage(3) - The WTP is downloading software image from the AC on joining. connectedImage(4) - The AC is pushing software image to the connected WTP. other(0) - The WTP connection state is unknown.
+.1.3.6.1.4.1.12356.101.14.4.4.1.8	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpUpTime	Represents the time (in hundredths of a second) since the WTP boots.
+.1.3.6.1.4.1.12356.101.14.4.4.1.9	FORTINET-FORTIGATE-MIB	fgWcWtpSessionWtpDaemonUpTime	Represents the time (in hundredths of a second) since the WTP daemon has been started.
+.1.3.6.1.4.1.12356.101.14.4.5	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioTable	A table of objects that display the status of radios in WTP sessions.
+.1.3.6.1.4.1.12356.101.14.4.5.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioEntry	A set of objects that display the status of a radio in a WTP session.
+.1.3.6.1.4.1.12356.101.14.4.5.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioWtpId	Represents the unique identifier of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.5.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioRadioId	Represents the radio Id of a radio.
+.1.3.6.1.4.1.12356.101.14.4.5.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioMode	Represents the operating mode of this radio.
+.1.3.6.1.4.1.12356.101.14.4.5.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioBaseBssid	Represents base bssid of this radio.
+.1.3.6.1.4.1.12356.101.14.4.5.1.5	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioCountryString	Represents the current operating country string, in ISO string format.
+.1.3.6.1.4.1.12356.101.14.4.5.1.6	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioCountryCode	Represents the current operating country code.
+.1.3.6.1.4.1.12356.101.14.4.5.1.7	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioOperatingChannel	Represents the current operating channel of this radio.
+.1.3.6.1.4.1.12356.101.14.4.5.1.8	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioOperatingPower	Represents the current operating power of this radio, in dBm.
+.1.3.6.1.4.1.12356.101.14.4.5.1.9	FORTINET-FORTIGATE-MIB	fgWcWtpSessionRadioStationCount	Represents the number of clients currently connected to this radio.
+.1.3.6.1.4.1.12356.101.14.4.6	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapTable	A table of objects that display the status of VAPs in WTP sessions. A VAP represents an SSID that is assigned on a WTP radio.
+.1.3.6.1.4.1.12356.101.14.4.6.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapEntry	A set of objects that display the status of a VAP in a WTP session.
+.1.3.6.1.4.1.12356.101.14.4.6.1.1	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapWtpId	Represents the unique identifier of a WTP.
+.1.3.6.1.4.1.12356.101.14.4.6.1.2	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapRadioId	Represents the radio Id of a VAP.
+.1.3.6.1.4.1.12356.101.14.4.6.1.3	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapSsid	Service set ID of this VAP interface.
+.1.3.6.1.4.1.12356.101.14.4.6.1.4	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapStationCount	Represents the number of clients currently connected to this VAP.
+.1.3.6.1.4.1.12356.101.14.4.6.1.5	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapByteRxCount	Represents the number of bytes received by this VAP.
+.1.3.6.1.4.1.12356.101.14.4.6.1.6	FORTINET-FORTIGATE-MIB	fgWcWtpSessionVapByteTxCount	Represents the number of bytes transmitted by this VAP.
+.1.3.6.1.4.1.12356.101.14.5	FORTINET-FORTIGATE-MIB	fgWcStaTable	A table that provides information of all the wireless stations that are accessing the wireless service provided by the AC.
+.1.3.6.1.4.1.12356.101.14.5.1	FORTINET-FORTIGATE-MIB	fgWcStaEntry	A set of objects that display information of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.1	FORTINET-FORTIGATE-MIB	fgWcStaMacAddress	Represents the MAC address of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.10	FORTINET-FORTIGATE-MIB	fgWcStaUser	Represents the user name of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.11	FORTINET-FORTIGATE-MIB	fgWcStaGroup	Represents the user group of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.12	FORTINET-FORTIGATE-MIB	fgWcStaSignal	Represents the signal strengh of a wireless station, in dBm.
+.1.3.6.1.4.1.12356.101.14.5.1.13	FORTINET-FORTIGATE-MIB	fgWcStaNoise	Represents the noise level of a wireless station, in dBm.
+.1.3.6.1.4.1.12356.101.14.5.1.14	FORTINET-FORTIGATE-MIB	fgWcStaIdle	Indicates how long a wireless station in inactive, in seconds.
+.1.3.6.1.4.1.12356.101.14.5.1.15	FORTINET-FORTIGATE-MIB	fgWcStaBandwidthTx	Represents the TX bandwidth of a wireless station, in kbps.
+.1.3.6.1.4.1.12356.101.14.5.1.16	FORTINET-FORTIGATE-MIB	fgWcStaBandwidthRx	Represents the RX bandwidth of a wireless station, in kbps.
+.1.3.6.1.4.1.12356.101.14.5.1.17	FORTINET-FORTIGATE-MIB	fgWcStaChannel	Represents the frequency channel that a wireless station is using.
+.1.3.6.1.4.1.12356.101.14.5.1.18	FORTINET-FORTIGATE-MIB	fgWcStaRadioType	Represents the radio physical type of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.19	FORTINET-FORTIGATE-MIB	fgWcStaSecurity	Represents the security type of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.2	FORTINET-FORTIGATE-MIB	fgWcStaWlan	WLAN interface that a wireless station is connected to.
+.1.3.6.1.4.1.12356.101.14.5.1.20	FORTINET-FORTIGATE-MIB	fgWcStaEncrypt	Represents the encryption method of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.21	FORTINET-FORTIGATE-MIB	fgWcStaOnline	Represent online status of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.3	FORTINET-FORTIGATE-MIB	fgWcStaWtpId	Unique identifier of the WTP that a wireless station is connected to.
+.1.3.6.1.4.1.12356.101.14.5.1.4	FORTINET-FORTIGATE-MIB	fgWcStaRadioId	Represents the radio of the WTP that a wireless station is connected to.
+.1.3.6.1.4.1.12356.101.14.5.1.5	FORTINET-FORTIGATE-MIB	fgWcStaVlanId	Represents the VLAN ID that is assigned to a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.6	FORTINET-FORTIGATE-MIB	fgWcStaIpAddressType	Represents the IP address type of a wireless station. Only ipv4(1) and ipv6(2) are supported by the object.
+.1.3.6.1.4.1.12356.101.14.5.1.7	FORTINET-FORTIGATE-MIB	fgWcStaIpAddress	Represents the IP address of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.8	FORTINET-FORTIGATE-MIB	fgWcStaVci	Represents the vendor class identifier of a wireless station.
+.1.3.6.1.4.1.12356.101.14.5.1.9	FORTINET-FORTIGATE-MIB	fgWcStaHost	Represents the host name of a wireless station.
+.1.3.6.1.4.1.12356.101.15	FORTINET-FORTIGATE-MIB	fgFc	
+.1.3.6.1.4.1.12356.101.15.1	FORTINET-FORTIGATE-MIB	fgFcTrapObjects	
+.1.3.6.1.4.1.12356.101.15.1.1	FORTINET-FORTIGATE-MIB	fgFcSwVdom	Virtual domain the switch is part of
+.1.3.6.1.4.1.12356.101.15.1.2	FORTINET-FORTIGATE-MIB	fgFcSwSerial	Serial number of the switch
+.1.3.6.1.4.1.12356.101.15.1.3	FORTINET-FORTIGATE-MIB	fgFcSwName	Name of the switch
+.1.3.6.1.4.1.12356.101.16	FORTINET-FORTIGATE-MIB	fgServerLoadBalance	
+.1.3.6.1.4.1.12356.101.16.1	FORTINET-FORTIGATE-MIB	fgServerLoadBalanceTrapObjects	
+.1.3.6.1.4.1.12356.101.16.1.1	FORTINET-FORTIGATE-MIB	fgServerLoadBalanceRealServerAddress	IP of the real server.
+.1.3.6.1.4.1.12356.101.16.1.2	FORTINET-FORTIGATE-MIB	fgServerLoadBalanceVirtualServerName	Name of the virual server.
+.1.3.6.1.4.1.12356.101.17	FORTINET-FORTIGATE-MIB	fgUsbModemInfo	
+.1.3.6.1.4.1.12356.101.17.1	FORTINET-FORTIGATE-MIB	fgUsbModemInfoObjects	
+.1.3.6.1.4.1.12356.101.17.1.1	FORTINET-FORTIGATE-MIB	fgUsbModemSignalStrength	3G/4G USB Modem signal Strength.
+.1.3.6.1.4.1.12356.101.17.1.2	FORTINET-FORTIGATE-MIB	fgUsbModemStatus	 3G/4G USB Modem status.
+.1.3.6.1.4.1.12356.101.17.1.3	FORTINET-FORTIGATE-MIB	fgUsbModemSimState	3G/4G USB Modem sim card status.
+.1.3.6.1.4.1.12356.101.17.1.4	FORTINET-FORTIGATE-MIB	fgUsbModemVendor	3G/4G USB Modem vendor name.
+.1.3.6.1.4.1.12356.101.17.1.5	FORTINET-FORTIGATE-MIB	fgUsbModemProduct	3G/4G USB Modem product name.
+.1.3.6.1.4.1.12356.101.17.1.6	FORTINET-FORTIGATE-MIB	fgUsbModemNetwork	3G/4G USB Modem network type.
+.1.3.6.1.4.1.12356.101.17.1.7	FORTINET-FORTIGATE-MIB	fgUsbModemId	3G/4G USB Modem identifier.
+.1.3.6.1.4.1.12356.101.17.1.8	FORTINET-FORTIGATE-MIB	fgUsbModemSimId	3G/4G USB Modem sim card identifier.
+.1.3.6.1.4.1.12356.101.18	FORTINET-FORTIGATE-MIB	fgDevice	
+.1.3.6.1.4.1.12356.101.18.1	FORTINET-FORTIGATE-MIB	fgDeviceTrapObjects	
+.1.3.6.1.4.1.12356.101.18.1.1	FORTINET-FORTIGATE-MIB	fgDeviceMacAddress	The MAC address pertaining the Device.
+.1.3.6.1.4.1.12356.101.18.1.2	FORTINET-FORTIGATE-MIB	fgDeviceCreated	The created time pertaining the Device.
+.1.3.6.1.4.1.12356.101.18.1.3	FORTINET-FORTIGATE-MIB	fgDeviceLastSeen	The last seen time pertaining the Device.
+.1.3.6.1.4.1.12356.101.2	FORTINET-FORTIGATE-MIB	fgTraps	
+.1.3.6.1.4.1.12356.101.2.0	FORTINET-FORTIGATE-MIB	fgTrapPrefix	
+.1.3.6.1.4.1.12356.101.2.0.1101	FORTINET-FORTIGATE-MIB	fgTrapServerLoadBalanceRealServerDown	One of servers in a Server Load Balance group goes down.
+.1.3.6.1.4.1.12356.101.2.0.1201	FORTINET-FORTIGATE-MIB	fgTrapDeviceNew	A new device is found.
+.1.3.6.1.4.1.12356.101.2.0.301	FORTINET-FORTIGATE-MIB	fgTrapVpnTunUp	Indicates that the specified VPN tunnel has been brought up.
+.1.3.6.1.4.1.12356.101.2.0.302	FORTINET-FORTIGATE-MIB	fgTrapVpnTunDown	The specified VPN tunnel has been brought down.
+.1.3.6.1.4.1.12356.101.2.0.401	FORTINET-FORTIGATE-MIB	fgTrapHaSwitch	The specified cluster member has transitioned from a slave role to a master role.
+.1.3.6.1.4.1.12356.101.2.0.402	FORTINET-FORTIGATE-MIB	fgTrapHaStateChange	Trap being sent when the HA cluster member changes its state
+.1.3.6.1.4.1.12356.101.2.0.403	FORTINET-FORTIGATE-MIB	fgTrapHaHBFail	The heartbeat device failure count has exceeded the configured threshold.
+.1.3.6.1.4.1.12356.101.2.0.404	FORTINET-FORTIGATE-MIB	fgTrapHaMemberDown	The specified device (by serial number) is moving to a down state.
+.1.3.6.1.4.1.12356.101.2.0.405	FORTINET-FORTIGATE-MIB	fgTrapHaMemberUp	A new cluster member has joined the cluster.
+.1.3.6.1.4.1.12356.101.2.0.503	FORTINET-FORTIGATE-MIB	fgTrapIpsSignature	An IPS signature has been triggered
+.1.3.6.1.4.1.12356.101.2.0.504	FORTINET-FORTIGATE-MIB	fgTrapIpsAnomaly	An IPS anomaly has been detected
+.1.3.6.1.4.1.12356.101.2.0.505	FORTINET-FORTIGATE-MIB	fgTrapIpsPkgUpdate	The IPS signature database has been updated
+.1.3.6.1.4.1.12356.101.2.0.506	FORTINET-FORTIGATE-MIB	fgTrapIpsFailOpen	The IPS network buffer is full
+.1.3.6.1.4.1.12356.101.2.0.601	FORTINET-FORTIGATE-MIB	fgTrapAvVirus	A virus has been detected by the anti-virus engine
+.1.3.6.1.4.1.12356.101.2.0.602	FORTINET-FORTIGATE-MIB	fgTrapAvOversize	An over-sized file has been detected by the anti-virus engine
+.1.3.6.1.4.1.12356.101.2.0.603	FORTINET-FORTIGATE-MIB	fgTrapAvPattern	The anti-virus engine has blocked a file because it matched a configured pattern
+.1.3.6.1.4.1.12356.101.2.0.604	FORTINET-FORTIGATE-MIB	fgTrapAvFragmented	The anti-virus engine has detected a fragmented file
+.1.3.6.1.4.1.12356.101.2.0.605	FORTINET-FORTIGATE-MIB	fgTrapAvEnterConserve	The anti-virus engine has entered conservation mode due to low memory conditions
+.1.3.6.1.4.1.12356.101.2.0.606	FORTINET-FORTIGATE-MIB	fgTrapAvBypass	The anti-virus engine has been bypassed due to conservation mode
+.1.3.6.1.4.1.12356.101.2.0.607	FORTINET-FORTIGATE-MIB	fgTrapAvOversizePass	An over-sized file has been detected, but has been passed due to configuration
+.1.3.6.1.4.1.12356.101.2.0.608	FORTINET-FORTIGATE-MIB	fgTrapAvOversizeBlock	An over-sized file has been detected and has been blocked
+.1.3.6.1.4.1.12356.101.2.0.701	FORTINET-FORTIGATE-MIB	fgTrapFazDisconnect	The device has been disconnected from the FortiAnalyzer.
+.1.3.6.1.4.1.12356.101.2.0.801	FORTINET-FORTIGATE-MIB	fgTrapWcApUp	Indicates that the specified AP is up.
+.1.3.6.1.4.1.12356.101.2.0.802	FORTINET-FORTIGATE-MIB	fgTrapWcApDown	Indicates that the specified AP is down.
+.1.3.6.1.4.1.12356.101.2.0.901	FORTINET-FORTIGATE-MIB	fgTrapFcSwUp	Indicates that the specified switch controller session is up.
+.1.3.6.1.4.1.12356.101.2.0.902	FORTINET-FORTIGATE-MIB	fgTrapFcSwDown	Indicates that the specified switch controller session is down.
+.1.3.6.1.4.1.12356.101.3	FORTINET-FORTIGATE-MIB	fgVirtualDomain	
+.1.3.6.1.4.1.12356.101.3.1	FORTINET-FORTIGATE-MIB	fgVdInfo	
+.1.3.6.1.4.1.12356.101.3.1.1	FORTINET-FORTIGATE-MIB	fgVdNumber	The number of virtual domains in vdTable
+.1.3.6.1.4.1.12356.101.3.1.2	FORTINET-FORTIGATE-MIB	fgVdMaxVdoms	The maximum number of virtual domains allowed on the device as allowed by hardware and/or licensing
+.1.3.6.1.4.1.12356.101.3.1.3	FORTINET-FORTIGATE-MIB	fgVdEnabled	Whether virtual domains are enabled on this device
+.1.3.6.1.4.1.12356.101.3.2	FORTINET-FORTIGATE-MIB	fgVdTables	
+.1.3.6.1.4.1.12356.101.3.2.1	FORTINET-FORTIGATE-MIB	fgVdTable	A table of virtual domains configured on the device
+.1.3.6.1.4.1.12356.101.3.2.1.1	FORTINET-FORTIGATE-MIB	fgVdEntry	An entry containing information applicable to a particular virtual domain
+.1.3.6.1.4.1.12356.101.3.2.1.1.1	FORTINET-FORTIGATE-MIB	fgVdEntIndex	Internal virtual domain index used to uniquely identify rows in this table. This index is also used by other tables referencing a virtual domain.
+.1.3.6.1.4.1.12356.101.3.2.1.1.2	FORTINET-FORTIGATE-MIB	fgVdEntName	The name of the virtual domain
+.1.3.6.1.4.1.12356.101.3.2.1.1.3	FORTINET-FORTIGATE-MIB	fgVdEntOpMode	Operation mode of the virtual domain (NAT or Transparent)
+.1.3.6.1.4.1.12356.101.3.2.1.1.4	FORTINET-FORTIGATE-MIB	fgVdEntHaState	HA cluster member state of the virtual domain on this device (master, backup or standalone)
+.1.3.6.1.4.1.12356.101.3.2.1.1.5	FORTINET-FORTIGATE-MIB	fgVdEntCpuUsage	CPU usage of the virtual domain (percentage).
+.1.3.6.1.4.1.12356.101.3.2.1.1.6	FORTINET-FORTIGATE-MIB	fgVdEntMemUsage	Memory usage of the virtual domain (percentage).
+.1.3.6.1.4.1.12356.101.3.2.1.1.7	FORTINET-FORTIGATE-MIB	fgVdEntSesCount	Number of active sessions on the virtual domain.
+.1.3.6.1.4.1.12356.101.3.2.1.1.8	FORTINET-FORTIGATE-MIB	fgVdEntSesRate	The session setup rate on the virtual domain.
+.1.3.6.1.4.1.12356.101.3.2.2	FORTINET-FORTIGATE-MIB	fgVdTpTable	A table of virtual domains in transparent operation mode. This table has a sparse dependent relationship with fgVdTable.
+.1.3.6.1.4.1.12356.101.3.2.2.1	FORTINET-FORTIGATE-MIB	fgVdTpEntry	An entry containing information applicable to a particular virtual domain in transparent mode
+.1.3.6.1.4.1.12356.101.3.2.2.1.1	FORTINET-FORTIGATE-MIB	fgVdTpMgmtAddrType	The type of address stored in fgVdTpMgmtAddr, in compliance with INET-ADDRESS-MIB
+.1.3.6.1.4.1.12356.101.3.2.2.1.2	FORTINET-FORTIGATE-MIB	fgVdTpMgmtAddr	The management IP address of the virtual domain in transparent mode, typically an IPv4 address. The address type/format is determined by fgVdTpMgmtAddrType.
+.1.3.6.1.4.1.12356.101.3.2.2.1.3	FORTINET-FORTIGATE-MIB	fgVdTpMgmtMask	The address prefix length (or network mask) applied to the fgVdTpMgmtAddr
+.1.3.6.1.4.1.12356.101.4	FORTINET-FORTIGATE-MIB	fgSystem	
+.1.3.6.1.4.1.12356.101.4.1	FORTINET-FORTIGATE-MIB	fgSystemInfo	
+.1.3.6.1.4.1.12356.101.4.1.1	FORTINET-FORTIGATE-MIB	fgSysVersion	Firmware version of the device
+.1.3.6.1.4.1.12356.101.4.1.10	FORTINET-FORTIGATE-MIB	fgSysLowMemCapacity	Total lowmem capacity (KB). See fgSysLowMemUsage for the description of lowmem.
+.1.3.6.1.4.1.12356.101.4.1.11	FORTINET-FORTIGATE-MIB	fgSysSesRate1	The average session setup rate over the past minute.
+.1.3.6.1.4.1.12356.101.4.1.12	FORTINET-FORTIGATE-MIB	fgSysSesRate10	The average session setup rate over the past 10 minutes.
+.1.3.6.1.4.1.12356.101.4.1.13	FORTINET-FORTIGATE-MIB	fgSysSesRate30	The average session setup rate over the past 30 minutes.
+.1.3.6.1.4.1.12356.101.4.1.14	FORTINET-FORTIGATE-MIB	fgSysSesRate60	The average session setup rate over the past 60 minutes.
+.1.3.6.1.4.1.12356.101.4.1.15	FORTINET-FORTIGATE-MIB	fgSysSes6Count	Number of active ipv6 sessions on the device
+.1.3.6.1.4.1.12356.101.4.1.16	FORTINET-FORTIGATE-MIB	fgSysSes6Rate1	The average ipv6 session setup rate over the past minute.
+.1.3.6.1.4.1.12356.101.4.1.17	FORTINET-FORTIGATE-MIB	fgSysSes6Rate10	The average ipv6 session setup rate over the past 10 minutes.
+.1.3.6.1.4.1.12356.101.4.1.18	FORTINET-FORTIGATE-MIB	fgSysSes6Rate30	The average ipv6 session setup rate over the past 30 minutes.
+.1.3.6.1.4.1.12356.101.4.1.19	FORTINET-FORTIGATE-MIB	fgSysSes6Rate60	The average ipv6 session setup rate over the past 60 minutes.
+.1.3.6.1.4.1.12356.101.4.1.2	FORTINET-FORTIGATE-MIB	fgSysMgmtVdom	Index that identifies the management virtual domain. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.4.1.20	FORTINET-FORTIGATE-MIB	fgSysUpTime	The 64bit time (in hundredths of a second) since the network management portion of the system was last re-initialized.
+.1.3.6.1.4.1.12356.101.4.1.3	FORTINET-FORTIGATE-MIB	fgSysCpuUsage	Current CPU usage (percentage)
+.1.3.6.1.4.1.12356.101.4.1.4	FORTINET-FORTIGATE-MIB	fgSysMemUsage	Current memory utilization (percentage)
+.1.3.6.1.4.1.12356.101.4.1.5	FORTINET-FORTIGATE-MIB	fgSysMemCapacity	Total physical memory (RAM) installed (KB)
+.1.3.6.1.4.1.12356.101.4.1.6	FORTINET-FORTIGATE-MIB	fgSysDiskUsage	Current hard disk usage (MB), if disk is present
+.1.3.6.1.4.1.12356.101.4.1.7	FORTINET-FORTIGATE-MIB	fgSysDiskCapacity	Total hard disk capacity (MB), if disk is present
+.1.3.6.1.4.1.12356.101.4.1.8	FORTINET-FORTIGATE-MIB	fgSysSesCount	Number of active sessions on the device
+.1.3.6.1.4.1.12356.101.4.1.9	FORTINET-FORTIGATE-MIB	fgSysLowMemUsage	Current lowmem utilization (percentage). Lowmem is memory available for the kernel's own data structures and kernel specific tables. The system can get into a bad state if it runs out of lowmem.
+.1.3.6.1.4.1.12356.101.4.2	FORTINET-FORTIGATE-MIB	fgSoftware	
+.1.3.6.1.4.1.12356.101.4.2.1	FORTINET-FORTIGATE-MIB	fgSysVersionAv	Virus signature database version installed on the device
+.1.3.6.1.4.1.12356.101.4.2.2	FORTINET-FORTIGATE-MIB	fgSysVersionIps	IPS signature database version installed on the device
+.1.3.6.1.4.1.12356.101.4.3	FORTINET-FORTIGATE-MIB	fgHwSensors	
+.1.3.6.1.4.1.12356.101.4.3.1	FORTINET-FORTIGATE-MIB	fgHwSensorCount	The number of entries in fgHwSensorTable
+.1.3.6.1.4.1.12356.101.4.3.2	FORTINET-FORTIGATE-MIB	fgHwSensorTable	A list of device specific hardware sensors and values. Because different devices have different hardware sensor capabilities, this table may or may not contain any values.
+.1.3.6.1.4.1.12356.101.4.3.2.1	FORTINET-FORTIGATE-MIB	fgHwSensorEntry	An entry containing the name, value, and alarm status of a given hardware sensor
+.1.3.6.1.4.1.12356.101.4.3.2.1.1	FORTINET-FORTIGATE-MIB	fgHwSensorEntIndex	A unique identifier within the fgHwSensorTable
+.1.3.6.1.4.1.12356.101.4.3.2.1.2	FORTINET-FORTIGATE-MIB	fgHwSensorEntName	A string identifying the sensor by name
+.1.3.6.1.4.1.12356.101.4.3.2.1.3	FORTINET-FORTIGATE-MIB	fgHwSensorEntValue	A string representation of the value of the sensor. Because sensors can present data in different formats, string representation is most general format. Interpretation of the value (units of measure, for example) is dependent on the individual sensor.
+.1.3.6.1.4.1.12356.101.4.3.2.1.4	FORTINET-FORTIGATE-MIB	fgHwSensorEntAlarmStatus	If the sensor has an alarm threshold and has exceeded it, this will indicate its status. Not all sensors have alarms.
+.1.3.6.1.4.1.12356.101.4.4	FORTINET-FORTIGATE-MIB	fgProcessors	
+.1.3.6.1.4.1.12356.101.4.4.1	FORTINET-FORTIGATE-MIB	fgProcessorCount	The number of entries in fgProcessorTable
+.1.3.6.1.4.1.12356.101.4.4.2	FORTINET-FORTIGATE-MIB	fgProcessorTable	A table that lists information for each processor
+.1.3.6.1.4.1.12356.101.4.4.2.1	FORTINET-FORTIGATE-MIB	fgProcessorEntry	An entry containing information for a particular processor
+.1.3.6.1.4.1.12356.101.4.4.2.1.1	FORTINET-FORTIGATE-MIB	fgProcessorEntIndex	A unique identifier within the fgProcessorTable
+.1.3.6.1.4.1.12356.101.4.4.2.1.10	FORTINET-FORTIGATE-MIB	fgProcessorSysUsage	The processor's CPU system space usage, which is an average calculated over the last minute. (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.2	FORTINET-FORTIGATE-MIB	fgProcessorUsage	The processor's CPU usage (percentage), which is an average calculated over the last minute. (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.3	FORTINET-FORTIGATE-MIB	fgProcessorUsage5sec	The processor's CPU usage (percentage), which is an average calculated over the last 5 sec. (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.4	FORTINET-FORTIGATE-MIB	fgProcessorType	An indication of the type of the processor. Types are defined in fgProcessorTypes.
+.1.3.6.1.4.1.12356.101.4.4.2.1.5	FORTINET-FORTIGATE-MIB	fgProcessorContainedIn	The index to the processor module entry in the fgProcessorModuleTable that contains this processor.
+.1.3.6.1.4.1.12356.101.4.4.2.1.6	FORTINET-FORTIGATE-MIB	fgProcessorPktRxCount	The total number of packets received by this processor (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.7	FORTINET-FORTIGATE-MIB	fgProcessorPktTxCount	The total number of packets transmitted by this processor (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.8	FORTINET-FORTIGATE-MIB	fgProcessorPktDroppedCount	The total number of packets dropped by this processor (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.2.1.9	FORTINET-FORTIGATE-MIB	fgProcessorUserUsage	The processor's CPU user space usage, which is an average calculated over the last minute. (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.4.3	FORTINET-FORTIGATE-MIB	fgProcessorTypes	
+.1.3.6.1.4.1.12356.101.4.4.3.1	FORTINET-FORTIGATE-MIB	fgProcessorOther	The processor type identifier used when no other defined type is appropriate.
+.1.3.6.1.4.1.12356.101.4.4.3.2	FORTINET-FORTIGATE-MIB	fgProcessorIntel	The processor type identifier used for Intel CPU.
+.1.3.6.1.4.1.12356.101.4.4.3.3	FORTINET-FORTIGATE-MIB	fgProcessorAMD	The processor type identifier used for AMD CPU.
+.1.3.6.1.4.1.12356.101.4.4.3.4	FORTINET-FORTIGATE-MIB	fgProcessorXlr	The processor type identifier used for RMI XLR processor.
+.1.3.6.1.4.1.12356.101.4.4.3.5	FORTINET-FORTIGATE-MIB	fgProcessorFnSoc	The processor type identifier used for Fortinet FortiSoc processor.
+.1.3.6.1.4.1.12356.101.4.4.3.6	FORTINET-FORTIGATE-MIB	fgProcessorFnNP2	The processor type identifier used for Fortinet NP2 security processor.
+.1.3.6.1.4.1.12356.101.4.4.3.7	FORTINET-FORTIGATE-MIB	fgProcessorFnNP4	The processor type identifier used for Fortinet NP4 security processor.
+.1.3.6.1.4.1.12356.101.4.4.3.8	FORTINET-FORTIGATE-MIB	fgProcessorFnNP6	The processor type identifier used for Fortinet NP6 security processor.
+.1.3.6.1.4.1.12356.101.4.5	FORTINET-FORTIGATE-MIB	fgProcessorModules	
+.1.3.6.1.4.1.12356.101.4.5.1	FORTINET-FORTIGATE-MIB	fgProcessorModuleTypes	
+.1.3.6.1.4.1.12356.101.4.5.1.1	FORTINET-FORTIGATE-MIB	fgProcModOther	The processor module type identifier used when no other defined type is appropriate.
+.1.3.6.1.4.1.12356.101.4.5.1.10	FORTINET-FORTIGATE-MIB	fgProcModFnC20	The processor module type identifier used for Fortinet FMC module FMC-C20.
+.1.3.6.1.4.1.12356.101.4.5.1.11	FORTINET-FORTIGATE-MIB	fgProcModFnXD4	The processor module type identifier used for Fortinet AMC module ADM-XD4.
+.1.3.6.1.4.1.12356.101.4.5.1.12	FORTINET-FORTIGATE-MIB	fgProcModFnFB4	The processor module type identifier used for Fortinet AMC module ASM-FB4.
+.1.3.6.1.4.1.12356.101.4.5.1.13	FORTINET-FORTIGATE-MIB	fgProcModFnFB8	The processor module type identifier used for Fortinet AMC module ADM-FB8.
+.1.3.6.1.4.1.12356.101.4.5.1.14	FORTINET-FORTIGATE-MIB	fgProcModFnXB2	The processor module type identifier used for Fortinet AMC module ADM-XB2.
+.1.3.6.1.4.1.12356.101.4.5.1.2	FORTINET-FORTIGATE-MIB	fgProcModIntegrated	The processor module type identifier used for the main CPUs built in the device.
+.1.3.6.1.4.1.12356.101.4.5.1.3	FORTINET-FORTIGATE-MIB	fgProcModFnXE2	The processor module type identifier used for Fortinet AMC module ADM-XE2.
+.1.3.6.1.4.1.12356.101.4.5.1.4	FORTINET-FORTIGATE-MIB	fgProcModFnCE4	The processor module type identifier used for Fortinet AMC module ASM-CE4.
+.1.3.6.1.4.1.12356.101.4.5.1.5	FORTINET-FORTIGATE-MIB	fgProcModFnFE8	The processor module type identifier used for Fortinet AMC module ADM-FE8.
+.1.3.6.1.4.1.12356.101.4.5.1.6	FORTINET-FORTIGATE-MIB	fgProcModFnXG2	The processor module type identifier used for Fortinet FMC module FMC-XG2.
+.1.3.6.1.4.1.12356.101.4.5.1.7	FORTINET-FORTIGATE-MIB	fgProcModIntegratedNPU	The processor module type identifier used for the NPU(s) built in the device.
+.1.3.6.1.4.1.12356.101.4.5.1.8	FORTINET-FORTIGATE-MIB	fgProcModFnXD2	The processor module type identifier used for Fortinet FMC module FMC-XD2.
+.1.3.6.1.4.1.12356.101.4.5.1.9	FORTINET-FORTIGATE-MIB	fgProcModFnF20	The processor module type identifier used for Fortinet FMC module FMC-F20.
+.1.3.6.1.4.1.12356.101.4.5.2	FORTINET-FORTIGATE-MIB	fgProcessorModuleCount	The number of entries in fgProcessorModuleTable
+.1.3.6.1.4.1.12356.101.4.5.3	FORTINET-FORTIGATE-MIB	fgProcessorModuleTable	A table that lists information for each processor module
+.1.3.6.1.4.1.12356.101.4.5.3.1	FORTINET-FORTIGATE-MIB	fgProcessorModuleEntry	An entry containing information for a particular processor module
+.1.3.6.1.4.1.12356.101.4.5.3.1.1	FORTINET-FORTIGATE-MIB	fgProcModIndex	A unique identifier within the fgProcessorModuleTable
+.1.3.6.1.4.1.12356.101.4.5.3.1.2	FORTINET-FORTIGATE-MIB	fgProcModType	An indication of the type of the processor module. Types are defined in fgProcessorModuleTypes.
+.1.3.6.1.4.1.12356.101.4.5.3.1.3	FORTINET-FORTIGATE-MIB	fgProcModName	A textual name of this processor module.
+.1.3.6.1.4.1.12356.101.4.5.3.1.4	FORTINET-FORTIGATE-MIB	fgProcModDescr	A textual description of this processor module.
+.1.3.6.1.4.1.12356.101.4.5.3.1.5	FORTINET-FORTIGATE-MIB	fgProcModProcessorCount	Total number of processors contained by this module.
+.1.3.6.1.4.1.12356.101.4.5.3.1.6	FORTINET-FORTIGATE-MIB	fgProcModMemCapacity	Total physical memory (RAM) installed (KB) on this processor module.
+.1.3.6.1.4.1.12356.101.4.5.3.1.7	FORTINET-FORTIGATE-MIB	fgProcModMemUsage	Current memory utilization (percentage) on this processor module.
+.1.3.6.1.4.1.12356.101.4.5.3.1.8	FORTINET-FORTIGATE-MIB	fgProcModSessionCount	Number of active sessions on this processor module (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.5.3.1.9	FORTINET-FORTIGATE-MIB	fgProcModSACount	Number of IPsec Security Associations on this processor module (only valid for processors types that support this statistic).
+.1.3.6.1.4.1.12356.101.4.6	FORTINET-FORTIGATE-MIB	fgSystemInfoAdvanced	
+.1.3.6.1.4.1.12356.101.4.6.1	FORTINET-FORTIGATE-MIB	fgSysInfoAdvMem	
+.1.3.6.1.4.1.12356.101.4.6.1.1	FORTINET-FORTIGATE-MIB	fgSIAdvMemPageCache	The amount of physical RAM used as cache memory for files read from the disk (the page cache).
+.1.3.6.1.4.1.12356.101.4.6.1.2	FORTINET-FORTIGATE-MIB	fgSIAdvMemCacheActive	The toal amount of buffer or page cache memory that are active. This part of the memory is used recently and usually not reclaimed unless absolutely necessary.
+.1.3.6.1.4.1.12356.101.4.6.1.3	FORTINET-FORTIGATE-MIB	fgSIAdvMemCacheInactive	The total amount of buffer or page cache memory that are free and available. This is memory that has not been recently used and can be reclaimed for other purposes by the paging algorithm.
+.1.3.6.1.4.1.12356.101.4.6.1.4	FORTINET-FORTIGATE-MIB	fgSIAdvMemBuffer	The amount of physical RAM used for filesystem buffers.
+.1.3.6.1.4.1.12356.101.4.6.1.5	FORTINET-FORTIGATE-MIB	fgSIAdvMemEnterKerConsThrsh	Current memory threshold level to enter kernel conserve mode.
+.1.3.6.1.4.1.12356.101.4.6.1.6	FORTINET-FORTIGATE-MIB	fgSIAdvMemLeaveKerConsThrsh	Current memory threshold level to leave kernel conserve mode.
+.1.3.6.1.4.1.12356.101.4.6.1.7	FORTINET-FORTIGATE-MIB	fgSIAdvMemEnterProxyConsThrsh	Current memory threshold level to enter proxy conserve mode.
+.1.3.6.1.4.1.12356.101.4.6.1.8	FORTINET-FORTIGATE-MIB	fgSIAdvMemLeaveProxyConsThrsh	Current memory threshold level to leave proxy conserve mode.
+.1.3.6.1.4.1.12356.101.4.6.2	FORTINET-FORTIGATE-MIB	fgSysInfoAdvSessions	
+.1.3.6.1.4.1.12356.101.4.6.2.1	FORTINET-FORTIGATE-MIB	fgSIAdvSesEphemeralCount	The current number of ephemeral sessions on the device.
+.1.3.6.1.4.1.12356.101.4.6.2.2	FORTINET-FORTIGATE-MIB	fgSIAdvSesEphemeralLimit	The limit number of allowed ephemeral sessions on the device.
+.1.3.6.1.4.1.12356.101.4.6.2.3	FORTINET-FORTIGATE-MIB	fgSIAdvSesClashCount	The number of new sessions which have collision with existing sessions. This generally highlights a shortage of ports or IP in ip-pool during source natting (PNAT).
+.1.3.6.1.4.1.12356.101.4.6.2.4	FORTINET-FORTIGATE-MIB	fgSIAdvSesExpCount	The number of current expectation sessions.
+.1.3.6.1.4.1.12356.101.4.6.2.5	FORTINET-FORTIGATE-MIB	fgSIAdvSesSyncQFCount	The sync queue full counter, reflecting bursts on the sync queue.
+.1.3.6.1.4.1.12356.101.4.6.2.6	FORTINET-FORTIGATE-MIB	fgSIAdvSesAcceptQFCount	The accept queue full counter, reflecting bursts on the accept queue.
+.1.3.6.1.4.1.12356.101.4.6.2.7	FORTINET-FORTIGATE-MIB	fgSIAdvSesNoListenerCount	The number of direct requests to Fortigate local stack from external, reflecting DOS attack towards the Fortigate.
+.1.3.6.1.4.1.12356.101.4.7	FORTINET-FORTIGATE-MIB	fgUsbports	
+.1.3.6.1.4.1.12356.101.4.7.1	FORTINET-FORTIGATE-MIB	fgUsbportCount	The number of entries in fgUsbportTable.
+.1.3.6.1.4.1.12356.101.4.7.2	FORTINET-FORTIGATE-MIB	fgUsbportTable	A table that lists information for each external USB port.
+.1.3.6.1.4.1.12356.101.4.7.2.1	FORTINET-FORTIGATE-MIB	fgUsbportEntry	An entry containing information for a particular USB port.
+.1.3.6.1.4.1.12356.101.4.7.2.1.1	FORTINET-FORTIGATE-MIB	fgUsbportEntIndex	A unique identifier within the fgUsbportTable.
+.1.3.6.1.4.1.12356.101.4.7.2.1.10	FORTINET-FORTIGATE-MIB	fgUsbportSerial	The serial number of the device.
+.1.3.6.1.4.1.12356.101.4.7.2.1.2	FORTINET-FORTIGATE-MIB	fgUsbportPlugged	The USB port's plugged status.
+.1.3.6.1.4.1.12356.101.4.7.2.1.3	FORTINET-FORTIGATE-MIB	fgUsbportVersion	The USB port's version.
+.1.3.6.1.4.1.12356.101.4.7.2.1.4	FORTINET-FORTIGATE-MIB	fgUsbportClass	The device class.
+.1.3.6.1.4.1.12356.101.4.7.2.1.5	FORTINET-FORTIGATE-MIB	fgUsbportVendId	The Vendor ID of the device.
+.1.3.6.1.4.1.12356.101.4.7.2.1.6	FORTINET-FORTIGATE-MIB	fgUsbportProdId	The Product ID of the device.
+.1.3.6.1.4.1.12356.101.4.7.2.1.7	FORTINET-FORTIGATE-MIB	fgUsbportRevision	The release number of the device.
+.1.3.6.1.4.1.12356.101.4.7.2.1.8	FORTINET-FORTIGATE-MIB	fgUsbportManufacturer	The manufacturer of the device.
+.1.3.6.1.4.1.12356.101.4.7.2.1.9	FORTINET-FORTIGATE-MIB	fgUsbportProduct	The product of the device.
+.1.3.6.1.4.1.12356.101.4.8	FORTINET-FORTIGATE-MIB	fgLinkMonitor	
+.1.3.6.1.4.1.12356.101.4.8.1	FORTINET-FORTIGATE-MIB	fgLinkMonitorNumber	The number of link monitor in fgLinkMonitorTable
+.1.3.6.1.4.1.12356.101.4.8.2	FORTINET-FORTIGATE-MIB	fgLinkMonitorTable	Link Monitor statistics table. This table has a dependent expansion relationship with fgVdTable. Only virtual domains with enabled link monitor are present in this table.
+.1.3.6.1.4.1.12356.101.4.8.2.1	FORTINET-FORTIGATE-MIB	fgLinkMonitorEntry	Link Monitor statistics on a virtual domain
+.1.3.6.1.4.1.12356.101.4.8.2.1.1	FORTINET-FORTIGATE-MIB	fgLinkMonitorID	Link Monitor ID. Only enabled link monitor entries are present in this table. Link Monitor IDs are only unique within a virtual domain.
+.1.3.6.1.4.1.12356.101.4.8.2.1.2	FORTINET-FORTIGATE-MIB	fgLinkMonitorName	Link Monitor name.
+.1.3.6.1.4.1.12356.101.4.8.2.1.3	FORTINET-FORTIGATE-MIB	fgLinkMonitorState	Link Monitor state.
+.1.3.6.1.4.1.12356.101.4.8.2.1.4	FORTINET-FORTIGATE-MIB	fgLinkMonitorLatency	The average latency of link monitor in float number within last 30 probes.
+.1.3.6.1.4.1.12356.101.4.8.2.1.5	FORTINET-FORTIGATE-MIB	fgLinkMonitorJitter	The average jitter of link monitor in float number within last 30 probes.
+.1.3.6.1.4.1.12356.101.4.8.2.1.6	FORTINET-FORTIGATE-MIB	fgLinkMonitorPacketSend	The total number of packets sent by link monitor.
+.1.3.6.1.4.1.12356.101.4.8.2.1.7	FORTINET-FORTIGATE-MIB	fgLinkMonitorPacketRecv	The total number of packets received by link monitor.
+.1.3.6.1.4.1.12356.101.4.8.2.1.8	FORTINET-FORTIGATE-MIB	fgLinkMonitorPacketLoss	The average packet loss percentage in float number within last 30 probes.
+.1.3.6.1.4.1.12356.101.4.8.2.1.9	FORTINET-FORTIGATE-MIB	fgLinkMonitorVdom	Virtual domain the link monitor entry exists in. This name corresponds to the fgVdEntName used in fgVdTable.
+.1.3.6.1.4.1.12356.101.5	FORTINET-FORTIGATE-MIB	fgFirewall	
+.1.3.6.1.4.1.12356.101.5.1	FORTINET-FORTIGATE-MIB	fgFwPolicies	
+.1.3.6.1.4.1.12356.101.5.1.1	FORTINET-FORTIGATE-MIB	fgFwPolInfo	
+.1.3.6.1.4.1.12356.101.5.1.2	FORTINET-FORTIGATE-MIB	fgFwPolTables	
+.1.3.6.1.4.1.12356.101.5.1.2.1	FORTINET-FORTIGATE-MIB	fgFwPolStatsTable	Firewall policy statistics table. This table has a dependent expansion relationship with fgVdTable. Only virtual domains with enabled policies are present in this table.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1	FORTINET-FORTIGATE-MIB	fgFwPolStatsEntry	Firewall policy statistics on a virtual domain
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.1	FORTINET-FORTIGATE-MIB	fgFwPolID	Firewall policy ID. Only enabled policies are present in this table. Policy IDs are only unique within a virtual domain.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.2	FORTINET-FORTIGATE-MIB	fgFwPolPktCount	Number of packets matched to policy (passed or blocked, depending on policy action). Count is from the time the policy became active.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.3	FORTINET-FORTIGATE-MIB	fgFwPolByteCount	Number of bytes in packets matching the policy. See fgFwPolPktCount.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.4	FORTINET-FORTIGATE-MIB	fgFwPolLastUsed	How many minutes since last used.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.5	FORTINET-FORTIGATE-MIB	fgFwPolPktCountHc	64-bit Number of packets matched to policy (passed or blocked, depending on policy action). Count is from the time the policy became active.
+.1.3.6.1.4.1.12356.101.5.1.2.1.1.6	FORTINET-FORTIGATE-MIB	fgFwPolByteCountHc	64-bit Number of bytes in packets matching the policy. See fgFwPolPktCountHc.
+.1.3.6.1.4.1.12356.101.5.1.2.2	FORTINET-FORTIGATE-MIB	fgFwPol6StatsTable	Firewall policy6 statistics table. This table has a dependent expansion relationship with fgVdTable. Only virtual domains with enabled policies are present in this table.
+.1.3.6.1.4.1.12356.101.5.1.2.2.1	FORTINET-FORTIGATE-MIB	fgFwPol6StatsEntry	Firewall policy6 statistics on a virtual domain
+.1.3.6.1.4.1.12356.101.5.1.2.2.1.1	FORTINET-FORTIGATE-MIB	fgFwPol6ID	Firewall policy6 ID. Only enabled policies are present in this table. Policy IDs are only unique within a virtual domain.
+.1.3.6.1.4.1.12356.101.5.1.2.2.1.2	FORTINET-FORTIGATE-MIB	fgFwPol6PktCount	Number of packets matched to policy (passed or blocked, depending on policy action). Count is from the time the policy became active.
+.1.3.6.1.4.1.12356.101.5.1.2.2.1.3	FORTINET-FORTIGATE-MIB	fgFwPol6ByteCount	Number of bytes in packets matching the policy. See fgFwPol6PktCount.
+.1.3.6.1.4.1.12356.101.5.1.2.2.1.4	FORTINET-FORTIGATE-MIB	fgFwPol6LastUsed	How many minutes since last used.
+.1.3.6.1.4.1.12356.101.5.2	FORTINET-FORTIGATE-MIB	fgFwUsers	
+.1.3.6.1.4.1.12356.101.5.2.1	FORTINET-FORTIGATE-MIB	fgFwUserInfo	
+.1.3.6.1.4.1.12356.101.5.2.1.1	FORTINET-FORTIGATE-MIB	fgFwUserNumber	The number of user accounts in fgFwUserTable
+.1.3.6.1.4.1.12356.101.5.2.1.2	FORTINET-FORTIGATE-MIB	fgFwUserAuthTimeout	Idle period after which a firewall-authentication user's session is automatically expired
+.1.3.6.1.4.1.12356.101.5.2.2	FORTINET-FORTIGATE-MIB	fgFwUserTables	
+.1.3.6.1.4.1.12356.101.5.2.2.1	FORTINET-FORTIGATE-MIB	fgFwUserTable	A list of local and proxy (Radius server) user accounts for use with firewall user authentication
+.1.3.6.1.4.1.12356.101.5.2.2.1.1	FORTINET-FORTIGATE-MIB	fgFwUserEntry	An entry containing information applicable to a particular user account
+.1.3.6.1.4.1.12356.101.5.2.2.1.1.1	FORTINET-FORTIGATE-MIB	fgFwUserIndex	An index for uniquely identifying the users in fgFwUserTable
+.1.3.6.1.4.1.12356.101.5.2.2.1.1.2	FORTINET-FORTIGATE-MIB	fgFwUserName	User-name of the specified account
+.1.3.6.1.4.1.12356.101.5.2.2.1.1.3	FORTINET-FORTIGATE-MIB	fgFwUserAuth	Type of authentication the account uses (local, RADIUS, LDAP, etc.)
+.1.3.6.1.4.1.12356.101.5.2.2.1.1.4	FORTINET-FORTIGATE-MIB	fgFwUserState	Status of the user account (enable/disable)
+.1.3.6.1.4.1.12356.101.5.2.2.1.1.5	FORTINET-FORTIGATE-MIB	fgFwUserVdom	Virtual domain the user account exists in. This index corresponds to the index used in fgVdTable.
+.1.3.6.1.4.1.12356.101.6	FORTINET-FORTIGATE-MIB	fgMgmt	
+.1.3.6.1.4.1.12356.101.6.0	FORTINET-FORTIGATE-MIB	fgFmTrapPrefix	
+.1.3.6.1.4.1.12356.101.6.0.1000	FORTINET-FORTIGATE-MIB	fgFmTrapDeployComplete	Indicates when deployment of a new configuration has been completed. Used for verification by FortiManager.
+.1.3.6.1.4.1.12356.101.6.0.1002	FORTINET-FORTIGATE-MIB	fgFmTrapDeployInProgress	Indicates that a configuration change was not immediate and that the change is currently in progress. Used for verification by FortiManager.
+.1.3.6.1.4.1.12356.101.6.0.1003	FORTINET-FORTIGATE-MIB	fgFmTrapConfChange	The device configuration has been changed by something other than the managing FortiManager device.
+.1.3.6.1.4.1.12356.101.6.0.1004	FORTINET-FORTIGATE-MIB	fgFmTrapIfChange	Trap is sent to the managing FortiManager if an interface IP is changed
+.1.3.6.1.4.1.12356.101.6.1	FORTINET-FORTIGATE-MIB	fgAdmin	
+.1.3.6.1.4.1.12356.101.6.1.1	FORTINET-FORTIGATE-MIB	fgAdminOptions	
+.1.3.6.1.4.1.12356.101.6.1.1.1	FORTINET-FORTIGATE-MIB	fgAdminIdleTimeout	Idle period after which an administrator is automatically logged out of the system
+.1.3.6.1.4.1.12356.101.6.1.1.2	FORTINET-FORTIGATE-MIB	fgAdminLcdProtection	Status of the LCD protection (enabled/disabled)
+.1.3.6.1.4.1.12356.101.6.1.2	FORTINET-FORTIGATE-MIB	fgAdminTables	
+.1.3.6.1.4.1.12356.101.6.1.2.1	FORTINET-FORTIGATE-MIB	fgAdminTable	A table of administrator accounts on the device
+.1.3.6.1.4.1.12356.101.6.1.2.1.1	FORTINET-FORTIGATE-MIB	fgAdminEntry	An entry containing information applicable to a particular admin account
+.1.3.6.1.4.1.12356.101.6.1.2.1.1.1	FORTINET-FORTIGATE-MIB	fgAdminVdom	The virtual domain the administrator belongs to
+.1.3.6.1.4.1.12356.101.6.2	FORTINET-FORTIGATE-MIB	fgMgmtTrapObjects	
+.1.3.6.1.4.1.12356.101.6.2.1	FORTINET-FORTIGATE-MIB	fgManIfIp	IP address of the interface listed in the trap
+.1.3.6.1.4.1.12356.101.6.2.2	FORTINET-FORTIGATE-MIB	fgManIfMask	Mask of subnet the interface belongs to
+.1.3.6.1.4.1.12356.101.6.2.3	FORTINET-FORTIGATE-MIB	fgManIfIp6	IPv6 address of the interface listed in the trap
+.1.3.6.1.4.1.12356.101.7	FORTINET-FORTIGATE-MIB	fgIntf	
+.1.3.6.1.4.1.12356.101.7.1	FORTINET-FORTIGATE-MIB	fgIntfInfo	
+.1.3.6.1.4.1.12356.101.7.2	FORTINET-FORTIGATE-MIB	fgIntfTables	
+.1.3.6.1.4.1.12356.101.7.2.1	FORTINET-FORTIGATE-MIB	fgIntfTable	Fortinet specific extensions to MIB-2 ifTable
+.1.3.6.1.4.1.12356.101.7.2.1.1	FORTINET-FORTIGATE-MIB	fgIntfEntry	Fortinet specific information about an ifEntry. This table augments the standard ifTable, so the same indexing is used.
+.1.3.6.1.4.1.12356.101.7.2.1.1.1	FORTINET-FORTIGATE-MIB	fgIntfEntVdom	The virtual domain the interface belongs to. This index corresponds to the index used by fgVdTable.
+.1.3.6.1.4.1.12356.101.7.3	FORTINET-FORTIGATE-MIB	fgIntfVrrps	
+.1.3.6.1.4.1.12356.101.7.3.1	FORTINET-FORTIGATE-MIB	fgIntfVrrpCount	The number of entries in fgIntfVrrpTable
+.1.3.6.1.4.1.12356.101.7.3.2	FORTINET-FORTIGATE-MIB	fgIntfVrrpTable	A list of VRRPs and values.
+.1.3.6.1.4.1.12356.101.7.3.2.1	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntry	An entry containing the ID, group ID, interface name, state and IP address of a given virtual router.
+.1.3.6.1.4.1.12356.101.7.3.2.1.1	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntIndex	A unique identifier within the fgIntfVrrpTable
+.1.3.6.1.4.1.12356.101.7.3.2.1.2	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntVrId	ID of a virtual router.
+.1.3.6.1.4.1.12356.101.7.3.2.1.3	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntGrpId	The group ID of a virtual router.
+.1.3.6.1.4.1.12356.101.7.3.2.1.4	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntIfName	The interface name of a virtual router.
+.1.3.6.1.4.1.12356.101.7.3.2.1.5	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntState	State of a virtual router.
+.1.3.6.1.4.1.12356.101.7.3.2.1.6	FORTINET-FORTIGATE-MIB	fgIntfVrrpEntVrIp	IP address of a virtual router.
+.1.3.6.1.4.1.12356.101.7.4	FORTINET-FORTIGATE-MIB	fgIntfVlanHbs	
+.1.3.6.1.4.1.12356.101.7.4.1	FORTINET-FORTIGATE-MIB	fgIntfVlanHbCount	The number of entries in fgIntfVlanHbTable
+.1.3.6.1.4.1.12356.101.7.4.2	FORTINET-FORTIGATE-MIB	fgIntfVlanHbTable	A list of VlanHbs and values.
+.1.3.6.1.4.1.12356.101.7.4.2.1	FORTINET-FORTIGATE-MIB	fgIntfVlanHbEntry	An entry containing the vlan interface name, peer's serial number and state of a given vlan interface heartbeat.
+.1.3.6.1.4.1.12356.101.7.4.2.1.1	FORTINET-FORTIGATE-MIB	fgIntfVlanHbEntIndex	A unique identifier within the fgIntfVlanHbTable
+.1.3.6.1.4.1.12356.101.7.4.2.1.2	FORTINET-FORTIGATE-MIB	fgIntfVlanHbEntIfName	The vlan interface name.
+.1.3.6.1.4.1.12356.101.7.4.2.1.3	FORTINET-FORTIGATE-MIB	fgIntfVlanHbEntSerial	Serial number of a vlan HA peer.
+.1.3.6.1.4.1.12356.101.7.4.2.1.4	FORTINET-FORTIGATE-MIB	fgIntfVlanHbEntState	State of a vlan interface heartbeat.
+.1.3.6.1.4.1.12356.101.8	FORTINET-FORTIGATE-MIB	fgAntivirus	
+.1.3.6.1.4.1.12356.101.8.1	FORTINET-FORTIGATE-MIB	fgAvInfo	
+.1.3.6.1.4.1.12356.101.8.2	FORTINET-FORTIGATE-MIB	fgAvTables	
+.1.3.6.1.4.1.12356.101.8.2.1	FORTINET-FORTIGATE-MIB	fgAvStatsTable	A table of Anti-virus statistics per virtual domain
+.1.3.6.1.4.1.12356.101.8.2.1.1	FORTINET-FORTIGATE-MIB	fgAvStatsEntry	Anti-virus statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.8.2.1.1.1	FORTINET-FORTIGATE-MIB	fgAvVirusDetected	Number of virus transmissions detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.10	FORTINET-FORTIGATE-MIB	fgAvIMAPVirusBlocked	Number of virus transmissions over IMAP blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.11	FORTINET-FORTIGATE-MIB	fgAvFTPVirusDetected	Number of virus transmissions over FTP detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.12	FORTINET-FORTIGATE-MIB	fgAvFTPVirusBlocked	Number of virus transmissions over FTP blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.13	FORTINET-FORTIGATE-MIB	fgAvIMVirusDetected	Number of virus transmissions over IM protocols detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.14	FORTINET-FORTIGATE-MIB	fgAvIMVirusBlocked	Number of virus transmissions over IM protocols blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.15	FORTINET-FORTIGATE-MIB	fgAvNNTPVirusDetected	Number of virus transmissions over NNTP detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.16	FORTINET-FORTIGATE-MIB	fgAvNNTPVirusBlocked	Number of virus transmissions over NNTP blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.17	FORTINET-FORTIGATE-MIB	fgAvOversizedDetected	Number of over-sized file transmissions detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.18	FORTINET-FORTIGATE-MIB	fgAvOversizedBlocked	Number of over-sized file transmissions blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.2	FORTINET-FORTIGATE-MIB	fgAvVirusBlocked	Number of virus transmissions blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.3	FORTINET-FORTIGATE-MIB	fgAvHTTPVirusDetected	Number of virus transmissions over HTTP detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.4	FORTINET-FORTIGATE-MIB	fgAvHTTPVirusBlocked	Number of virus transmissions over HTTP blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.5	FORTINET-FORTIGATE-MIB	fgAvSMTPVirusDetected	Number of virus transmissions over SMTP detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.6	FORTINET-FORTIGATE-MIB	fgAvSMTPVirusBlocked	Number of virus transmissions over SMTP blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.7	FORTINET-FORTIGATE-MIB	fgAvPOP3VirusDetected	Number of virus transmissions over POP3 detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.8	FORTINET-FORTIGATE-MIB	fgAvPOP3VirusBlocked	Number of virus transmissions over POP3 blocked in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.2.1.1.9	FORTINET-FORTIGATE-MIB	fgAvIMAPVirusDetected	Number of virus transmissions over IMAP detected in the virtual domain since start-up
+.1.3.6.1.4.1.12356.101.8.3	FORTINET-FORTIGATE-MIB	fgAvTrapObjects	
+.1.3.6.1.4.1.12356.101.8.3.1	FORTINET-FORTIGATE-MIB	fgAvTrapVirName	Virus name that triggered event
+.1.3.6.1.4.1.12356.101.9	FORTINET-FORTIGATE-MIB	fgIps	
+.1.3.6.1.4.1.12356.101.9.1	FORTINET-FORTIGATE-MIB	fgIpsInfo	
+.1.3.6.1.4.1.12356.101.9.2	FORTINET-FORTIGATE-MIB	fgIpsTables	
+.1.3.6.1.4.1.12356.101.9.2.1	FORTINET-FORTIGATE-MIB	fgIpsStatsTable	A table of IPS/IDS statistics per virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1	FORTINET-FORTIGATE-MIB	fgIpsStatsEntry	IPS/IDS statistics for a particular virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.1	FORTINET-FORTIGATE-MIB	fgIpsIntrusionsDetected	Number of intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.2	FORTINET-FORTIGATE-MIB	fgIpsIntrusionsBlocked	Number of intrusions blocked since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.3	FORTINET-FORTIGATE-MIB	fgIpsCritSevDetections	Number of critical severity intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.4	FORTINET-FORTIGATE-MIB	fgIpsHighSevDetections	Number of high severity intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.5	FORTINET-FORTIGATE-MIB	fgIpsMedSevDetections	Number of medium severity intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.6	FORTINET-FORTIGATE-MIB	fgIpsLowSevDetections	Number of low severity intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.7	FORTINET-FORTIGATE-MIB	fgIpsInfoSevDetections	Number of informational severity intrusions detected since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.8	FORTINET-FORTIGATE-MIB	fgIpsSignatureDetections	Number of intrusions detected by signature since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.2.1.1.9	FORTINET-FORTIGATE-MIB	fgIpsAnomalyDetections	Number of intrusions DECed as anomalies since start-up in this virtual domain
+.1.3.6.1.4.1.12356.101.9.3	FORTINET-FORTIGATE-MIB	fgIpsTrapObjects	
+.1.3.6.1.4.1.12356.101.9.3.1	FORTINET-FORTIGATE-MIB	fgIpsTrapSigId	ID of IPS signature identified in trap
+.1.3.6.1.4.1.12356.101.9.3.2	FORTINET-FORTIGATE-MIB	fgIpsTrapSrcIp	Source IP Address of the IPS signature trigger
+.1.3.6.1.4.1.12356.101.9.3.3	FORTINET-FORTIGATE-MIB	fgIpsTrapSigMsg	Message associated with IPS event
 .1.3.6.1.4.1.12394.1.10.1.25	ALVARION-PRODUCTS-MIB	alvarionWI2CTRL40	
 .1.3.6.1.4.1.12394.1.10.1.27	ALVARION-PRODUCTS-MIB	alvarionWI2CTRL200	
 .1.3.6.1.4.1.12394.1.10.1.35	ALVARION-PRODUCTS-MIB	alvarionWI2CTRL10	
