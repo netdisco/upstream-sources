@@ -4767,7 +4767,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4765	Tomorrow Factory
 4766	Hochschule Heilbronn
 4767	TrafficMaster PLC
-4768	E.ON SE (formerly 'E.ON AG')
+4768	E.ON SE
 4769	IBM Corporation
 4770	Ol'e Communications, Inc.
 4771	Narus Inc
@@ -15756,7 +15756,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 15754	Vancouver Community Network
 15755	PIVoD Technologies
 15756	Wistron NeWeb Corporation
-15757	MITSUBISHI ELECTRIC INFORMATION TECHNOLOGY CORPORATION(MDIT)
+15757	Mitsubishi Electric Digital Innovation Corporation
 15758	suntek beijingyanjiuyuan
 15759	Greener Pastures Innovations
 15760	NMSWorks  Software Limited
@@ -21295,7 +21295,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 21293	Fabric7 Systems, Inc.
 21294	KIKA S.A.
 21295	Cunningham and Othen
-21296	Infinera Corp.
+21296	Nokia (formerly 'Infinera Corp.')
 21297	U.Z.KULeuven
 21298	Odyssey Pharmaceuticals, Inc.
 21299	BigFix, Inc.
@@ -37618,7 +37618,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37616	SATS Holding AB
 37617	Ventek Sistemas e AutomaÃ§Ã£o
 37618	Tumblr
-37619	SCHIEx
+37619	SCeHA
 37620	Alegent Health
 37621	Ename, S.A.
 37622	Chrysalis Utah, Inc.
@@ -42228,7 +42228,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 42226	Evolve Media LLC
 42227	Max-Planck-Institut fuer Mikrostrukturphysik
 42228	Center Group
-42229	Coriant R&D GmbH
+42229	Nokia (formerly 'Coriant R&D GmbH')
 42230	HiProCall GmbH
 42231	AlfaTrein Ltd
 42232	Fanzz
@@ -42609,7 +42609,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 42607	Brekford International
 42608	Alan Seedhouse
 42609	Boundary, Inc.
-42610	Superior Power solutions (HK) Co.,Ltd
+42610	Powertek Limited
 42611	Valdrea, LLC
 42612	Koninklijke BAM Groep nv
 42613	POLYONE CORPORATION
@@ -56373,7 +56373,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 56371	DOTSCREEN
 56372	CONEXTOP Technologies Co., Ltd.
 56373	CSSF
-56374	Media-Tel
+56374	April Innovation
 56375	Elektro Celje d.d.
 56376	New Technologies
 56377	Penzagrazhdanproekt
@@ -63373,4 +63373,48 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63371	KassenÃ¤rztliche Vereinigung Hamburg
 63372	PER CLAESSON ÃKERI AB
 63373	Buderus Edelstahl GmbH
+63374	Guangdong Vecentek information technology Co., Ltd
+63375	SCADAHAWK
+63376	Hudson Community Enterprises
+63377	STUDENT AGENCY k.s.
+63378	SESOM2 AB
+63379	Byte25
+63380	Nanjing OME NEW Energy Co., Ltd
+63381	Markus Heinze
+63382	Beijing Horiscale Information Technology Co., Ltd.
+63383	danpatrick.net
+63384	Minut, Inc.
+63385	Forever Engineering Systems Pvt. Ltd.
+63386	Novatel d.o.o.
+63387	Dongguan Onyx Electronics Co.,Ltd
+63388	Waterworld_B1
+63389	Alexander Trofimovich
+63390	Ocaka Bosco
+63391	CRRC Zhuzhou Electric Locomotive Research Institute Co.
+63392	Otogenetics Corporation
+63393	Shenzhen Sinexcel Isuna Energy Technology Co., Ltd.
+63394	Paperman
+63395	Interventus - Huissiers de Justice
+63396	Sound Track Israel LTD
+63397	Paris Consolidated School District
+63398	Bruce Power
+63399	SIU TELECOMMUNICATIONS NETWORK LTD
+63400	Berlemann Torbau GmbH
+63401	PEDIATRIC CONSULTANTS OF KENDALL, P.A.
+63402	Laser North, Inc.
+63403	Kwantlen Polytechnic University
+63404	OpenAI
+63405	Elreg AS
+63406	Network Visor
+63407	å¹¿è¥¿çµç½è½æºç§ææéè´£ä»»å¬å¸ (Guangxi Grid Energy Technology Co., Ltd.)
+63408	Summitronics
+63409	TeamHope
+63410	MÃ¶ssner-IT
+63411	Pushtab
+63412	ORGCERT S.R.L.
+63413	NetExpert
+63414	Group 1001
+63415	Shenzhen Microtest Automation Technology Co., Ltd.
+63416	GieÅda PapierÃ³w WartoÅciowych w Warszawie S.A.
+63417	Acoustic Technology Inc.
 \.
