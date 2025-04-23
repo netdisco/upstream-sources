@@ -4579,7 +4579,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4577	Internet Research
 4578	SSE Telecom
 4579	Vest Internett
-4580	Diversified Business Group
+4580	Progressive Casualty Insurance Company
 4581	Seeburger GmbH
 4582	World Telecom plc
 4583	NetStar
@@ -8707,7 +8707,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 8705	Israel Local Authorities Data Processing Center LTD
 8706	Unassigned
 8707	SpiderNet Services Ltd
-8708	Lumentis AB
+8708	Nokia (formerly 'Lumentis AB')
 8709	Landesamt fÃ¼r Besoldung und Versorgung NRW
 8710	Envoy Networks
 8711	THALES Broadcast & Multimedia
@@ -11856,7 +11856,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 11854	Healthvision (formerly 'Quovadx, Inc.')
 11855	Retirement By Design
 11856	TNT Logistics North America
-11857	Transmode Systems AB
+11857	Nokia (formerly 'Transmode Systems AB')
 11858	UANGEL
 11859	WorldChain Inc.
 11860	wossname.org.uk
@@ -47831,7 +47831,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 47829	Fornetix
 47830	MovingStar Corporation
 47831	Robert Half Inc.
-47832	NBCUniversal
+47832	Unassigned
 47833	Teleworks Co., Ltd.
 47834	OOO NPP "POLUS"
 47835	ARCHIVECO
@@ -63242,7 +63242,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63240	Silver IT Co.
 63241	Digity.Tech
 63242	CryptoStudio
-63243	BitTechnology
+63243	BitTech LLC
 63244	BRDSOFT SoluÃ§Ãµes de T.i e TelecomunicaÃ§Ãµes
 63245	mcnsky
 63246	æ·±å³ä¼è¾¾å¨ç§ææéå¬å¸ (Shenzhen Zhongdawei Technology Co., Ltd.)
@@ -63414,7 +63414,44 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63412	ORGCERT S.R.L.
 63413	NetExpert
 63414	Group 1001
-63415	Shenzhen Microtest Automation Technology Co., Ltd.
+63415	ShenZhen Microtest Automation Co.,Ltd
 63416	GieÅda PapierÃ³w WartoÅciowych w Warszawie S.A.
 63417	Acoustic Technology Inc.
+63418	Trygve Bengtsons Ãkeri AB
+63419	WG
+63420	Zhang Anjun
+63421	Anthony Rielly
+63422	åäº¬ä¸­ç§å¤§æ´ä¿¡æ¯ææ¯æéå¬å¸ (Beijing Zhongke Dayang Information Technology Co., Ltd.)
+63423	Gray & Company, Inc.
+63424	Florian Bauer
+63425	MONTANA Energie-Handel GmbH & Co. KG
+63426	Quargentan S.p.A.
+63427	Beijing  Digital Ocean Technology Co., LTD
+63428	Illuminati
+63429	Children's Endocrinology and Diabetes Center
+63430	Essentia Health
+63431	Ketnet
+63432	Micro-X
+63433	EWR GmbH
+63434	Maple Systems Inc.
+63435	lalasoft
+63436	Howarth Labs
+63437	TaoCloud Technology Co.,Ltd
+63438	Helmholz GmbH & Co. KG
+63439	LibreCode coop
+63440	TePSEG
+63441	Congyue Wang
+63442	Editorial Mar Caribe
+63443	Vizrt NDI AB
+63444	HANGANG MECHATRONICS CO.,LTD
+63445	Solarmonthus
+63446	chijiu
+63447	Changkuai Computing Information Industry (Beijing) Co., Ltd.
+63448	ëíì ë ¥ì ì(ì£¼) (Daehan Power Electronics Co., Ltd.)
+63449	WayFi Wireless
+63450	Accommodating Software Ltd.
+63451	Longchester Ltd
+63452	Phramongkutklao College of Medicine
+63453	Phramongkutklao Hospital
+63454	Zhongying Medical Technology Co., Ltd
 \.
