@@ -19178,7 +19178,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 19176	SCOMCENTER
 19177	Tandem Systems, Ltd.
 19178	Skill Corporation
-19179	Raysis Co.,Ltd
+19179	Vieworks Co.,Ltd
 19180	Guidewire Software, Inc.
 19181	Optimum Holding Inc.
 19182	JDA Software
@@ -51334,7 +51334,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 51332	Shenzhen Taishan Technology Co., Ltd.
 51333	EduBase LLC
 51334	PolarPower, Inc.
-51335	Austrian Federal Ministry of Education, Science and Research
+51335	Austrian Federal Ministry of Women, Science and Research
 51336	Big River Communications
 51337	Freesat Limited
 51338	Frederick County Bank
@@ -63454,4 +63454,60 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63452	Phramongkutklao College of Medicine
 63453	Phramongkutklao Hospital
 63454	Zhongying Medical Technology Co., Ltd
+63455	LYSORA TECHNOLOGY INC.
+63456	SharpVNC Limited
+63457	Capital Digestive Care
+63458	Atopos LLC
+63459	Sole Proprietor Varnavskij Vyacheslav Grigor'evich
+63460	Inori Lee
+63461	ChinaNetwork
+63462	Aetina Corporation
+63463	Ekova systems Sdn bhd
+63464	baisenvar
+63465	HCInfoTech, LLC
+63466	E-Sign (UK) Ltd
+63467	Laila Technologies Inc.
+63468	Illustra (JCI)
+63469	iSoftStone Computer Co.,Ltd
+63470	Radboudumc Nijmegen
+63471	Phramongkutklao Medical Command Center
+63472	moveero Ltd
+63473	Military Medical City Hospital (MMCH)
+63474	bwi suisse ag
+63475	Instituto de Seguridad Social del Estado de Tabasco
+63476	BandShell Ltd
+63477	Expedium Consulting
+63478	Haroon Rashidi
+63479	EDAC Electronics Australasia
+63480	HealthDrive
+63481	JMV LPS Limited
+63482	Wave1 Pty Ltd
+63483	Global Precision Group
+63484	Coulter Clinic, LLC
+63485	Toyota Boshoku AKI USA, LLC
+63486	Beijing Golding Dsec Technology Co.,Ltd
+63487	Norddeutscher Rundfunk
+63488	Aivres Systems Inc.
+63489	LISS Technologies
+63490	European Economic and Social Committee
+63491	European Committee of the Regions
+63492	Storax Oy
+63493	Hicham REDA
+63494	KIPP NC Public Schools
+63495	REALTECH AG
+63496	ASEE BSS Dooel - Macedonia
+63497	Leuchter CLOUD
+63498	GBM Securities Limited
+63499	MetsÃ¤n Woima Oy
+63500	Highland Engineering, Inc.
+63501	Camping World
+63502	Conn-Selmer
+63503	NetBrain Technologies, Inc.
+63504	Ragam Kode Aplikasi
+63505	PUBLIC JOINT-STOCK COMPANY WORLD TRADE CENTER MOSCOW
+63506	Virginia Cloud Technologies
+63507	Mifotec GmbH
+63508	PEWETA KG (GmbH+Co.)
+63509	Varnum Law LLP
+63510	KAD Research Systems LLC
 \.
