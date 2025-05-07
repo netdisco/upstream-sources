@@ -63510,4 +63510,36 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63508	PEWETA KG (GmbH+Co.)
 63509	Varnum Law LLP
 63510	KAD Research Systems LLC
+63511	EdiEyes
+63512	itdesign
+63513	Zhejiang WonCloud Technology Co., Ltd
+63514	Lamatel
+63515	Lightyear
+63516	DB Investment Services GmbH
+63517	SIA u.one.pro
+63518	Newland Vi-Challenging
+63519	Tablebound
+63520	SMART DCC LIMITED
+63521	Shanghai Yoocar Network Technology Co., Ltd.
+63522	Thoracic & Vascular Associates of New Jersey
+63523	WestEd
+63524	Ho&Bros Tech Co., Ltd.
+63525	Charleston County School District (CCSD)
+63526	ELIUS LLC
+63527	Redwood Group LLC
+63528	U4me.4u
+63529	Dole plc
+63530	The State Hospitals Board for Scotland
+63531	Unified Technologies
+63532	The Wade Agency
+63533	NetFire, LLC
+63534	Matrix Design Group, LLC.
+63535	SONiC Foundation
+63536	Oran Palmach Tzuba A.C.C. Ltd.
+63537	Anton Kokarev
+63538	CVR Data GmbH
+63539	Rail Power Systems GmbH
+63540	Yupiii Co. PSA
+63541	MiHome
+63542	PRIMECORELAT S.A.S B.I.C.
 \.
