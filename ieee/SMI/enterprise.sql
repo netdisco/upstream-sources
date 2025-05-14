@@ -2605,7 +2605,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2603	Allot Communications
 2604	Sophos Plc
 2605	TaylorMade-Math
-2606	Rittal-Werk Rudolf Loh GmbH & Co.KG
+2606	Rittal GmbH & Co. KG
 2607	LAN International, Inc.
 2608	Precise Software Solutions
 2609	New Prime Inc.
@@ -63166,7 +63166,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63164	Waggeryd Cell AB
 63165	VÃ¤stervik MiljÃ¶ & Energi AB
 63166	Scanvaegt Systems AB
-63167	FUNDACIÃN COOLTURE4KIDS
+63167	FUNDACIÃN CIVITANA
 63168	UnipartRail
 63169	TEXAS DEPARTMENT OF DEVELOPMENT
 63170	XYC INDUSTRY CO.,LIMITED
@@ -63542,4 +63542,43 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63540	Yupiii Co. PSA
 63541	MiHome
 63542	PRIMECORELAT S.A.S B.I.C.
+63543	NIITFA, JSC
+63544	Bellobrick BV
+63545	Objectify, s. r. o.
+63546	Quoin Inc.
+63547	SIMM.PRO
+63548	Zhang Hao
+63549	SELTAR
+63550	MAEM Sp. z o.o
+63551	Zhonglian Huanuo (Beijing) Technology Co., Ltd.
+63552	mitocode.eu
+63553	City of Laurel
+63554	Movyon S.p.A.
+63555	Belden Inc.
+63556	Salus CM Inc.
+63557	Forest Systems, Inc.
+63558	Alpamayo
+63559	Fisher Investments
+63560	LEGTECH sÃ rl
+63561	Robert Josef Wolf GmbH & Co. KG
+63562	Peraso Inc.
+63563	Hangzhou Jingtang Communication Tech Co, Ltd
+63564	Rheinbahn AG
+63565	Hanab Connectivity Solutions
+63566	Onoff Telecom
+63567	Madison City Schools
+63568	Paradigm Geospatial, Inc.
+63569	DI3 Infotech LLP
+63570	Skryptek
+63571	KERRYJ INVESTMENT PTY LTD
+63572	TrustNXT GmbH
+63573	JSC "STC UPS"
+63574	Standards and Interoperability Lab
+63575	NEXGOV
+63576	Lanboss Limited
+63577	Shenzhen Hellornd Tech Limited
+63578	SIMPLIWORKS SRL
+63579	SPARK CAPITAL SYSTEMS SRL
+63580	ifb Institut zur Fortbildung von BetriebsrÃ¤ten GmbH & Co. KG
+63581	DevMiner Labs
 \.
