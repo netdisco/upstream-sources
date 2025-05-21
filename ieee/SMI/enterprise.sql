@@ -63485,7 +63485,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63483	Global Precision Group
 63484	Coulter Clinic, LLC
 63485	Toyota Boshoku AKI USA, LLC
-63486	Beijing Golding Dsec Technology Co.,Ltd
+63486	Beijing Golding Digital Security Technology Co., Ltd
 63487	Norddeutscher Rundfunk
 63488	Aivres Systems Inc.
 63489	LISS Technologies
@@ -63581,4 +63581,52 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63579	SPARK CAPITAL SYSTEMS SRL
 63580	ifb Institut zur Fortbildung von BetriebsrÃ¤ten GmbH & Co. KG
 63581	DevMiner Labs
+63582	Triboelectric
+63583	Hank Evans
+63584	XENOptics Ltd.
+63585	COSLINK DIGITAL ENERGY TECHNOLOGY CO.,LTD
+63586	Holzfred
+63587	St George's University Hospitals NHS Foundation Trust
+63588	Cygnus Platform
+63589	Siretta Ltd
+63590	Caleb Fleming
+63591	CENTREVILLE
+63592	Abria, Inc.
+63593	Observable Space
+63594	NationGate Computing Sdn. Bhd
+63595	Konecranes
+63596	HAMTEX Project
+63597	AOSTAR information technologies co.,LTD
+63598	Ironwave Technologies
+63599	HEINE Optotechnik GmbH & Co. KG
+63600	Beijing WIT Technology Ltd.
+63601	County of Carroll, NH
+63602	Beijing Wisdomstar Technology Co., Ltd
+63603	teslab
+63604	Hengji Jiaye (Hangzhou) Technology Co., Ltd
+63605	BRD GmbH
+63606	PRIZOR VIZTECH LTD
+63607	Nedinsco B.V.
+63608	Marshall Land Systems
+63609	PT. Teman Baik Sejahtera
+63610	Letmi PanamÃ¡ S.A
+63611	Rhombergbau Holding GmbH
+63612	Green Source Information (Beijing) Technology Co., Ltd
+63613	KNESS GROUP LLC
+63614	Kuttler Tech
+63615	Area Science Park
+63616	Coop7
+63617	LIMITED LIABILITY COMPANY "TA-INFORMATION TECHNOLOGIES" (TA-IT LLC)
+63618	ATAN LLC
+63619	TM Ausbau GmbH
+63620	SAE EVPKI
+63621	RESIX
+63622	Nexus Energy Consulting and Technology Co., Ltd.
+63623	cell-O
+63624	AutoDomo
+63625	TPV Display Technology (Xiamen) Co., Ltd.
+63626	monowi e.K.
+63627	Neuner AS
+63628	Esys Srl
+63629	Guangzhou Gateway Electronics Co.,Ltd
 \.
