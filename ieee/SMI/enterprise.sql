@@ -63585,7 +63585,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63583	Hank Evans
 63584	XENOptics Ltd.
 63585	COSLINK DIGITAL ENERGY TECHNOLOGY CO.,LTD
-63586	Holzfred
+63586	Unassigned
 63587	St George's University Hospitals NHS Foundation Trust
 63588	Cygnus Platform
 63589	Siretta Ltd
@@ -63629,4 +63629,39 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63627	Neuner AS
 63628	Esys Srl
 63629	Guangzhou Gateway Electronics Co.,Ltd
+63630	RWG (Repair & Overhaul) Limited
+63631	Christian Egger
+63632	Companies Office of Jamaica
+63633	Marine Express
+63634	Samtgemeinde Elbtalaue
+63635	æ·±å³æä»æ°ç§ææéå¬å¸ (Shenzhen Mingshijie Technology Co., Ltd.)
+63636	Dwi Apriawan
+63637	Drakes Computers
+63638	Wellcon Gesellschaft fÃ¼r PrÃ¤vention und Arbeitsmedizin GmbH
+63639	Agency for Information and Communication Technologies of Republic of Srpska
+63640	D.A.S. prÃ¡vnÃ­ ochrana, poboÄka ERGO Versicherung Aktiengesellschaft pro ÄR
+63641	Saechsische Staatskanzlei
+63642	LeppÃ¤koski Group Oy
+63643	Fortran Traffic Systems Limited
+63644	Elevate Mental Wellness
+63645	Wuchuan Water
+63646	Bezirk Mittelfranken
+63647	SINAM
+63648	VERO NUTRITION WELLNESS, LLC.
+63649	Shanghai Vaddsoft Network Technology Co., Ltd.vaddsoft
+63650	YSMART ECT LTDA
+63651	Global Tech China Ltd.
+63652	Banedanmark
+63653	iDeed Pty Ltd
+63654	Mahlet Consulting
+63655	Jonathan Moler
+63656	TIMELESS VETERINARY SYSTEMS INC.
+63657	Trantor Standard Systems Inc.
+63658	AthaLabs
+63659	Intergraph Corporation Pty Ltd
+63660	IoT lab one d.o.o.
+63661	aleph0
+63662	Irancell Labs
+63663	Original Products Private Limited
+63664	Original Innovation LLP
 \.
