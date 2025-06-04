@@ -3997,7 +3997,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3995	VASCO Data Security International, Inc.
 3996	Open Systems AG
 3997	ImproWare AG
-3998	Cherus
+3998	Mediagroup Vtoroy
 3999	dydx
 4000	Hi-net Research Group
 4001	KADAK Products Ltd.
@@ -14866,7 +14866,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 14864	TNCE
 14865	Interplex Telecom
 14866	Cottonwood Technology Group, Inc.
-14867	Halcyon Software Limited
+14867	Fortra
 14868	MAV INFORMATIKA Ltd.
 14869	Saudi Telecom
 14870	AVAYA
@@ -50861,7 +50861,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 50859	dilling.dev
 50860	BIOT sp. z o.o.
 50861	Stadtverwaltung Herzogenaurach
-50862	Hotspring Ventures Ltd
+50862	Treatwell Ltd
 50863	Figment Design Laboratories (Pty) Ltd
 50864	GLIWA GmbH
 50865	ilah
@@ -52674,7 +52674,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52672	Teleservice Bredband Skane AB
 52673	VPSign Ltd.
 52674	Schneider Electric / APC NetBotz
-52675	Peddie Institute Co., Ltd.
+52675	Nanyang Maker Education Technology Company
 52676	Hawaiki Cable Ltd.
 52677	iFuture Service Co., Ltd.
 52678	Jit Team Sp. z o.o.
@@ -57241,7 +57241,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57239	DraffeLabs LLC
 57240	Latvijas DaudzbÄrnu Ä£imeÅu apvienÄ«ba
 57241	ATC Labs
-57242	Sturgeon Services International
+57242	Sturgeon Services Intl, Inc.
 57243	Central Rural Electric Cooperative
 57244	FoxTrot AeroWorks
 57245	Dorel Home Furnishings Inc.
@@ -63664,4 +63664,32 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63662	Irancell Labs
 63663	Original Products Private Limited
 63664	Original Innovation LLP
+63665	Qingdao Zhipai Information Technology Co., Ltd.
+63666	è¾½å®å¹¿çç§ææéå¬å¸ (Liaoning Guangshuo Technology Co., Ltd.)
+63667	OOO AiTiLab Plus
+63668	Gottwald GmbH & Co KG
+63669	German Sport University Cologne
+63670	Purple Team Software
+63671	Nexalogic IT Solutions
+63672	Bestinet Sdn Bhd
+63673	Mendaera, Inc.
+63674	Altipeak SA
+63675	MAIA LABS s.r.o.
+63676	JustATechie
+63677	iTEDIUM
+63678	West Feliciana Hospital
+63679	CLTCC
+63680	did.coop
+63681	qsphere
+63682	åäº¬èéæºæ§ç§æéå¢æéå¬å¸ (BEIJING  ACCOMMODATION  WISDOM  TECHNOLOGY GROUP  CO., LTD.)
+63683	AMBK SIA
+63684	Dmytro M. Barabash
+63685	Suzhou RCT Power Energy Technology Co., Ltd
+63686	Adam Popik
+63687	Andi Bellstedt
+63688	XYMOGEN
+63689	Shin Kwang Electronics Co.
+63690	Rhe-Ma Steuerberatungsgesellschaft mbH
+63691	Jost PLASTEC GmbH
+63692	City of Gulf Shores
 \.
