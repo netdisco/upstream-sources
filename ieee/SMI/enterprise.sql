@@ -25622,7 +25622,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 25620	Ost-West Handelsbank AG
 25621	Z Microsystems
 25622	JANET(UK) (formerly 'UKERNA (United Kingdom Education and Research Networking Association)')
-25623	OpenVAS
+25623	Greenbone AG
 25624	Kent School District
 25625	ChattenAssociates, Inc.
 25626	Crufty
@@ -35846,7 +35846,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35844	Stormont-Vail HealthCare
 35845	Heraklion Wireless
 35846	Parsons
-35847	Greenbone Networks GmbH
+35847	Greenbone AG
 35848	Multipolaris Ltd.
 35849	Telefonica International Wholesale Services
 35850	Horns And Hooves
@@ -57861,7 +57861,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57859	CHROMANET
 57860	Brighton Corporation
 57861	Vita Medical Associates
-57862	MetaGeek, LLC
+57862	Oscium
 57863	ASETEC Ingenieria de Sistemas S.L.
 57864	City of Decatur, AL
 57865	Eltako GmbH
@@ -63692,4 +63692,31 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63690	Rhe-Ma Steuerberatungsgesellschaft mbH
 63691	Jost PLASTEC GmbH
 63692	City of Gulf Shores
+63693	Proof.com
+63694	Federal Public Service Employment, Labour and Social Dialogue
+63695	Patrick Hochstein
+63696	STORE Capital LLC
+63697	Juan Dario Mansilla
+63698	Authara Inc.
+63699	Sweda Informatica Ltda
+63700	GLOBAL TECHNOLOGY CENTER
+63701	Savoy Life
+63702	A Woman's Place
+63703	Argo Group
+63704	Diamond Drake Ventures, LLC
+63705	nzyme LLC
+63706	PathConnect GmbH
+63707	Musson Industrial
+63708	RMIT University
+63709	KogiTEK UG
+63710	Enzo Ablack
+63711	Gatewatcher
+63712	OmniChain Holdings, Inc.
+63713	Justitiele ICT Organisatie
+63714	OpForge
+63715	Enervaro Pty Ltd
+63716	Scott Guyton
+63717	KUTTER GmbH & Co. KG
+63718	ACKNetworks,Inc.
+63719	Builtlayer LLC
 \.
