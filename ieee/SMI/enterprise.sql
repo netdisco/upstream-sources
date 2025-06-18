@@ -2068,7 +2068,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2066	Control Resources Corporation
 2067	Advanced Fibre Communications (AFC)
 2068	Elproma Electronica B.V.
-2069	MTA SZTAKI
+2069	SZTAKI
 2070	Consensys Computers Inc
 2071	Jade Digital Research Co.
 2072	Byte This Interactive Pty.Ltd. Mike
@@ -19744,7 +19744,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 19742	Kazeon Systems, Inc
 19743	jpwebworks Pty Ltd
 19744	Novacoast, Inc.
-19745	netz.ooo (formerly 'Dataflake Weblications')
+19745	plyp
 19746	Data Domain, Inc
 19747	The Open and Free Technology Community
 19748	Affiliated Computer Services, Inc. TripPak SERVICES
@@ -25622,7 +25622,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 25620	Ost-West Handelsbank AG
 25621	Z Microsystems
 25622	JANET(UK) (formerly 'UKERNA (United Kingdom Education and Research Networking Association)')
-25623	Greenbone AG
+25623	OpenVAS
 25624	Kent School District
 25625	ChattenAssociates, Inc.
 25626	Crufty
@@ -44316,7 +44316,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44314	Democritus University of Thrace
 44315	Guido Di Fazio
 44316	Softneta UAB
-44317	Kanton Zug (www.zg.ch)
+44317	Kanton Zug (zg.ch)
 44318	PT. Telekomunikasi Indonesia
 44319	Oklahoma Cancer Specialists and Research Institute
 44320	Lake Norman Hematology Oncology
@@ -63719,4 +63719,33 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63717	KUTTER GmbH & Co. KG
 63718	ACKNetworks,Inc.
 63719	Builtlayer LLC
+63720	Melissa Martinez
+63721	Walker Morris LLP
+63722	Jade Wurzer
+63723	Maxime DERCHE Information System Consulting France
+63724	Stack AV
+63725	Kadec
+63726	IT Route, LLC
+63727	Resillion UK Limited
+63728	Ares LTD
+63729	Department of Communication Security
+63730	Beijing Huahong IC Design Co., Ltd.
+63731	SAS TECHVAR
+63732	æ°ç¬æ°ææ¯ï¼æ·±å³ï¼æéå¬å¸ (Shuju New Technology (Shenzhen) Co., Ltd.)
+63733	Masovskiy International Organization - MIO
+63734	Mathias MÃ¼ller
+63735	EasyPay
+63736	Madeiranit
+63737	ZERO Labs
+63738	Landes-Feuerwehrverband Tirol
+63739	Goldpac Limited
+63740	Systemair AB
+63741	Geonica
+63742	Doctornow Inc
+63743	LEW Service & Consulting GmbH
+63744	Moya
+63745	Vyskumny ustav vodneho hospodarstva
+63746	Noshaq
+63747	EAJ Global
+63748	HEQA Security
 \.
