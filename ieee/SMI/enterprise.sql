@@ -56035,7 +56035,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 56033	Die Autobahn GmbH des Bundes
 56034	ALS Laboratory Group
 56035	GALDERMA S.A.
-56036	Gentlent UG (haftungsbeschrÃ¤nkt)
+56036	Gentlent GmbH
 56037	Argo AI
 56038	Nroad
 56039	Bold City Tech
@@ -61087,7 +61087,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61085	Terra Sound
 61086	Chengdu BeiZhongWangXin Technology Co.Ltd
 61087	shenzhen real linkShenzhen Real Link Technology Co.,Ltd
-61088	Anuvu
+61088	MTNSAT
 61089	Lighthouse Credit Union
 61090	PKITNEXT LABS
 61091	DMIM
@@ -63748,4 +63748,53 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63746	Noshaq
 63747	EAJ Global
 63748	HEQA Security
+63749	MATTERS (Winb Estrategia)
+63750	Vincent Nic
+63751	Ictrek
+63752	Vicente
+63753	Jisnu Communications Private Limited
+63754	Rene Anton Castillo
+63755	AStA der UniversitÃ¤t zu LÃ¼beck
+63756	Imply Tecnologia
+63757	SHEN ZHEN CLOU ELECTRONICS CO.,LTD.
+63758	OpenYard
+63759	Southeast Medical Imaging
+63760	Novedades kay
+63761	dkt
+63762	Zonit Structured Solutions
+63763	Plaid Inc.
+63764	Unassigned
+63765	Maxim Parygin
+63766	AZORG VZW
+63767	Telcore
+63768	Firstwave Cloud
+63769	Useful Data LLC
+63770	Javier Espino SÃ¡enz
+63771	E.C. Styberg Engineering
+63772	Guerbet
+63773	Orange Cyberdefense
+63774	Digisol Systems Limited
+63775	Silent Sentinel Ltd
+63776	SYN-bit
+63777	MRB Desenvolvimento de Software
+63778	Montage Technology
+63779	McCrae Hospitals (Thailand) Limited
+63780	äº¿é³ä¿¡éè¡ä»½æéå¬å¸ (BOCO Inter-Telecom Co., Ltd.)
+63781	Emeika Jones
+63782	Leland Cheung
+63783	New Idea LLC
+63784	Exotic Shell
+63785	AURCORE TECHNOLOGY INC.
+63786	Xiâan BetterCtrl  Intelligent Technology Co., Ltd
+63787	Logical Innovations, LLC
+63788	Crestava
+63789	Ernest Wong
+63790	VoidTrust LLC
+63791	Whiskey House of Kentucky
+63792	Educational Institution ALMATY MANAGEMENT UNIVERSITY
+63793	èç»´æï¼ä¸æµ·ï¼ç§ææéå¬å¸ (Lingweisi (Shanghai) Technology Co., Ltd.)
+63794	KJO Investments LLC
+63795	Yinergy Digital Power Technology Co.,Ltd
+63796	Franklin Edward Bridges
+63797	HBQ Technology
 \.
