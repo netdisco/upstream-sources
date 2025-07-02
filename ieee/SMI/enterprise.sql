@@ -61996,7 +61996,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61994	Guangzhou Huisheng Electronic Technology Co., Ltd
 61995	Rogers Behavioral Health
 61996	Raymond Sin
-61997	Technologies Ssmidge
+61997	Ssmidge Technologies
 61998	UmeÃ¥ Energi AB
 61999	de.borderline
 62000	GVS Ko
@@ -63797,4 +63797,28 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63795	Yinergy Digital Power Technology Co.,Ltd
 63796	Franklin Edward Bridges
 63797	HBQ Technology
+63798	SHOTO
+63799	Utah State Courts
+63800	Quantium
+63801	NSTEK
+63802	OOO BASF
+63803	Uanataca Colombia
+63804	CCArchitect Inc.
+63805	RTEL Telecom LLP
+63806	CS-Tech s.r.o.
+63807	United Urology
+63808	CottonWay
+63809	Constructor University Bremen gGmbH
+63810	Ãsterreichisches Siedlungswerk GemeinnÃ¼tzige WohnungsÂ­aktienÂ­gesellschaft
+63811	Fundacion Bosques Verdes
+63812	Periland Eco Park
+63813	GABBATRON INCORPORATED
+63814	Industeel Belgium
+63815	Pcoo Limited
+63816	Ai-Pygmalion
+63817	Dron Edge India Private Limited
+63818	IT Confidence A/S
+63819	First Impression Labels SA Pty Ltd.
+63820	Techland
+63821	Quantified Imaging Limited
 \.
