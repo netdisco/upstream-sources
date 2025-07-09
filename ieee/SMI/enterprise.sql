@@ -4466,7 +4466,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4464	MPB Communications Inc.
 4465	ViewCast.com
 4466	Harmonic Video Network  (formerly 'Tadiran Scopus')
-4467	FibroLan
+4467	Fibrolan
 4468	Telkoor-QPS
 4469	Diversinet Corp.
 4470	TeleDream Inc.
@@ -44567,7 +44567,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 44565	Tobias Mandjik (formerly 'LECKERBEEF.de')
 44566	OOO Komandor-holding
 44567	Agencja Rozwoju Przemyslu S.A.
-44568	Om7Sense GmbH
+44568	PDU5
 44569	Regional Networks, Ltd.
 44570	Lancaster Cancer Center
 44571	Solinea, Inc
@@ -48340,7 +48340,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48338	Orion Power Systems
 48339	Seldiame Software
 48340	Public Sector Pension Investment Board
-48341	DevLounge
+48341	Nicola Delle Foglie
 48342	Ransnet Singapore Pte Ltd
 48343	Industrial Bank of Kuwait
 48344	SHW Automotive GmbH
@@ -63802,7 +63802,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63800	Quantium
 63801	NSTEK
 63802	OOO BASF
-63803	Uanataca Colombia
+63803	Uanataca Colombia S.A.S.
 63804	CCArchitect Inc.
 63805	RTEL Telecom LLP
 63806	CS-Tech s.r.o.
@@ -63821,4 +63821,33 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63819	First Impression Labels SA Pty Ltd.
 63820	Techland
 63821	Quantified Imaging Limited
+63822	Daniel Absi
+63823	iNDIGENT eNTERPRISES
+63824	World WLAN Application Alliance
+63825	Zhengzhou ECLinkey Technology Co., LTD
+63826	Info Space d.o.o.
+63827	MAROC TELECOM
+63828	Hancock County Government, Indiana
+63829	Zerosla
+63830	Acceldata Inc
+63831	Seemi Technology Corporation
+63832	pronoco
+63833	Brentwood College School
+63834	Pimser Proje Elektronik A.Å.
+63835	AOL-HUVM
+63836	IMBIL TELECOM SOLUTIONS NIGERIA LIMITED
+63837	WY7EMT
+63838	West Point Medical Group
+63839	J&R Technology Limited
+63840	Tienda AlcaravÃ¡n
+63841	Kwantlen Polytechnic University - Kwt.priv
+63842	Integre Technologies LLC
+63843	R Consulting EOOD
+63844	Froze Communications Private Limited
+63845	Michael Butash
+63846	Instituto de PrevisiÃ³n Social de la Provincia de Buenos Aires
+63847	labapart UG
+63848	Hielscher Ultrasonics GmbH
+63849	Bitfocus AS
+63850	KUNTURAD S.A.S.
 \.
