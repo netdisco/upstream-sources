@@ -2486,7 +2486,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2484	ICG Communications
 2485	CrossLink Internet Services
 2486	Cygnus Computer Associates, Ltd.
-2487	Phoenix Technologies Ltd.
+2487	Phoenix Technologies Inc.
 2488	Internetclub
 2489	CV. MITRA ADI PRANATA Ir. Fx Wahyu Hartono
 2490	Vixel Corporation
@@ -63850,4 +63850,43 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63848	Hielscher Ultrasonics GmbH
 63849	Bitfocus AS
 63850	KUNTURAD S.A.S.
+63851	DomsjÃ¶ Fiber AB
+63852	Beyond Expectations
+63853	PT. Data Integrasi Semesta
+63854	Baichuan Chen
+63855	Aaroni Limited
+63856	ANF AC URUGUAY SAS
+63857	ng-voice GmbH
+63858	AuthUSB S.L.
+63859	SDA DMS Zrt.
+63860	ANF AC ECD COLOMBIA S.A.S.
+63861	pan-cloud
+63862	Yablochkov Charging Stations
+63863	Student Transportation of America
+63864	Solis Energy Australia
+63865	Rabbity Labs
+63866	Accadco Technology Co. Ltd
+63867	Queclink Wireless Solutions Co., Ltd.
+63868	Maastricht University
+63869	Z Elektronika Kft.
+63870	Wifirst
+63871	Riccardo Grassini
+63872	Shenzhen Pace Electronics Co.,Ltd
+63873	Solocal Group
+63874	Shenzhen GS-LINK Digital Co., Ltd.
+63875	Applied Energy Technologies Private Ltd
+63876	Midwest Furry Fandom
+63877	TWR Tech, LLC
+63878	Panobit LLC
+63879	NeutraPix
+63880	Version Zero
+63881	ILIA e.U.
+63882	MediMatic
+63883	A.I. Tech srl
+63884	Centre Hospitalier de Saint Amand Montrond
+63885	SHENZHEN sunforest Co.,LTD
+63886	åäº¬å¥¥éæºè½ç§ææéå¬å¸ (Nanjing Aotong Intelligent Technology Co., Ltd.)
+63887	Pedernales Electric Cooperative
+63888	CoordinaciÃ³n de PolÃ­tica Digital - Gobierno del Estado de Chihuahua
+63889	HARBIN DIGITAL ECONOMY DEVELOPMENT CO., LTD.
 \.
