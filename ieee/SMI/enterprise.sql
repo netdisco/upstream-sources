@@ -7559,7 +7559,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 7557	Echomine
 7558	National Air Traffic Services Ltd
 7559	Egenera, Inc
-7560	Daisy Group
+7560	Wavenet Limited
 7561	Askoo SA
 7562	ICPSR (Inter-university Consortium for Political & Social Research)
 7563	OneSpot, Inc.
@@ -41863,7 +41863,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 41861	Tucker Ellis LLP
 41862	Metawell
 41863	Mongoose GFX
-41864	EyeKor LLC.
+41864	MERIT CRO, Inc.
 41865	Monitor Business Machines Ltd
 41866	Hitachi-LG Data Storage, Inc.
 41867	yinyuetai
@@ -63889,4 +63889,36 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63887	Pedernales Electric Cooperative
 63888	CoordinaciÃ³n de PolÃ­tica Digital - Gobierno del Estado de Chihuahua
 63889	HARBIN DIGITAL ECONOMY DEVELOPMENT CO., LTD.
+63890	Torres Family
+63891	Barrett Jordan
+63892	ä¸­äº¿ï¼æ·±å³ï¼ä¿¡æ¯ç§ææéå¬å¸ (Zhongyi (Shenzhen) Information Technology Co., Ltd.)
+63893	Marcelo Amorim de Godoy - MGE
+63894	Owl Corp
+63895	NACOS Marine GmbH
+63896	Jeddak AICC
+63897	ENDA
+63898	Lianshuo Computer (Chongqing) Co., Ltd
+63899	KoCoS Messtechnik AG
+63900	Kavit Electronics Ltd.
+63901	Frogcafe Co.
+63902	Bytedance
+63903	åäº¬ä¸­å¹¿çæ³¢ç§æè¡ä»½æéå¬å¸ (China Rainbow Technology CO.,LTD.)
+63904	XCommSoft
+63905	1Finity, Inc.
+63906	Qorsa Corp.
+63907	Claude Heinemann
+63908	Davide Nossa
+63909	betec7 GmbH
+63910	Wenerdit
+63911	Prefeitura Municipal do Rio de Janeiro
+63912	Costa Crociere S.p.a.
+63913	GUARDIARIS d.o.o.
+63914	Hangzhou Wilion-Power Technology Co., Ltd
+63915	Volcengine Inc.
+63916	Eirspace Limited
+63917	baron engineering
+63918	Arknet FZE
+63919	SepehrAnformaticDerakhshan
+63920	Hasslauer
+63921	SCHÃFER IT-Systems
 \.
