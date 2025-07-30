@@ -13919,7 +13919,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 13917	Hostcentric
 13918	Inkasbank
 13919	Instinct Internet Solutions
-13920	Net6 (formerly 'Magic Hosting')
+13920	handily networks GmbH
 13921	NEBS
 13922	nologin
 13923	Peter Verhas
@@ -21286,7 +21286,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 21284	Edustructures LLC
 21285	Catalyst IT Ltd
 21286	Sygate Technologies
-21287	Mikrovlny s.r.o.
+21287	IQtronic technologies Europe s.r.o.
 21288	Cetacea Networks Corporation
 21289	grid-zero.net
 21290	GBP Software, LLC
@@ -37249,7 +37249,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37247	Thales Solutions Asia
 37248	JoongboTech Co, LTD.
 37249	Amicon Ltd
-37250	Grid2Home
+37250	Kitu Systems, Inc.
 37251	eVent Medical Inc
 37252	Image Video
 37253	Energy Aware Technology Inc.
@@ -63892,7 +63892,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63890	Torres Family
 63891	Barrett Jordan
 63892	ä¸­äº¿ï¼æ·±å³ï¼ä¿¡æ¯ç§ææéå¬å¸ (Zhongyi (Shenzhen) Information Technology Co., Ltd.)
-63893	Marcelo Amorim de Godoy - MGE
+63893	Marcelo Amorim de Godoy - MGE Broadcast
 63894	Owl Corp
 63895	NACOS Marine GmbH
 63896	Jeddak AICC
@@ -63921,4 +63921,56 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63919	SepehrAnformaticDerakhshan
 63920	Hasslauer
 63921	SCHÃFER IT-Systems
+63922	Institut de Science des DonnÃ©es de Montpellier
+63923	Tsuken Electric Ind. Co., Ltd.
+63924	Kuntu Technology Limited Liability Company
+63925	dacentsoft
+63926	Arteche Group
+63927	O2 IT Services s.r.o.
+63928	CARE' IN (Care Intelligency Numeric)
+63929	UTA
+63930	BSRIA Ltd
+63931	AntÃ³nio Rodrigues Capela & Filhos LDA
+63932	Eastern Shoshone Tribe, dba Warm Valley Health Care
+63933	PiLink Co., Ltd.
+63934	Scantech
+63935	TXSE
+63936	Wolfgang Obkircher
+63937	CANADIAN SOLAR MSS (AUSTRALIA) PTY LTD
+63938	Gooxi
+63939	Medford School District 549c
+63940	Wendel Security - the ART of digital defense
+63941	ELM Company
+63942	UNADIGITAL
+63943	Ralf Lenz
+63944	OSCEdge
+63945	Qumulo Inc
+63946	Nilavanam Technologies Private Limited
+63947	TECHNOLID LLC
+63948	ORBYS
+63949	WHITEBOX TECHNOLOGY HONG KONG LIMITED
+63950	Vollmer Werke Maschinenfabrik GmbH
+63951	FISICA
+63952	ä¸­è¯æ°åå¾©è½åæ (Rehabilitation Association of the Republic of China)
+63953	Ø­ÙØ²Ø©Ø§ÙØ¬Ø¨ÙÙÙ (Hamza Al-Jabalain)
+63954	Crashkopf Network Systems
+63955	åäº¬ç²ä¿¡ææ¯æéå¬å¸ (Beijing Jiaxin Technology Co., Ltd)
+63956	PYLON TECHNOLOGIES AUSTRALIA PTY LTD
+63957	ELTE
+63958	Feller Group LLC
+63959	Grand Vision Gaming
+63960	Omniconn
+63961	Creative Communication
+63962	IXK Research Corporation
+63963	Ehay company limited -Revival
+63964	Aviontex GmbH
+63965	INDIVIDUAL ENTREPRENEUR POPOV VASILIY VITALYEVICH
+63966	Gamma Operadora de Comunicaciones S.A.U.
+63967	TOTOLINK TECHNOLOGY LIMITED
+63968	Shoogee GmbH u. Co. KG
+63969	Varex Imaging Deutschland AG
+63970	Stephan van Hulst
+63971	Bertrand Jacquin
+63972	New Lantern, Inc.
+63973	Krontab.com
 \.
