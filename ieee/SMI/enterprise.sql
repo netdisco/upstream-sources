@@ -5167,7 +5167,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 5165	Sassafras Software Inc.
 5166	Mercom Systems, Inc.
 5167	Orchestream Ltd.
-5168	Levitte Programming
+5168	Richard Levitte
 5169	NET CONSULTING S.R.L.
 5170	Aegis Data Systems, Inc.
 5171	WhizBang! Labs
@@ -63972,5 +63972,32 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63970	Stephan van Hulst
 63971	Bertrand Jacquin
 63972	New Lantern, Inc.
-63973	Krontab.com
+63973	Krontab CA
+63974	Enver Saleem
+63975	MBI Health
+63976	BAJB, LLP
+63977	Beijing Yuelian Technology Co., Ltd.
+63978	Sentra Medika Hospital Group
+63979	QuÃ¤lgeist Berlin e. V.
+63980	PedSafety
+63981	Hypertension Nephrology Associates PC
+63982	Pierburg Huayu Pump Technology Co., Ltd.
+63983	ESCUELA SUPERIOR POLITECNICA DE LITORAL (ESPOL)
+63984	Bleu
+63985	AUTOCRYPT INC.
+63986	Georgia Cancer Specialists
+63987	NY Neurology Associates LLC
+63988	Fuzhou Racelin Technology Co., Ltd
+63989	Nithin Manuel
+63990	Merchandising Team K. Werner GmbH
+63991	Fleet Device Management Inc
+63992	Comprion GmbH
+63993	Ahmed Cherevatyi
+63994	Moldovan eGovernance Agency
+63995	Trovehealth Tech Inc
+63996	DeepInspect
+63997	VIALAB SAS
+63998	Beijing Gpthink Technology Co., Ltd.
+63999	Shanghai WinOPNET Technology Co., Ltd
+64000	KimÃ¼n SpA
 \.
