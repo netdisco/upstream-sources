@@ -58266,7 +58266,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 58264	Simon's Personal Information Infrastructure
 58265	Cornerstone Christian College
 58266	Hebei Jiaxu Fumei data information Co., Ltd
-58267	BT EdenNET
+58267	BT RAN Automation Team
 58268	Vastuu Group Oy
 58269	MicroSpunk LLC
 58270	Profian Inc.
@@ -62594,7 +62594,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62592	Markus Toran
 62593	XNET Inc
 62594	Scandbio AB
-62595	Quentin Airault
+62595	SKYNET Corp.
 62596	TINNO
 62597	ideant
 62598	Beijing Yuanlixin Technology Co., Ltd.
@@ -64000,4 +64000,44 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63998	Beijing Gpthink Technology Co., Ltd.
 63999	Shanghai WinOPNET Technology Co., Ltd
 64000	KimÃ¼n SpA
+64001	pax
+64002	MiteWatch LLC
+64003	Sepia River Studios Ltd
+64004	SDDCLAB.Com
+64005	FeliCa Networks, Inc.
+64006	The Power Family
+64007	VeriSilicon Microelectronics (Shanghai) Co., Ltd.
+64008	Fornello Oy
+64009	mbessler
+64010	AXACOM AG
+64011	ScioTechLtd
+64012	American Signal Corporation
+64013	_sivizius
+64014	CloudGUARD GmbH
+64015	Three Headz
+64016	IFTECH Co.,Ltd.
+64017	Dociera
+64018	Stadt Karlsruhe
+64019	LIFE CLINIC GROUP
+64020	FreeIAM
+64021	FM Industries, Inc.
+64022	Corlett-Wellstone Limited
+64023	EUROPARC S.R.L.
+64024	dikon Elektronik & IT GmbH
+64025	MARKUS LABS
+64026	SFO OT
+64027	SEMNATURESCU S.R.L.
+64028	BNG Interactive Technologies
+64029	Business Card Service INC
+64030	kloenk
+64031	McKinney Specialty Labs, LLC
+64032	SmartGov S.R.L.
+64033	UDS SYSTEMS LTD
+64034	ACENSI GROUPE
+64035	Marvin Rhoads
+64036	Beneva
+64037	Stellar Cartography LLC
+64038	LUZI AG
+64039	Commtel Networks Limited
+64040	"Korvet SP" LLC
 \.
