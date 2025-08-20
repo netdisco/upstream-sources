@@ -4527,7 +4527,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 4525	Micron Technology, Inc.
 4526	Netgear
 4527	zeitgeist y2k01 Ltd.
-4528	8x8 Incorporated
+4528	8x8, Inc.
 4529	Internet Service Dept, WorldTelecom Plc
 4530	Tunbridge Wells Equitable Friendly Society Ltd
 4531	ON Technology Corporation Robert Smokey Montgomery
@@ -54746,7 +54746,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 54744	ShangHaiDieNian Information Technology Co., Ltd.
 54745	Careerforce
 54746	Canoo Inc.
-54747	ABUS Security Center
+54747	ABUS Security Center GmbH & Co. KG
 54748	Ministarstvo unutrasnjih poslova Crne Gore
 54749	Gulf payment company
 54750	Vincit
@@ -60177,7 +60177,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 60175	Shenzhen Growatt New Energy Co., Ltd.
 60176	Technological Ray GmbH
 60177	StanisÅaw Skowron
-60178	Vade
+60178	Hornetsecurity SAS
 60179	EIZO Rugged Solutions Inc.
 60180	Owen Sound Medical Imaging
 60181	cloudtech GmbH
@@ -63956,7 +63956,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63954	Crashkopf Network Systems
 63955	åäº¬ç²ä¿¡ææ¯æéå¬å¸ (Beijing Jiaxin Technology Co., Ltd)
 63956	PYLON TECHNOLOGIES AUSTRALIA PTY LTD
-63957	ELTE
+63957	ELTE Limited
 63958	Feller Group LLC
 63959	Grand Vision Gaming
 63960	Omniconn
@@ -64040,4 +64040,43 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64038	LUZI AG
 64039	Commtel Networks Limited
 64040	"Korvet SP" LLC
+64041	contractreporting.com
+64042	Manas Kumar Dash
+64043	å¹¿ä¸ä¹å¿å»ççµå­è¡ä»½æéå¬å¸ (Guangdong Lexin Medical Electronics Co., Ltd.)
+64044	NOVAAGRO UKRAINE LLC
+64045	SkyeEngine
+64046	Tekcesta LLC
+64047	C4I
+64048	University of North Alabama
+64049	Uniwersytecki Szpital Kliniczny  we WrocÅawiu
+64050	PCX Aerosystems LLC
+64051	HyperBlox Inc.
+64052	PROCEPT BioRobotics
+64053	Verifone Systems (China), Inc.
+64054	Altimate Net GmbH
+64055	DB Systel GmbH
+64056	Felisify
+64057	EVAM
+64058	CÃ´ng Ty Cá» Pháº§n Máº¡ng SÃ¡ng Táº¡o EasyNet
+64059	Unit6 Inc.
+64060	Argentra Solutions Pte Ltd
+64061	Techn. Sonderloesungen Hueller
+64062	FUTEURCREDX INC.
+64063	Benjamin Beideman
+64064	TrustedCA
+64065	DIGITAL NOTARY ADVISORY LLC, SUCURSAL ESPAÃA
+64066	UBINEXUS
+64067	Saer Irish
+64068	Jaxis Inc.
+64069	Ellis Technology
+64070	Arasaka
+64071	Databridge Dynamics (P) Ltd.,
+64072	Misawa Homes of Finland Oy
+64073	Huayao Zhian Technology Co., Ltd.
+64074	EcoFlow Inc.
+64075	myUpTech AB
+64076	Blaize
+64077	Joel Strasser
+64078	Securetia
+64079	Megakuul
 \.
