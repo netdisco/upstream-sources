@@ -29318,7 +29318,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 29316	Astute Networks, Inc.
 29317	Global Technology Inc.
 29318	Doquent Inc
-29319	NTT Communications Corporation
+29319	NTT DOCOMO BUSINESS, Inc.
 29320	regio iT aachen gmbh
 29321	IBL Software Engineering, Ltd.
 29322	Cabinplant A/S
@@ -34665,7 +34665,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34663	Lavinia Interactiva
 34664	Trident Micro Systems
 34665	ENTEL S.A. BOLIVIA
-34666	Lava Business Solutions
+34666	LavaBS
 34667	DSP LABS S.r.l.
 34668	Koine Servizi S.r.l.
 34669	Encarnate, LLC
@@ -45750,7 +45750,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 45748	ThÃ¼ga SmartService GmbH (formerly 'ThÃ¼ga MeteringService GmbH')
 45749	Evolving Models
 45750	gerthoux
-45751	Hibernating Rhinos
+45751	RavenDB
 45752	connecT EDV-Vertriebs GmbH
 45753	winterdrache.de
 45754	VoipOtago Ltd
@@ -52571,7 +52571,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52569	Secure ID LTD.
 52570	OMU
 52571	HIFSYS TECHNOLOGY INC.
-52572	Oghmasys IT Services GmbH
+52572	Nomad Automate SAS
 52573	Keenetic Limited
 52574	StepOver GmbH
 52575	Kinexon GmbH
@@ -57432,7 +57432,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57430	Fuzhou Dockeer Technology Co., Ltd.
 57431	Curtiss-Wright 901D
 57432	Christopher Ahrens
-57433	CHHOLAK TrustBit Private Limited
+57433	CHHOLAK eTrust Muhar
 57434	Winchester Foot & Ankle Associates PLLC
 57435	Platbox
 57436	UDAP.org
@@ -63850,7 +63850,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63848	Hielscher Ultrasonics GmbH
 63849	Bitfocus AS
 63850	KUNTURAD S.A.S.
-63851	DomsjÃ¶ Fiber AB
+63851	Unassigned
 63852	Beyond Expectations
 63853	PT. Data Integrasi Semesta
 63854	Baichuan Chen
@@ -64079,4 +64079,40 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64077	Joel Strasser
 64078	Securetia
 64079	Megakuul
+64080	Richard Curylo
+64081	Chiba Prefectural Matsudo High School Computer Club
+64082	Sigma Ukraine
+64083	Musicratic Label SpA
+64084	Catalina Andrea MillÃ¡n Coronado
+64085	PacketController Network
+64086	Andrej Kravtsov
+64087	SebastiÃ¡n AndrÃ©s MillÃ¡n Coronado
+64088	Etude Technique en Electronique Professionnelle
+64089	LIMART - FZCO
+64090	EbV Elektronikbau- und Vertriebs GmbH
+64091	Zyme Ltd.
+64092	Hong Kong Internet Registration Corporation Limited
+64093	Sailing Northern Technology (Beijing) Co., Ltd
+64094	Projecto de GestÃ£o de Recursos PÃºblicos para PrestaÃ§Ã£o de ServiÃ§os (GEPRES)
+64095	GoTriangle
+64096	Bitronic
+64097	Brian West
+64098	G3pix
+64099	Huge Networks
+64100	Cybermancers
+64101	Diablo Technology Services
+64102	Alicorn Properties
+64103	Cardiothoracic Associates of Hawaii
+64104	Newfoundland and Labrador Health Services
+64105	LBBW Landesbank Baden-WÃ¼rttemberg
+64106	Beijing Seed Networks Technology Co., Ltd
+64107	Contrinex AG
+64108	Smart Identity
+64109	Livesky Technology Development Co., Ltd.
+64110	Endless Group
+64111	HzBright
+64112	NComputing
+64113	Samsara Inc.
+64114	s4p-demo.lab
+64115	syscallx86
 \.
