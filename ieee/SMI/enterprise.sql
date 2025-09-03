@@ -230,7 +230,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 228	ASTEC, Inc.
 229	Delmarva Power
 230	Telematics International, Inc.
-231	Fujitsu Technology Solutions GmbH (formerly 'Fujitsu Siemens Computers')
+231	Fujitsu Germany GmbH
 232	Compaq
 233	NetManage, Inc.
 234	NC State University
@@ -2715,7 +2715,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 2713	Mauswerks, Inc.
 2714	Dep. of Signal Theory and Communications - UPC
 2715	Zapex Technologiesn Inc.
-2716	Glueck & Kanja Technology AG
+2716	glueckkanja AG
 2717	Alcatel Telspace
 2718	Intercall
 2719	Townsend Analytics Ltd.
@@ -25755,7 +25755,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 25753	KPH Computers
 25754	Shanghai onLAN Communication Tech.Co.,Ltd.
 25755	Liferay, LLC
-25756	Mahidol Wittayanusorn (Public Organization)
+25756	Mahidol Wittayanusorn School
 25757	Minister of Interior of Saudi Arabia
 25758	SIF Inc.
 25759	Almen Laboratories, Inc.
@@ -34055,7 +34055,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34053	AssociaÃ§Ã£o Hospitalar Santa RosÃ¡lia
 34054	Australian Nursing Federation
 34055	Vietnam National University, Hanoi
-34056	Tranquil Hosting
+34056	NetActuate
 34057	Beehive Security
 34058	Babicom
 34059	NII "Vektor"
@@ -59914,7 +59914,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 59912	OCELLOTT ENGENHARIA LTDA
 59913	Magic Trucking LLC
 59914	Rexel Developpement SAS
-59915	Carlos Roque
+59915	carddamom
 59916	Schwarzer Milan
 59917	Philipp Lieb
 59918	West Linn-Wilsonville School District
@@ -64115,4 +64115,66 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64113	Samsara Inc.
 64114	s4p-demo.lab
 64115	syscallx86
+64116	Tianjin 712 Mobile Communication Co., Ltd
+64117	Sterk Global Holdings Corporation
+64118	Avasflowers
+64119	Adaptive Biotechnologies
+64120	Beijing Innovation Edge Data Technology Co.,Ltd
+64121	MarchNet Regional & Remote Telecommunications
+64122	BrainWave Consulting Company, L.L.C.
+64123	å®ä½³å¨è§ (Anjia Vision)
+64124	CMIK AB
+64125	TranÃ¥s Energi AB
+64126	Morphle Labs Inc.
+64127	Camelot Holdings and Investments, LLC
+64128	Rochester Network Supply, Inc
+64129	IronWhale
+64130	Bihar Communications Pvt Ltd
+64131	Billo Systems, LLC
+64132	Ooredoo Maldives
+64133	Peter Stone
+64134	Paperless GmbH
+64135	procilon GROUP
+64136	FairConnect
+64137	LeeMing Construction Co., Ltd.
+64138	RTE RESEAU DE TRANSPORT D ELECTRICITE
+64139	Oy Kohiwood Ltd
+64140	YASKAWA Nordic AB
+64141	PERCo
+64142	ASSA ABLOY Global Solutions UK Limited (Key and Asset Management)
+64143	Amber Sign, Ltd.
+64144	SONS Online Systems GmbH
+64145	Haruharu Television Group
+64146	Marko Apfel
+64147	Hochschule fÃ¼r Polizei und Ã¶ffentliche Verwaltung Nordrhein-Westfalen
+64148	DIGIFRANCE
+64149	"Bizness Systema Telecom" LTD
+64150	Girls Day School Trust
+64151	Kvaser AB
+64152	Armatura LLC
+64153	Taara Connect
+64154	ICD Group
+64155	Klimabau Gesellschaft fÃ¼r lufttechnische Anlagen mbH
+64156	Billy Hunt
+64157	thyssenkrupp Dynamic Components GmbH
+64158	Synics AG
+64159	HUEBINET Informationsmanagement GmbH & Co. KG
+64160	Tekniska verken i LinkÃ¶ping AB
+64161	MjÃ¶lby-SvartÃ¥dalen Energi AB
+64162	Infinique Worldwide Inc
+64163	Astrom, Inc.
+64164	Prusa Development a.s.
+64165	Wren Security
+64166	TecAssured, LLC
+64167	AUDAC
+64168	BLUEEND AG
+64169	Attila Varga
+64170	REMKO GmbH & Co. KG
+64171	compensa.pl
+64172	Paul Orlando Antonescu
+64173	Shenzhen Source Unit Technology Co.,Ltd
+64174	Doonnetworks
+64175	Sergey Parygin
+64176	EIDERSCONSULTING SAS
+64177	Novosad Hayes Associates
 \.
