@@ -23972,7 +23972,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23970	Hamburg SÃ¼damerikanische Dampfschifffahrts-Gesellschaft KG
 23971	Menzebach und Wolff IT-Consulting GbR
 23972	Fidelity MLS Systems and Solutions
-23973	Still Tripping Productions.
+23973	Shaun Anderson
 23974	General Dynamics Robotic Systems
 23975	et al Innovations Ltd
 23976	Zebanon Inc.
@@ -33088,7 +33088,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 33086	ims Info Management System AG
 33087	International School of Stuttgart e. V.
 33088	Versatile Knowledge System
-33089	Fachhochschule fÃ¼r Ã¶ffentliche Verwaltung NRW
+33089	Hochschule fÃ¼r Polizei und Ã¶ffentliche Verwaltung Nordrhein-Westfalen
 33090	xxlboy
 33091	TCRP
 33092	Opsource
@@ -43219,7 +43219,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 43217	Ultimate Europe Transportation Equipment GmbH
 43218	tecalor
 43219	Sallie Mae
-43220	DB Netz AG
+43220	DB InfraGO AG
 43221	Bemobi Midia e Entretenimento LTDA.
 43222	Oxfam
 43223	Wireless Telecom Group, Inc
@@ -52746,7 +52746,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52744	Arkansas Department of Human Services - Office of Information Technology
 52745	cupids guide by cynrocks
 52746	Amtelco
-52747	X Free Space Optical Communication
+52747	Taara Connect Inc.
 52748	Evolution Digital
 52749	Qvalent
 52750	Ahnnet
@@ -53428,7 +53428,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 53426	Vacus Tech Pvt Ltd
 53427	GB Logging AB
 53428	Invigo Offshore SAL
-53429	Digital 14 Oy
+53429	KATIM L.L.C.
 53430	AUTAJON Group
 53431	Lookman Electroplast Industries Limited
 53432	Fondation des Apprentis d'Auteuil
@@ -57432,7 +57432,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57430	Fuzhou Dockeer Technology Co., Ltd.
 57431	Curtiss-Wright 901D
 57432	Christopher Ahrens
-57433	CHHOLAK eTrust Muhar
+57433	CHHOLAK Enterprise
 57434	Winchester Foot & Ankle Associates PLLC
 57435	Platbox
 57436	UDAP.org
@@ -58181,7 +58181,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 58179	SJ â Die Falken LV Niedersachsen
 58180	DUOMED S.A.
 58181	Jasper T Trading Inc.
-58182	THREATINT (CYPRUS) LTD
+58182	FSTPN Cyprus Limited
 58183	The Mx Group
 58184	First Western Bank and Trust
 58185	GOVCERT.LU
@@ -64177,4 +64177,49 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64175	Sergey Parygin
 64176	EIDERSCONSULTING SAS
 64177	Novosad Hayes Associates
+64178	MNCSoftware
+64179	Cryptsk Pvt Ltd
+64180	Wayne H. Smith
+64181	NAXA Inc.
+64182	Silverflow
+64183	Yamato SHINOZUKA
+64184	Brian Tkatch
+64185	AI-Telecom
+64186	Revolnet Technologies Private Limited
+64187	NetDevice
+64188	SHENZHEN Netinfo Technology Co.ï¼ Ltd.
+64189	Herd-i
+64190	Solar Manager AG
+64191	NorrtÃ¤lje Energi FÃ¶rsÃ¤ljnings AB
+64192	INESO Europe
+64193	LuxChip Systems Ltd
+64194	Gigs
+64195	Atita Homrakphong
+64196	ATWAB Inc.
+64197	Shenzhen Hohunet Technology Co.,LD
+64198	Chaos Computer Club Aachen e.V.
+64199	ARVIND LIMITED
+64200	Opella
+64201	GID GmbH
+64202	Actere GmbH
+64203	Nexstem India Private Limited
+64204	chippen
+64205	Neogen Corporation
+64206	Atlific Hotels
+64207	çª¦é« (Yun Dou)
+64208	Omroep Flevoland
+64209	Michal Hanula
+64210	Swedish Embedded AB
+64211	Norsh
+64212	ERIK BRASIL MENDES
+64213	Glo.bu.s. Srl
+64214	Guangdong Lewei Software Co., Ltd.
+64215	ChaoyueTechnology Co., LTD
+64216	KnectIQ, Inc.
+64217	Curleys Quality Foods Ltd
+64218	Ineo Solutions
+64219	L2L7
+64220	SkogssÃ¤llskapet Finland Oy Ab
+64221	MÃ¤kilÃ¤n Saha Avoin YhtiÃ¶
+64222	bdtronic GmbH
 \.
