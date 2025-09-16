@@ -45078,7 +45078,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 45076	HamLogin.com
 45077	Sestek Ses ve Iletisim Bilgisayar Teknolojileri San. ve Tic. A.S.
 45078	QoS Solutions
-45079	i4p informatikai kft.
+45079	i4p informatics ltd.
 45080	Kerio Technologies, Inc.
 45081	Increase Qingdao Information Technology Co., Ltd.
 45082	PT. Tekno Inovasi Asia
@@ -63551,7 +63551,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63549	SELTAR
 63550	MAEM Sp. z o.o
 63551	Zhonglian Huanuo (Beijing) Technology Co., Ltd.
-63552	mitocode.eu
+63552	Matteo Kutufa
 63553	City of Laurel
 63554	Movyon S.p.A.
 63555	Belden Inc.
@@ -64222,4 +64222,30 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64220	SkogssÃ¤llskapet Finland Oy Ab
 64221	MÃ¤kilÃ¤n Saha Avoin YhtiÃ¶
 64222	bdtronic GmbH
+64223	LARUM SRL
+64224	Cty TF llc
+64225	Silicondust USA, Inc.
+64226	Dynacolor, Inc.
+64227	Xpera Risk Mitigation & Investigation LP
+64228	Panasonic Automotive Systems
+64229	Kyle Smith
+64230	Minalex Corporation
+64231	Timsfors Bil och TraktortjÃ¤nst AB
+64232	Kunsthochschule Bayern
+64233	Royal Surrey County Hospital(RSCH NHS)
+64234	Simon Hegele GmbH
+64235	St. Galler Kantonalbank AG
+64236	Freshwater Fish Marketing Corp
+64237	Shenzhen Infypower Co.,Ltd (æ·±å³è±é£æºææ¯æéå¬å¸)
+64238	Innovatrix Wireless Pvt. Ltd
+64239	Benniu Information Technologies Co., Ltd.
+64240	Changzhou Asia Networks Information Technology Co., Ltd.
+64241	Dirk Doesburg
+64242	TRICO Limited
+64243	j. Schneider Elektrotechnik GmbH Offenburg
+64244	Yuderunx Technology CO., Ltd.
+64245	Lopen Rakennuspuu Oy
+64246	Informaticon AG
+64247	Tecnovideo S.r.l.
+64248	ForensisNG
 \.
