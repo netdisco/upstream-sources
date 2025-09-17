@@ -64227,7 +64227,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64225	Silicondust USA, Inc.
 64226	Dynacolor, Inc.
 64227	Xpera Risk Mitigation & Investigation LP
-64228	Panasonic Automotive Systems
+64228	Panasonic Automotive Systems America, LLC
 64229	Kyle Smith
 64230	Minalex Corporation
 64231	Timsfors Bil och TraktortjÃ¤nst AB
@@ -64248,4 +64248,15 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64246	Informaticon AG
 64247	Tecnovideo S.r.l.
 64248	ForensisNG
+64249	Huizhou RoyPow Technology Co., Ltd.
+64250	å¼ å³° (Zhang Feng)
+64251	WutupFu, Inc.
+64252	Secmia
+64253	AuthBite
+64254	SECURE DOMAINS MANAGED CYBER SECURITY SERVICES PROVIDER L.L.C
+64255	Ãsterbymo Hardwood AB
+64256	Tibber AS
+64257	Shenzhen COMNECT Technology Co., Ltd.
+64258	Netcontrol Oy
+64259	WEIN & CO Handelsgesellschaft m.b.H.
 \.
