@@ -8430,7 +8430,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 8428	Turtle Entertainment GmbH
 8429	2NETFX (Media Now, Inc.DBA 2NETFX)
 8430	TranSwitch Corporation
-8431	Broadcasting Interest Enterprise, Inc.Christopher
+8431	CHAAS, LLC
 8432	TeraGlobal Communications
 8433	3e Technologies International Inc.
 8434	Fox Chase Cancer Center
@@ -30293,7 +30293,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 30291	Sujansky & Associates, LLC
 30292	Monit24.pl
 30293	CollÃ¨ge Dunoyer de Segonzac
-30294	InnoTrans Communications Inc.
+30294	ATX Networks Corp.
 30295	I2Net Christian Nordmann
 30296	Innovation & Support Centre
 30297	The Clockwork Lab
@@ -39674,7 +39674,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 39672	Elite AutomaÃ§Ã£o ComÃ©rcio e ServiÃ§os Ltda ME
 39673	Talon Storage Solutions
 39674	OctoGate GmbH
-39675	Vast Array Corporation
+39675	BFB.ME LLC
 39676	Pason Systems Corp.
 39677	Archdata SPRL
 39678	American Domain Names LLC
@@ -59018,7 +59018,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 59016	JusonTech
 59017	Beyondbell
 59018	Unassigned
-59019	ISSM Consulting SRL
+59019	QSIGN SRL
 59020	Yashiro Laboratory
 59021	Miln
 59022	Echostreams Innovative Solutions LLC
@@ -62100,7 +62100,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62098	SATEL ltd
 62099	Dayou Plus Co Ltd
 62100	ITLook
-62101	Siscom Communication Limited Company
+62101	Induscom Technology Co., Ltd
 62102	Tkl Logistics LLC
 62103	Cordova Courier
 62104	James W Pyle III
@@ -64259,4 +64259,45 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64257	Shenzhen COMNECT Technology Co., Ltd.
 64258	Netcontrol Oy
 64259	WEIN & CO Handelsgesellschaft m.b.H.
+64260	COLSA - BH
+64261	AVS Electronics SpA
+64262	Polycomp Technologies (PTY) Ltd.
+64263	Networkers Rocks
+64264	LIMITED LIABILITY COMPANY "DYNASWITCH PRO"
+64265	Tecweigh
+64266	Corista LLC
+64267	NOAA/CSL
+64268	Dominik Robotka
+64269	eeas gmbh
+64270	KrankenfÃ¼rsorgeanstalt der Bediensteten der Stadt Wien
+64271	FMC Trading & Logistics Co. Ltd.
+64272	Sansec Technology Co., Ltd. (ä¸æªä¿¡å®ç§æè¡ä»½æéå¬å¸)
+64273	pocketOne OÃ
+64274	BXC
+64275	NANCO
+64276	iTest Technologies
+64277	ARTEAR
+64278	UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD
+64279	PKI Consortium
+64280	IBM Digital Talent for Business
+64281	Navirum energi AB
+64282	NeoX-IT
+64283	LinOTP Project (netgo software GmbH)
+64284	Guangzhou JN Union Technology Co.,Ltd ï¼å¹¿å·æ±åç§åç§æè¡ä»½æéå¬å¸ï¼
+64285	sener - scaterzs
+64286	Amt fÃ¼r Informationstechnik (AIT)
+64287	Woodbury Corporation
+64288	Nikan Andishan Nujan
+64289	Vemetris
+64290	Ooredoo Palestine
+64291	FOUNTLAB SOLUTIONS PRIVATE LIMITED
+64292	STRABAG Infrastructure and Safety Solutions
+64293	Bangla Phone Secure CA
+64294	International Organization for Identity Documents
+64295	China Broadcasting Network Chongqing Co., Ltd.
+64296	Banco de Credito de Bolivia
+64297	Dom Kirby Creative
+64298	zylinktech LLC
+64299	Vlaams Parlement
+64300	Family Timber Finland Oy
 \.
