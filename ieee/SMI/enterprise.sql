@@ -25108,7 +25108,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 25106	CSE Sh.p..k.
 25107	Stan Winston Studio
 25108	iRadeon, Inc.
-25109	Wireless Edge Canada Inc.
+25109	Wedge Networks Inc.
 25110	Vanguard Technology Corp.
 25111	VODCA
 25112	Top Gun Drywall Supply
@@ -36977,7 +36977,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 36975	UrgentCare Works, LLC
 36976	Critter bvba
 36977	Eloqua Corporation
-36978	Pico Digital Inc
+36978	ATX Networks Corp.
 36979	accumio GmbH
 36980	Steinle Solution-Factory GmbH
 36981	Kindersprachscreening
@@ -48315,7 +48315,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48313	Not for Radio, LLC
 48314	ESA Elektroschaltanlagen Grimma GmbH
 48315	Documenta S.A.
-48316	Berliner Verkehrsbetriebe
+48316	Berliner Verkehrsbetriebe (BVG)
 48317	PedFast Technologies
 48318	Beijing NationSky Network Technology Co., Ltd
 48319	911 Datamaster, Inc.
@@ -64236,7 +64236,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64234	Simon Hegele GmbH
 64235	St. Galler Kantonalbank AG
 64236	Freshwater Fish Marketing Corp
-64237	Shenzhen Infypower Co.,Ltd (æ·±å³è±é£æºææ¯æéå¬å¸)
+64237	Shenzhen Infypower Co.,Ltd.
 64238	Innovatrix Wireless Pvt. Ltd
 64239	Benniu Information Technologies Co., Ltd.
 64240	Changzhou Asia Networks Information Technology Co., Ltd.
@@ -64300,4 +64300,36 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64298	zylinktech LLC
 64299	Vlaams Parlement
 64300	Family Timber Finland Oy
+64301	GTS TELECOM SERVICES I PRIVATE LIMITED
+64302	Tritan Internet
+64303	VB Spine
+64304	Synchrotechnik
+64305	HyperLXC Medical
+64306	innovotech
+64307	Shenzhen Infypower Co.,Ltd æ·±å³è±é£æºææ¯æéå¬å¸
+64308	Airline Pilots Association
+64309	Teragrep
+64310	woqutech
+64311	Firezone, Inc.
+64312	Zeetim
+64313	H. u. J. Steiner GmbH
+64314	Stadtwerke Riesa GmbH
+64315	CONNECTIVE 3 CIA. LTDA.
+64316	Adia Health Inc.
+64317	SANSEC
+64318	GEOMAR - Helmholtz-Zentrum fÃ¼r Ozeanforschung Kiel
+64319	IMA-Systems Information-Technology, ZNL der NEXTCLINICS Austria GmbH
+64320	Landsbankinn hf.
+64321	Deep Systems
+64322	SjÃ¶gÃ¥rdens Energiflis AB
+64323	GUANGZHOU HANGXIN AVIATION EQUIPMENT CO.,LTD
+64324	Arthur Michas
+64325	Heiko Schuetz
+64326	Sandwych Inc
+64327	Boris Vasilyev
+64328	GrailPay
+64329	Balangan Surf Academy
+64330	JÃ¤mtskogsÃ¤gare i samverkan AB
+64331	9livesdata
+64332	Lombard Insurance Company Limited
 \.
