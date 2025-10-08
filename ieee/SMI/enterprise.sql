@@ -5656,7 +5656,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 5654	Ando Electric Corporation
 5655	P-Cube Ltd.
 5656	Monmouth University
-5657	Universidad de La Coruna
+5657	Universidade da CoruÃ±a
 5658	ISL, Institute of Shipping Economics and Logistics
 5659	CoProSys Inc.
 5660	XI'AN DATANG TELEPHONE Corp.
@@ -64317,7 +64317,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64315	CONNECTIVE 3 CIA. LTDA.
 64316	Adia Health Inc.
 64317	SANSEC
-64318	GEOMAR - Helmholtz-Zentrum fÃ¼r Ozeanforschung Kiel
+64318	Helmholtz-Zentrum fÃ¼r Ozeanforschung Kiel (GEOMAR)
 64319	IMA-Systems Information-Technology, ZNL der NEXTCLINICS Austria GmbH
 64320	Landsbankinn hf.
 64321	Deep Systems
@@ -64332,4 +64332,29 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64330	JÃ¤mtskogsÃ¤gare i samverkan AB
 64331	9livesdata
 64332	Lombard Insurance Company Limited
+64333	Niko NV, Division Wygwam
+64334	Meu Lar Smart
+64335	Maarten Houthuijzen
+64336	GVOZDEN
+64337	Kasper Kjeld Pedersen
+64338	B4CKSP4CE Hackerspace
+64339	Media College Denmark
+64340	I Reparto Mobile della Polizia di Stato di Roma
+64341	ix.Cloud
+64342	Data Warehouse
+64343	UNION Technologies
+64344	IDEMIA
+64345	Swan Foresight Pty Ltd.
+64346	AERL
+64347	LLC Â«ARGO TECHNOLOGY EASTÂ»
+64348	Nimbus Technologieberatung GmbH
+64349	Aqa Technologies, Inc.
+64350	Pragmatec
+64351	KESSLERâ&âCO AG
+64352	Yodamiitti Oy
+64353	Capstone Investment Advisors
+64354	webbedjoes
+64355	CGI Australia
+64356	Meusburger Georg GmbH & Co. KG
+64357	InCharge Energy
 \.
