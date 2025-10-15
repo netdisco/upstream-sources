@@ -31007,7 +31007,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 31005	ODS-Medical GmbH
 31006	EnergoData
 31007	Ikse.net
-31008	Business & Decision
+31008	Unassigned
 31009	PRECISION ELECTRONICS LTD.
 31010	Cymphonix Corp
 31011	Enterprise Management Consulting Ltd.
@@ -61802,7 +61802,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61800	Vikor Scientific
 61801	Nova Software SRL
 61802	Alta Labs
-61803	Fox Crypto B.V.
+61803	Sentyron B.V.
 61804	XobeBook
 61805	NEXION Corporation
 61806	VOLARIS Marcin ZiemiaÅski
@@ -64357,4 +64357,53 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64355	CGI Australia
 64356	Meusburger Georg GmbH & Co. KG
 64357	InCharge Energy
+64358	Uplink Labs Inc.
+64359	Norlys
+64360	River Information Services Authority
+64361	KEYTECH ELEKTRONIC COMPANY
+64362	Abdelkhaleq  karmi
+64363	ALCOMA LLC
+64364	INDUSTRIAL SECURITY PROVIDE Ltd.
+64365	Neo-Retro Group
+64366	Cato Networks Ltd.
+64367	Ãlmeboda skogstjÃ¤nst
+64368	SUPIN s.r.o.
+64369	Dexmate
+64370	Imaginalis
+64371	Sona Network B.V.
+64372	Sezoo
+64373	æ­å·è¯åå£«ç½ç»ç§ææéå¬å¸ (Hangzhou Xinboshi Network Technology Co., Ltd.)
+64374	CYE Sec
+64375	Realsoft
+64376	C.D. WÃ¤lzholz GmbH & Co. KG
+64377	Sona Business B.V.
+64378	PSEG
+64379	Instituto Nicaraguense de Seguridad Social
+64380	Swoboda Embedded Engineering GmbH
+64381	KEEQuant GmbH
+64382	Philip G Bove
+64383	Kreis Unna
+64384	Kyi Soe Thin
+64385	NSE AG
+64386	Rozetta Systems
+64387	Flipturn, Inc.
+64388	INTELUX ELECTRONICS
+64389	Lebent Noel Melendres Hernandez
+64390	PenSam
+64391	ACMH
+64392	Naturskog AB
+64393	Naturskog Biofuel AB
+64394	Sellplus TECH LLC
+64395	com.ksbarnt
+64396	SAVA Cybersecurity
+64397	Matthias Valvekens
+64398	Alambec Inc
+64399	OMV AG
+64400	Bath Riding Club
+64401	HMI Technologies
+64402	Origin Energy Eraring OT
+64403	Arak University of Medical Sciences
+64404	Foreshow Information Co., Ltd
+64405	Montsecure
+64406	UltraGreen AI Private Limited
 \.
