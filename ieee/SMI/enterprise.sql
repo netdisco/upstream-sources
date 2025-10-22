@@ -28922,7 +28922,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 28920	blaulink GbR
 28921	Anchiva Systems, Inc.
 28922	Crescent Group Ltd.
-28923	Luminator Holding, LP
+28923	Luminator Technology Group Global, LLC
 28924	Megatel Industries Corp.
 28925	BIGLIST Inc.
 28926	Mitteldeutscher Rundfunk
@@ -64406,4 +64406,41 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64404	Foreshow Information Co., Ltd
 64405	Montsecure
 64406	UltraGreen AI Private Limited
+64407	Good Consulting Ltd.
+64408	Tautech (Pty) Ltd
+64409	EPPO - European Public Prosecutors Office
+64410	TTControl GmbH
+64411	Tarsus Universitesi
+64412	Ampcontrol Technologies Inc.
+64413	East Central Minnesota Educational Cable Cooperative
+64414	Latvijas Loto VAS
+64415	Northeast Agri Systems
+64416	Esprit Electronics Limited
+64417	HAIP GmbH
+64418	ELTEL KATOWICE SP. Z O. O.
+64419	Brian Lycett
+64420	Network Down IT
+64421	Bumblebee Technologies Bangladesh Limited
+64422	BarmeniaGothaer
+64423	å·æ¥é³ (Leng Chunyang)
+64424	OpenNFC
+64425	LIS LLC
+64426	PRIM Management Consult GmbH
+64427	Pendulum Instruments
+64428	ruidi
+64429	ECOFLOW AUSTRALIA PTY LTD
+64430	Okos Intellect LTD
+64431	Voigt Industrial Electronics
+64432	American Red Cross
+64433	PT. CryptNet Systems Lab
+64434	Network Gate Sweden AB
+64435	FederalKey
+64436	Stuart Young Jr
+64437	Donnell Systems
+64438	MCOMM Sp. z o. o.
+64439	Johnny.Decimal
+64440	BAEZ Electric (Nanjing) Co., Ltd.
+64441	ACP IT Consulting GmbH
+64442	Familie Hartenberger
+64443	Municipalidad de Lomas de Zamora
 \.
