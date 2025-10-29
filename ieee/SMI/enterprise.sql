@@ -16111,7 +16111,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 16109	Pfannenberg
 16110	InfoCentre Ltd.
 16111	Beaumont Hospital
-16112	Valentine KOUTCHERBAEV
+16112	Valentin KUCHERBAEV
 16113	Network Dweebs Corporation
 16114	Qualstar Corporation
 16115	CyberSarge, Inc.
@@ -64443,4 +64443,48 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64441	ACP IT Consulting GmbH
 64442	Familie Hartenberger
 64443	Municipalidad de Lomas de Zamora
+64444	Ridtisak Yingkiatinon
+64445	Freecloak
+64446	OOO Instech
+64447	GaCitech di Ciccone Gabriele
+64448	K-Bro Linen Inc.
+64449	JD CA Center
+64450	Cellgain Wireless LLC
+64451	Roundabout Technologies
+64452	Chris Rose
+64453	Strand Psychiatric Associates
+64454	Stephon X. Jones
+64455	DâAndilly Group
+64456	Jenn Tribble
+64457	Goose
+64458	OTO GK
+64459	Avnet Asia
+64460	Griffin Bank Ltd
+64461	Tina Bhutani-Jacques
+64462	Winsupply Inc.
+64463	Umberto Anaclerio
+64464	Peter Teslenko
+64465	ITSC IT Systems Consulting GmbH
+64466	Sixi Networks, Inc
+64467	SIMLINK LIMITED
+64468	WUHAN MAISVCH TECHNOLOGY CO.,LTD
+64469	Manigulab Enterprise
+64470	Knovus Group
+64471	Cory Wolfgang
+64472	Gesellschaft fÃ¼r Erstellung, Layout und Konzeption elektronischer Systeme mbH
+64473	Premier Health Care Group, PLLC
+64474	Bruno Luiggi Macchiavello Espinoza
+64475	LLC Security Lab
+64476	Knovus
+64477	Morse Micro
+64478	rfctech.es
+64479	PKI(Chongqing) Limited
+64480	NGBOX HOLDINGS B.V.
+64481	NIGERIA IMMIGRATION SERVICE
+64482	DARKCAM S.A.
+64483	Garantir
+64484	Vemesis Technology Trade Inc.
+64485	PTPGroup
+64486	Steel Performance
+64487	Mitel a.s.
 \.
