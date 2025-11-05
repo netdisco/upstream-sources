@@ -5830,7 +5830,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 5828	SpaceNet Communication AB
 5829	AMCC Switching Corp.
 5830	XcelleNet
-5831	Cleondris GmbH
+5831	Cleondris AG
 5832	Horgan.net
 5833	Tailyn Communication Company
 5834	Identikey ltd
@@ -7594,7 +7594,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 7592	Swedish Institute of Space Physics
 7593	University of Cambridge, Clinical and Biomedical Computing Unit
 7594	Citadel LLC (formerly 'Citadel Investment Group')
-7595	RATIO Entwicklungen GmbH
+7595	GW Engineering
 7596	Trellis Photonics
 7597	NOVA LJUBLJANSKA BANKA
 7598	KTSI
@@ -48078,7 +48078,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48076	NexGen Inc
 48077	State University of Feira de Santana
 48078	Ventura County Hematology Oncology Specialists
-48079	NEC Enterprise Communication Technologies
+48079	Forerunner Technologies, Inc.
 48080	Mimetrix Design Group
 48081	Max Planck Institute for Plant Breeding Research
 48082	Hamburger Energienetze GmbH
@@ -48219,7 +48219,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48217	codemanufaktur GmbH
 48218	Government of Manitoba
 48219	Jackson Hewitt Tax Service Inc.
-48220	TPAX.EU UG (haftungsbeschraenkt)
+48220	TPAX.EU
 48221	Flopsar Technology
 48222	Micro 100 Tool Corp
 48223	Rauland-Borg Corporation
@@ -58107,7 +58107,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 58105	Guangzhou Bingo Software Co.,Ltd.
 58106	RAMAXEL
 58107	Syskey Softlabs Private Limited
-58108	ProCAncer-I Project
+58108	Computational BioMedicine Laboratory, FORTH-ICS
 58109	Allgeier IT Solutions GmbH
 58110	Lendio
 58111	F&G Annuities & Life
@@ -64487,4 +64487,55 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64485	PTPGroup
 64486	Steel Performance
 64487	Mitel a.s.
+64488	CONTROLADORIA-GERAL DA UNIAO
+64489	Swift Forge
+64490	SpectraCare Health Systems
+64491	BEIJING SCISTOR TECHNOLOGIES CO.ï¼LTD.
+64492	Stegra AB
+64493	Stegra Boden AB
+64494	highsystem ag
+64495	Embedded Designs Services India Pvt Ltd
+64496	Premier-D LLC
+64497	Union Power Cooperative
+64498	Osnabrueck University, Psychology IT
+64499	HSF
+64500	SERAFE AG
+64501	Shanghai Xiaoyun Information Technologies Ltd
+64502	CEO-Vision
+64503	Mobile Solutions Intelligent Co., Ltd.
+64504	Advanced Care Providers
+64505	W-NET
+64506	STG Logistics, Inc
+64507	Green Diamond Resource Company
+64508	NanoImaging Services, Inc.
+64509	GridGears GmbH
+64510	addspin
+64511	Calmwave, Inc.
+64512	Critical Loop, Inc.
+64513	Core Tec Communications LLC.
+64514	STGI
+64515	SM JSC
+64516	Dimitris Dinodimos
+64517	Liu Zhen
+64518	Danthur Lice
+64519	Savas-sÃ¤Ã¤tiÃ¶ sr
+64520	ITC-Solution Group Oy
+64521	Polygran GmbH
+64522	Workoho GmbH
+64523	IDTECH SA
+64524	SERAFE AG
+64525	Chainmail
+64526	Zsolt Erdei
+64527	V.I.P. Mortgage
+64528	Ammattiopisto Spesia
+64529	Lapis Drucktechnologie GmbH
+64530	Jersey Microwave
+64531	Debriana Connolly
+64532	Aliaxis sa/nv
+64533	National Telecom Public Company Limited (NT)
+64534	Rimorchi Bertoja Spa
+64535	MindTheGap Srl
+64536	Macawi LLC
+64537	AKAERE NETWORKS TECHNOLOGY LTD
+64538	Cipherforge
 \.
