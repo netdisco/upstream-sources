@@ -43070,7 +43070,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 43068	AVG Technologies
 43069	Markus Ruecker (mr-consult.net)
 43070	Hrvatska narodna banka
-43071	NABB Gaming Community
+43071	Kronus Network
 43072	Privlo, Inc.
 43073	roskakori.fi
 43074	WRH Inc
@@ -64178,7 +64178,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64176	EIDERSCONSULTING SAS
 64177	Novosad Hayes Associates
 64178	MNCSoftware
-64179	Cryptsk Pvt Ltd
+64179	CRYPTSK PRIVATE LIMITED
 64180	Wayne H. Smith
 64181	NAXA Inc.
 64182	Silverflow
@@ -64538,4 +64538,62 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64536	Macawi LLC
 64537	AKAERE NETWORKS TECHNOLOGY LTD
 64538	Cipherforge
+64539	Sheng Yuan LAI
+64540	Uralsystem
+64541	sdpnow
+64542	HummingLab
+64543	SAS CANOPEE
+64544	Bedford Central School District
+64545	elusoft GmbH
+64546	Sibel Health
+64547	Bling Network LLC
+64548	Qian Liu
+64549	SecurePay Sdn. Bhd.
+64550	Nicander
+64551	Nortroll AS
+64552	EMH metering GmbH & Co. KG
+64553	MDI Health Technologies Inc.
+64554	DATASIGH
+64555	Luxer Urgent Care
+64556	Alara Imaging
+64557	Abside Networks, Inc.
+64558	Quantea Corporation
+64559	Azores Networks LLC
+64560	Medical Data Technology SRL
+64561	é»åå¸åä¹¡æ°å­åå¹³å°è¿è¥ä¾åºé¾æéå¬å¸ (Huanggang City Urban and Rural Digital Platform Operation and Supply Chain Co., Ltd.)
+64562	Bling Network Ltd
+64563	Jiangxi JSO Network Co., LTD
+64564	PINIONAI
+64565	Bundesministerium fÃ¼r Bildung
+64566	Johann GARGOT
+64567	OWA Parks & Resort
+64568	Scandinavian log Supply AB
+64569	Dragonpay Corporation
+64570	Eshowe High School
+64571	Mobile Telecommunication Limited
+64572	qubik network services GmbH
+64573	HANDPHONE TELECOMUNICACOES
+64574	Aeterea.NET
+64575	Belam
+64576	BCOM Networks Limited (BCOM-X Project)
+64577	secway
+64578	Shanghai CloudPrime.ai Technology Co, Ltd
+64579	Reliably Coded B.V.
+64580	AÃ©roports de la CÃ´te d'Azur
+64581	Emerald Technologies
+64582	DennySu
+64583	Beijing GuangRunTong Technology Development Co., Ltd.
+64584	Thomas Cerny Inc.
+64585	segMedix, Co.
+64586	Wahid Group, LLC
+64587	"VPG Laserone" LLC
+64588	Lane Clark & Peacock LLP
+64589	System Dynamics
+64590	Final DeFi
+64591	MJD Technologies
+64592	Shenzhen SOFARSOLAR Co., Ltd.
+64593	Kiepe Electric GmbH
+64594	Alexander Kofanov
+64595	Atikon EDV & Marketing GmbH
+64596	Henjes, Conner & Williams, P.C.
 \.
