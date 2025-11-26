@@ -1551,7 +1551,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 1549	Allied Data Technologies
 1550	Nuera Communication Inc.
 1551	Radnet Ltd.
-1552	OcÃ© Technologies BV
+1552	Canon Production Printing Holding B.V.
 1553	Air France
 1554	Communications & Power Engineering, Inc.
 1555	Charter Systems
@@ -9360,7 +9360,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 9358	Wicom Communications Ltd
 9359	Symeko Datasystems bv
 9360	Green Light Inc.
-9361	OcÃ© Software Laboratories Namur
+9361	Unassigned
 9362	ENSEIRB
 9363	Spelio
 9364	InterPark Incorporated
@@ -12201,7 +12201,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 12199	SAGE SRL
 12200	Seneca Groep B.V.
 12201	University Health Network
-12202	UP3I
+12202	Unassigned
 12203	VTT Information Technology
 12204	DevonIT
 12205	Allianz Ireland PLC
@@ -12910,7 +12910,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 12908	Litech Systems Design
 12909	Machine Vision Products, Inc.
 12910	Next Element
-12911	Oce NV
+12911	Unassigned
 12912	PeerPro
 12913	Procera Networks, Inc.
 12914	Production Robots Engineering Ltd
@@ -13711,7 +13711,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 13709	The Bank of New York
 13710	LVM Versicherungen
 13711	Primus Telecommunications Australia Pty Ltd
-13712	ARINC (Aeronautical Radio, Inc.) Roy L. Courtney
+13712	ARINC Industry Activities
 13713	Gateweaver
 13714	Reea
 13715	Alescere
@@ -26457,7 +26457,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26455	Secretariat of Information Technology, Government of Haryana
 26456	Budapest University of Technology and Economics (BME)
 26457	Meditec GmbH
-26458	tetrade inc.
+26458	United Security Providers AG
 26459	wavesyscom co.,Ltd
 26460	Alcor Communications
 26461	Knorr & Partner Ingenieure
@@ -37707,7 +37707,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37705	CommSoft RMS LLC
 37706	Netmedia Systems e. K.
 37707	Rocrail
-37708	Systola Forwarding GmbH
+37708	Systola GmbH
 37709	S3 Satcom Ltd
 37710	Dane E. Jones
 37711	FileMaker Inc
@@ -40071,7 +40071,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 40069	enprovia Software Engineering s. r. o.
 40070	RetailNext
 40071	P. St. Onge
-40072	techlab.jp (formerly 'scminfo.net')
+40072	ouchi.dev
 40073	Lutron Electronics Company, Inc
 40074	Energy Solutions Ltd.
 40075	SPL-Xdemat
@@ -52218,7 +52218,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52216	PrimosTI
 52217	Ambient System sp. z o.o.
 52218	Castle Global
-52219	NOVOTEA
+52219	MiMiR bv
 52220	Nianet A/S
 52221	Landkreis Mansfeld-SÃ¼dharz
 52222	Support Logistic Services srl
@@ -64596,4 +64596,98 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64594	Alexander Kofanov
 64595	Atikon EDV & Marketing GmbH
 64596	Henjes, Conner & Williams, P.C.
+64597	Ø§ÙÙØ­Ø§Ø±Ø¨ Ø§ÙØ±ÙÙÙ (Digital Warrior)
+64598	Chutian Dragon Co.,Ltd.
+64599	Benjamin Ray
+64600	Meiflow
+64601	Corrections Technology Group
+64602	Forrest County General Hospital
+64603	BrainChild Electronic
+64604	Partronics eBoards Pvt Ltd
+64605	Shield Security Software
+64606	Swisscom Lab
+64607	Peter J. Mello
+64608	RISEN ENERGY Co., LTD.
+64609	FAIRagro
+64610	Z Elektronika kft
+64611	Tyven
+64612	Myrddhinn Technologies
+64613	FINTRAC LTD
+64614	initEnergy GmbH
+64615	Pelton Shepherd Industries
+64616	MR Sifiso Sizwe Shezi
+64617	DrHEX
+64618	Wombat Labs
+64619	IDCITI
+64620	Centry Cognitive Capital
+64621	MT-LINK TECHNOLOGIES CO
+64622	Deutsche Pfandbriefbank AG
+64623	VÃ¤rne Skog AB
+64624	Prival ODC Inc.
+64625	Pat O'Donnell & Co
+64626	Australian New Energy Technology Pty Ltd
+64627	TDF
+64628	Lynx Innovation Inc
+64629	GajShield Infotech India Private Limited
+64630	Xinnor
+64631	NDV
+64632	BankUnited
+64633	BVA
+64634	Fuzhou Gulou Yuqing Network Co., Ltd
+64635	Gemeinde Hude (Oldb)
+64636	AdvComm Inc
+64637	CCS-ENGRS
+64638	Peter Gallwas
+64639	Joshua Bollinger
+64640	Nodominium S.A.S. de C.V.
+64641	Soramitsu Khmer CO., LTD.
+64642	Tatweer Cyber Security
+64643	AGENCIA ESTATAL DE METEOROLOGIA (AEMET)
+64644	Kellola MetsÃ¤ Oy
+64645	LEMO Maschinenbau GmbH
+64646	Safescap
+64647	Radix Metasystems Inc.
+64648	Hadrian Automation
+64649	PowerSync Pty Ltd
+64650	LuxCarta Corp
+64651	CHAOS.CORP
+64652	Phaidra Inc
+64653	MultiService Aviation
+64654	Zhang San
+64655	Duke
+64656	Platinum Optics Technology Inc.
+64657	Dungeon Technologies
+64658	Beijing New Matrix Information Technology Co., Ltd
+64659	Innovate Systems, LLC
+64660	Polish Linux Users Group - PLUG
+64661	Puddingify, Inc
+64662	Relativity Space
+64663	Guangzhou Felicity Solar Technology Co., Ltd.
+64664	FinspÃ¥ngs Tekniska Verk AB
+64665	Camkeeper, LLC
+64666	SkogsbrÃ¤nsle SmÃ¥land AB
+64667	Nueng Diao Solutions Co.,Ltd.
+64668	SWO De Wolden Hoogeveen
+64669	Eventide Communications
+64670	åäº¬ç»´å æºçµè¡ä»½æéå¬å¸ (Beijing Weiguan Electromechanical Co., Ltd.)
+64671	zaphyra
+64672	Dalaskog fÃ¶rsÃ¤ljning AB
+64673	Arco Marketing
+64674	Datastyx
+64675	Shanghai Candy Rectangle Technology Co., Ltd.
+64676	Gane MÃ³vil SAS
+64677	Synapse ITS
+64678	Aim Transportation Solutions
+64679	Verification & Validation Technology Co., Ltdã
+64680	Tulsa Community College
+64681	Nashville State Community College
+64682	ViMITRiX
+64683	Napp
+64684	Clever Sky Systems Co., Ltd.
+64685	Code Construct Pty Ltd
+64686	EHS Group
+64687	Reiner KartengerÃ¤te GmbH & Co. KG
+64688	Dawning Cloud Computing Group Co.,Ltd.
+64689	Granola Labs Ltd
+64690	T&W Operations Inc
 \.
