@@ -39618,7 +39618,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 39616	GlasgowNet
 39617	PDT Partners, LLC
 39618	Cloud Assist
-39619	Institutul pentru Tehnologii Avansate
+39619	UM 0296 Bucuresti
 39620	JANUS srl
 39621	SOPLEX Consult GmbH
 39622	Intermas France S.A.S
@@ -52106,7 +52106,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52104	ShamAn
 52105	spoe
 52106	ISED Ingegneria dei sistemi S.p.A.
-52107	Volkswagen Financial Services Digital Solutions GmbH
+52107	Volkswagen Financial Services AG
 52108	Exponential-e Limited
 52109	Zeitounian Tecnologia
 52110	Grupo Idial
@@ -56535,7 +56535,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 56533	Dowslake Technologies
 56534	Net Ice 9 LTD
 56535	Great Wall Motor Company Limited.
-56536	HUARUI EXPON(henan) Technology Co.,Ltd.
+56536	Huarui Expon Technologies (Shenzhen) Co., Ltd.
 56537	AVAP
 56538	Portsmouth City Council
 56539	Horry County Airports
@@ -62668,7 +62668,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62666	Uddevalla Kraft AB
 62667	OPEN LAKE TECHNOLOGY
 62668	svetlana-k
-62669	MACH AG
+62669	MACH GmbH
 62670	Stichting governmental roaming Nederland
 62671	simplen
 62672	IPT Powertech
@@ -64690,4 +64690,49 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64688	Dawning Cloud Computing Group Co.,Ltd.
 64689	Granola Labs Ltd
 64690	T&W Operations Inc
+64691	MalÃ¥ SÃ¥g AB
+64692	MalÃ¥ kommun
+64693	EDIN
+64694	MoRENet (Mozambique Research and Education Network)
+64695	All4Labels UK Ltd
+64696	Konstantin
+64697	KernelSU
+64698	StreamsITS
+64699	Northside Hospital LLC
+64700	Michael Herstine
+64701	Puentes del Oeste S.L.
+64702	ALES a. s.
+64703	AutoritÃ© des marchÃ©s financiers (QuÃ©bec)
+64704	Materiais para ConstruÃ§Ã£o IrmÃ£os Camargo
+64705	FSIT Services LLC
+64706	Beijing ZWCX Robotic Technology Co., Ltd
+64707	CSE Energy & Technology Co., Ltd.
+64708	Jean-Marie Leroy
+64709	SIRECOM
+64710	Emerlink, LLC
+64711	Mirsam Habibi
+64712	Kaia Technologies, Inc.
+64713	The Phillies
+64714	Ovolab
+64715	cedar
+64716	Pardakht Novin Arian
+64717	Lars Borisek
+64718	Walks Cloud Inc.
+64719	Hellenic Electricity Distribution Network Operator
+64720	Brilliant Care sp. z o.o.
+64721	Routecore LLC
+64722	Immunity Networks and Technologies Private Limited
+64723	pcc.scot
+64724	Klimatech Sp. z o. o.
+64725	VI LAB
+64726	Tank Studios Limited
+64727	RURAL ROADS HEALTH SERVICES
+64728	Triple EYE B.V.
+64729	EPEC
+64730	Madison Venture Corporation
+64731	Sutro Software
+64732	IPer.uk
+64733	Universal School
+64734	ELEKTRA LLC
+64735	BGH Edelstahlwerke GmbH
 \.
