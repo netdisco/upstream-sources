@@ -799,7 +799,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 797	Link Technologies, Inc.
 798	IIS
 799	Mobile Solutions Inc.
-800	Xylan Corp.
+800	ALE USA Inc. - OmniSwitch
 801	Airtech Software Forge Limited
 802	National Semiconductor
 803	Video Lottery Technologies
@@ -6485,7 +6485,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 6483	Captus Networks
 6484	Campus Crusade for Christ, Inc.
 6485	Spatial Technologies
-6486	Alcatel-Lucent Enterprise (previous was 'Alcatel')
+6486	Alcatel-Lucent Enterprise
 6487	YouSync
 6488	TalentStorm Enterprises
 6489	Siemens Cerberus
@@ -22811,7 +22811,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 22809	VLI Communications CO.,LTD.
 22810	Aktia Savings Bank p.l.c.
 22811	Pfeiffer & May Grosshandel AG
-22812	Allscripts, LLC
+22812	Veradigm, LLC
 22813	Pest Control Data Systems, Inc.
 22814	radiowave limted
 22815	Axeda Systems Inc.
@@ -32513,7 +32513,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 32511	Fountainhead Investments Ltd.
 32512	Zen Soluciones
 32513	Buerologistik GmbH & Co. KG
-32514	JSC Effortel
+32514	Effortel
 32515	Rebtel Networks AB
 32516	Gisdata
 32517	Accsys GmbH
@@ -64735,4 +64735,24 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64733	Universal School
 64734	ELEKTRA LLC
 64735	BGH Edelstahlwerke GmbH
+64736	æ²³åå¬é£ç§ææéå¬å¸ (Hebei Tingfeng Technology Co., Ltd.)
+64737	TAKRAF GmbH
+64738	Allender inc
+64739	Stavropol Electrotechnical Factory âEnergomeraâ Ltd.
+64740	zencontrol Pty Ltd
+64741	Universidad Nacional Experimental del TÃ¡chira (UNET)
+64742	Safarifone Inc
+64743	Caribbean Industrial Research Institute(CARIRI)
+64744	Europe Technologies
+64745	Karrier One
+64746	Chengdu Sobey Digital Technology Co., Ltd
+64747	Shenzhen KSTAR New Energy Company Limited
+64748	POLYPAP LLC
+64749	Kai KETELHUT
+64750	Igreja Universal do Reino de Deus
+64751	MINISTERIO DE INDUSTRIA Y COMERCIO
+64752	Wamos Air
+64753	HEXON
+64754	EVIDENT CANADA
+64755	Uros Tement
 \.
