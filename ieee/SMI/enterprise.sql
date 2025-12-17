@@ -13892,7 +13892,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 13890	Teltier Technologies Inc.
 13891	The Advantage Group
 13892	University of New Hampshire
-13893	International Truck and Engine Corporation
+13893	International Motors, LLC
 13894	LGNsys
 13895	LaGrange School District 102
 13896	Atos Origin CMS / TSP
@@ -16794,7 +16794,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 16792	Zapata Engineering, P.A.
 16793	University of New England
 16794	Savant Technologies Private Ltd
-16795	MRO - TEK LIMITED
+16795	UMIYA BUILDCON LIMITED
 16796	Institute of High Energy Physics ,Beijing,China
 16797	InfoThuis Nieuwe Media BV
 16798	Digital Technical Ltd., National Libaray of China
@@ -64755,4 +64755,49 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64753	HEXON
 64754	EVIDENT CANADA
 64755	Uros Tement
+64756	brij bihari
+64757	31 Concept
+64758	GANSAT TEKNOLOJI URETIM SANAYI VE TIC LTD STI
+64759	Applied Enclaves
+64760	VIRIDISLAB, LDA
+64761	Willstrong Solutions Pvt Ltd
+64762	Plymouth Public Schools
+64763	SeDaTec Ltd.
+64764	Carsten Bormann
+64765	jack chen
+64766	Nexburg GmbH
+64767	ENCHOICE, UK LIMITED
+64768	Theta Health
+64769	Ecotype AB
+64770	Next Generation Cooling
+64771	OstpreuÃen-russe-GakushÅ«jo Further Education College
+64772	Sietehr Foundation
+64773	DigioZ UG (haftungsbeschrÃ¤nkt)
+64774	Erste Bank Polska SA
+64775	Simple History
+64776	Cyprus Police
+64777	Hive Security Technologies
+64778	Alteripso
+64779	Rogers Communications Inc - Wireless Data Core
+64780	Definitive EPoS Solutions
+64781	Axians Performance Solutions B.V.
+64782	Energotechlab Ltd
+64783	NinjaOne, LLC
+64784	Agat Soft
+64785	SYNEKTIK SA
+64786	energielenker solutions GmbH
+64787	Authava
+64788	ER-Saha Oy
+64789	technotrans SE
+64790	Kellola MetsÃ¤ Oy
+64791	ANVOLE
+64792	Bitvise Limited
+64793	New Pos Network (HK) Limited
+64794	Tiger Technology
+64795	Niseva Technologies Pvt. Ltd.
+64796	Lenovo Image
+64797	Intouch Systems
+64798	DimeCorp, LLC
+64799	Wizzie Analytics S.L.
+64800	Shared Care Noord
 \.
