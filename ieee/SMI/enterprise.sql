@@ -29149,7 +29149,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 29147	Proficient Technology
 29148	Axolotl Corp.
 29149	data inform srl
-29150	COMLAB AG
+29150	Kontron Transportation Schweiz AG
 29151	Live Data Group, inc.
 29152	Palo Alto Unified School District
 29153	Ridgecrest Financial, Inc.
@@ -61520,7 +61520,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61518	Tout Pareil Corp.
 61519	TDK Sensors AG & Co. KG
 61520	Abbott LLC
-61521	llang.at - IT-Dienstleistungen
+61521	Lukas Lang
 61522	Perryton Equity Exchange
 61523	EQUIRON
 61524	Research and Production Association named after A.S. Popov
@@ -64800,4 +64800,40 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64798	DimeCorp, LLC
 64799	Wizzie Analytics S.L.
 64800	Shared Care Noord
+64801	Techport
+64802	è¯è§ï¼å¹¿å·ï¼ç§ææéå¬å¸ (SimLine (Guangzhou) Technology Co., Ltd.)
+64803	Compuware Technology Inc.
+64804	LLC "TechnoNICOL-Construction Systems"
+64805	MyNet Certificates
+64806	Dmitry Papchenkov
+64807	Hills Health Pty Ltd
+64808	KOLT MÃ¼hendislik A.Å.
+64809	AST Solar Telecom P Ltd
+64810	Zener Cominicaciones
+64811	MSIG USA
+64812	Beijing Yillion  Deepcompute Technology Co., Ltd
+64813	TEXON CO.,LTD
+64814	Arab-Computers
+64815	Recare Deutschland GmbH
+64816	SkySpecs Inc
+64817	TEL&CO Srl
+64818	Potter ERCES
+64819	Lryncloud (Beijing) Information Technology Co., Ltd.
+64820	UpscaleAI
+64821	BaseZen Consulting, Inc.
+64822	CASHPOINT Solutions GmbH
+64823	Hans Heukenkamp
+64824	Lebara Nigeria
+64825	PermAlert
+64826	Pixelstream, Inc.
+64827	Digicomm
+64828	Procopa IT ApS
+64829	C2SP
+64830	Leoch Battery Pte Ltd
+64831	"IMOBIL STAR" SRL
+64832	Mesan Kilit A.Å.
+64833	Brightfield Ukraine LLC
+64834	Dmirty Rupasov
+64835	Planisys
+64836	LLC ONTEK
 \.
