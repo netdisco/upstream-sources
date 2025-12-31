@@ -7776,9 +7776,14 @@ MA-L,A4AB39,Shenzhen Taichi Technology Limited,"A1710, Nanshan Cloud Technology 
 MA-L,6CF43D,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,D02C39,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,002689,General Dynamics Land Systems Inc.,1231 Tech Court Westminster MD US 21157 
-MA-L,1CFF3F,Cust2mate,4 Ariel Sharon St Givatayim  IL 5320047 
+MA-L,487696,"Huaan Zhongyun Co., Ltd.","Room 201, 2nd Floor, Building A, No. 128 Qiming Road, Yinzhou District, Ningbo City Ningbo Ningbo  CN 315100 "
+MA-L,642F1C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,186945,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,80BF21,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,5CFFA9,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,D0B324,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,1CFF3F,Cust2mate,4 Ariel Sharon St Givatayim  IL 5320047 
+MA-L,50617E,"Shenzhen MiaoMing Intelligent Technology Co.,Ltd","3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District Shenzhen Guangdong CN 518110 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15440,6 +15445,14 @@ MA-L,4C55B2,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,A422B6,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,CC808F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E0BA78,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,6C7742,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,10CD54,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,94A25D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,B4C3D9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,542618,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,982AFD,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,2CAE46,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,9020D7,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23128,11 +23141,18 @@ MA-L,00B463,Ring LLC,12515 Cerise Ave Hawthorne  US 90250
 MA-L,A4F01F,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
 MA-L,90B9F9,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,046F00,LG Electronics,"Lot CN02, Trang Due Industrial Park,An Phong Ward, Hai Phong City, Vietnam Hai Phong  VN 184956 "
-MA-L,242AEA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,98E859,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,5C13AC,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,0CE5A1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,0CA3B2,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,242AEA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,98E859,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D83EEB,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,5C4879,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,DC575C,PR Electronics A/S,Lerbakken 10 Følle  DK 8410 
+MA-L,E485FB,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,546C50,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
+MA-L,B8BA66,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,64B4E8,"Shenzhen D-Robotics Co., Ltd.","Room 1107-1108, Block C, Building 1, Section 1, Chuangzhi Yuncheng, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30921,12 +30941,18 @@ MA-L,6418DF,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Ced
 MA-L,987800,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
 MA-L,884558,"Amicro Technology Co., Ltd.","14F Novotown Huixin Office Building,No. 88, Zhishui Road, Hengqin Zhuhai Guangdong CN 519000 "
 MA-L,10CB33,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
-MA-L,24A5FF,Fairbanks Scales,2176 Portland Street St.Johnsbury VT US 05819 
-MA-L,742920,MCX-PRO Kft.,Etele tér 4. 3.em. Budapest  HU 1115 
-MA-L,30A033,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C4491B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,804715,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,7CD1AD,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,24A5FF,Fairbanks Scales,2176 Portland Street St.Johnsbury VT US 05819 
+MA-L,742920,MCX-PRO Kft.,Etele tér 4. 3.em. Budapest  HU 1115 
+MA-L,30A033,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,080299,HC Corporation,"1201, 12th F, Seongnam Woolim Lion’s Valley 1Bldg, 27, Dunchen-Daero 457beon-gil, Jungwon-gu Seongnam Gyengido KR 13219 "
+MA-L,807786,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,8C22D2,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,209BDD,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,3C65D1,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,F4A3C2,"Shenzhen iComm Semiconductor CO.,LTD","Room204,scientific research building,Tsinghua Hi-Tech Park,No.13 Langshan Road,Nanshan District Shenzhen Guangdong CN 518067 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -38627,3 +38653,10 @@ MA-L,CC722A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,AC401E,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,3417DD,Sercomm France Sarl,2/4 Rue Maurice Hartmann 92370  Issy Les Moulineaux France Moulineaux  FR 92370 
 MA-L,60159F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,58D812,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,64D4F0,NETVUE，INC.,1055 East Colorado Boulevard 5th Floor Pasadena CA US 91106 
+MA-L,14AEE0,ETHERNEXION NETWORKS PTE. LTD.,7500A BEACH ROAD#04-307 THE PLAZA  SINGAPORE SINGAPORE SG 199591 
+MA-L,74E6C7,"LUXSHARE-ICT Co., Ltd.","1F, No. 22, Lane 35, Jihu Road, Neihu district Taipei City Taiwan TW 114754 "
+MA-L,841623,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,D0F815,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,045E0A,SHENZHEN TRANSCHAN TECHNOLOGY LIMITED,"Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China Shenzhen  CN 518000 "

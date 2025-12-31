@@ -64836,4 +64836,24 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64834	Dmirty Rupasov
 64835	Planisys
 64836	LLC ONTEK
+64837	Picogrid Inc.
+64838	General Tax Authority, State of Qatar
+64839	Sententia LLC
+64840	Corpintra Plus . Ltd.
+64841	Infosec CA Lab
+64842	Spheralogic
+64843	Evoltix Energy
+64844	MarkAny
+64845	ModelESA
+64846	HubN Network
+64847	i2i BiliÅim DanÄ±ÅmanlÄ±k Teknoloji Hiz. ve Paz. Tic. A.Å.
+64848	EPU Engineering LLC
+64849	CORPNEWBEST CIA LTDA
+64850	Jugendparlament Kaiserslautern
+64851	Sferical AI AB
+64852	Witine Limited
+64853	Mycelio
+64854	Aspire Technologies(Beijing) Ltd
+64855	Judao
+64856	Easton Velocity
 \.
