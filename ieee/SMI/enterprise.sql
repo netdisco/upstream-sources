@@ -3183,7 +3183,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3181	MICROSENS GmbH & Co. KG
 3182	Unihold Technologies
 3183	Wired for Management
-3184	Raymond and Lae Engineering, Inc.
+3184	Parameter, LLC
 3185	Parapsco Designs Ltd.
 3186	TouchNet Information Systems, Inc.
 3187	FUZZY! Informatik GmbH
@@ -9802,7 +9802,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 9800	iNIT-8
 9801	ISIS Frontier Communications
 9802	IUFM de Rouen
-9803	L-3 Communication Systems - East
+9803	L3Harris Technologies Camden, NJ
 9804	Lefthand Networks
 9805	Neveda City School District
 9806	PRIDE Industries
@@ -35909,7 +35909,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35907	CRV Natural
 35908	Embrane, Inc.
 35909	Horace Mann Educators Corporation
-35910	overnet.qc.ca
+35910	overnet.ca
 35911	Mrezne Tehnologije Verso
 35912	Makedonijalek
 35913	Diputacion  Provincial de CÃ¡ceres
@@ -57156,7 +57156,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57154	JHW Holdings, LLC
 57155	Sparr Electronics Ltd
 57156	MARTIN CC
-57157	LIVIT
+57157	LIVIT SIA
 57158	Festival BalÃ©lec
 57159	Tocca Systems
 57160	CORAF
@@ -60331,7 +60331,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 60329	Marcus Alessandro Pavan Francisco
 60330	hssystem
 60331	ACMOSS
-60332	RLS Consulting Services
+60332	Unassigned
 60333	Borders Online Ltd
 60334	Eugenio Tampieri
 60335	Jefferson County Board of Education
@@ -64808,7 +64808,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64806	Dmitry Papchenkov
 64807	Hills Health Pty Ltd
 64808	KOLT MÃ¼hendislik A.Å.
-64809	AST Solar Telecom P Ltd
+64809	AST Telecom Solar Private Ltd
 64810	Zener Cominicaciones
 64811	MSIG USA
 64812	Beijing Yillion  Deepcompute Technology Co., Ltd
@@ -64856,4 +64856,37 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64854	Aspire Technologies(Beijing) Ltd
 64855	Judao
 64856	Easton Velocity
+64857	GrÃ¶ning Organisation
+64858	CFE Solutions
+64859	Uniwersytecki Szpital Kliniczny nr 2 PUM 2 Szczecinie
+64860	Feuerwehr Ebelsbach
+64861	NOOB RP LTD
+64862	MinMaxiste Inc.
+64863	Alex Roman baeza
+64864	Tovar Private Network
+64865	Kutahya University of Health Sciences
+64866	Mohamad Rizuan
+64867	Jingze You
+64868	Kings III of America LLC
+64869	LLC Hosting in Ukraine
+64870	Luxnation
+64871	Unikraft
+64872	Elemenik
+64873	Kendal College
+64874	Shanghai Hema Optical Co., Ltd.
+64875	BJL13 Enterprise Solutions, LLC d/b/a BES
+64876	Nestor cv
+64877	Beacon Link Inc.
+64878	Prima Vista Solusi
+64879	Island Technology, Inc.
+64880	Ambient Information Processing GmbH
+64881	QUARQNET
+64882	ARTEMISTRONIKS INDIA PRIVATE LIMITED
+64883	HDHDDL (Human Dynamic HDDL)
+64884	Shanghai Ruicheng Information Technology Co., Ltd.
+64885	A Clarke and Co Ltd
+64886	NT-ware Systemprogrammierungs-GmbH
+64887	Deutsche Rentenversicherung Oldenburg-Bremen
+64888	The Network Entropologist
+64889	CyberCentre Australia PTY LTD
 \.
