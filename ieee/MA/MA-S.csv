@@ -1365,6 +1365,7 @@ MA-S,8C1F645F2,CMC Applied Technology institute,"CMC Tower, Duy Tan street, Cau 
 MA-S,8C1F64B0E,"Watthour Engineering Co., Inc.",333 Crosspark Dr Pearl MS US 39208 
 MA-S,8C1F6460C,PAL Inc.,2217-2 Hayashicho Takamatsu Kagawa JP 7610301 
 MA-S,8C1F642AA,"Xi'an Singularity Energy Co., Ltd.","Tianhong Park, No. 25 Biyuan 1st Road Chang'an District Chang'an District Xi'an CN 710100 "
+MA-S,8C1F6404D,"LaserLinc, Inc.",777 Zapata Drive Fairborn OH US 45324 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -2743,6 +2744,8 @@ MA-S,8C1F64F1E,Engage Technologies,7041 Boone Avenue North Brooklyn Park MN US 5
 MA-S,8C1F6476B,"Wherible GPS, Inc.","1149 Canton Street, Roswell, GA, 30075 Roswell GA US 30075 "
 MA-S,8C1F64AD6,INTERNATIONAL SECURITY SYSTEMS W.L.L.,"Office 4, First Floor, ABC 3,Abu Hamour, Doha Doha  QA 97400 "
 MA-S,8C1F6413B,SDELcc,AEROPOLE D2A St Aignan de Grand Lieu  FR 44860 
+MA-S,8C1F640BA,"SungjinDSP Co., LTD","810, 25 Gasan Digital 1-ro, Geumcheon-gu, Seoul (Gasan-dong, Daeryung Techno Town 17th) Geumcheon-gu Seoul KR 08594 "
+MA-S,8C1F642F7,Sealink Technology B.V,Dalweg 3B Rotterdam  NL 3233 KK 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -4122,6 +4125,13 @@ MA-S,8C1F64606,NodOn SAS,121 rue des Hêtres Saint Cyr en Val Loiret FR 45590
 MA-S,8C1F6449A,Sigmann Elektronik GmbH,Hauptstrasse 53 Hueffenhardt  DE 74928 
 MA-S,8C1F64528,Luxshare Electronic Technology (KunShan) Ltd,"No. 699 Jinshang Road, Jinxi Town, Kunshan City, Jiangsu Province Kunshan  Jiangsu CN 215300 "
 MA-S,8C1F64C84,Luceor,3 Rue Michael Faraday Montigny-le-Bretonneux  FR 78180 
+MA-S,8C1F64259,"SHODEN Co., Ltd.","365, Sannocho Inage-ku Chiba Chiba JP 2630002 "
+MA-S,8C1F64143,ChamSys , Unit 5 Adanac Park southampton Hampshire  GB SO16 0BT 
+MA-S,8C1F6466B,Currux Vision LLC,"520 Post Oak Boulevard, Suite 260 Houston TX US 77027 "
+MA-S,8C1F64134,LyconSys GmbH & Co.KG,Hildegardstr. 12A Bad Nauheim  DE 61231 
+MA-S,8C1F64773,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26  Paterna Valencia ES 46980 "
+MA-S,8C1F64AD9,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
+MA-S,8C1F64190,Wesync,"506Ho, Pyeongchondigitalempire, 16, Heungan-daero 427beon-gil, Dongan-gu Anyang-si Gyeonggi-do KR 14059 "
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -5487,6 +5497,8 @@ MA-S,8C1F647FE,"Shenzhen Konvison Technology Co.,Ltd.","5th Floor, Building No. 
 MA-S,8C1F64EB4,1Finity Inc.,"4-1-1 Kamikodanaka, Nakahara-ku Kawasaki-shi Kanagawa JP 211-8588 "
 MA-S,8C1F64BD0,"Mesa Labs, Inc.",12100 West 6th Ave. Lakewood CO US 80228 
 MA-S,8C1F6483B,Starview Asia Company,"Level 40, 140 Williams Street Melbourne Victoria AU 3000 "
+MA-S,8C1F643CB,"Anhui Wenxiang Technology Co.,Ltd."," The intersection of Fengming Avenue and Hanjiang Road, Jiangnan Emerging Industry Concentration Zone Chizhou Anhui CN 247100 "
+MA-S,8C1F64B58,Eltvor Instruments,Sobeslavska 878/10 Tabor  CZ 39002 
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
@@ -6837,3 +6849,6 @@ MA-S,8C1F64A72,First Design System Inc.,"Tachibana Shinjuku Bldg. 3F, 3-2-26 Nis
 MA-S,8C1F64490,"SAMSON CO.,LTD.", 3-4-15 YAHATA-CHO Kanonji-City Kagawa JP 768-8602 
 MA-S,8C1F641BA,Innovative Signal Analysis,"3301 E Renner Rd, Ste 200 Richardson TX US 75082 "
 MA-S,8C1F6464F,INVIXIUM ACCESS INC,"111 Gordon Baker Road, Suite #300 Toronto Ontario CA M2H 3R1 "
+MA-S,8C1F64576,Smart Dynamics SIA,Ūdeles Amatciems Cēsu novads LV LV-4101 
+MA-S,8C1F6471C,NEBERO SYSTEMS PRIVATE LIMTED,"Plot 691, Sector 82, Industrial Area, SAS Nagar Mohali Punjab IN 140308 "
+MA-S,8C1F64E6B,Terratel Technology s.r.o.,Dukelska 2192 Benesov CZ CZ 25601 

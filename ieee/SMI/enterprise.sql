@@ -1500,7 +1500,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 1498	Ukiah Software Solutions/EDS/HDS
 1499	STERIA
 1500	ATI Australia Pty Limited
-1501	The Aerospace Corporation Michael
+1501	The Aerospace Corporation
 1502	Orckit Communications Ltd.
 1503	Tertio Limited
 1504	Frequentis Comsoft GmbH (formerly 'Comsoft Solutions GmbH')
@@ -3783,7 +3783,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3781	WXN, Inc.
 3782	University of North Texas
 3783	EMR Corporation
-3784	Speakerbus Ltd.
+3784	comitFS UK Ltd
 3785	Cirrus Logic
 3786	Highland Technology Group, Inc.
 3787	Russel Lane & Associates, Inc.
@@ -10322,7 +10322,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 10320	Amherst College
 10321	AUNet
 10322	Centre For Advanced Technology
-10323	Convergence Network Research Ltd.
+10323	Balan Software Ltd
 10324	CrabusLDAP
 10325	EarthConnect Corporation
 10326	Ecole Nationale Superieure des Mines de Paris
@@ -48796,7 +48796,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48794	binnj, inc.
 48795	Comm5 Tecnologia Ltda
 48796	Tennessee Oncology, PLLC
-48797	Inspur-Cisco Networking Technology Co., Ltd.
+48797	Connflix Networking Technology (Shandong) Co., Ltd.
 48798	AKIPS Pty Ltd
 48799	BiZone LLC
 48800	CSNS
@@ -64889,4 +64889,46 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64887	Deutsche Rentenversicherung Oldenburg-Bremen
 64888	The Network Entropologist
 64889	CyberCentre Australia PTY LTD
+64890	ElderIoT
+64891	HANGZHOU INNOWAVEPOWER ELECTRIONIC TECHNOLOGYCO., LTD.
+64892	Mario Schnuerpel
+64893	Dreyfus SÃ¶hne & Cie AG, Banquiers
+64894	Teklords
+64895	Aurelia Schittler
+64896	LENOVO (BEIJING)INFORMATION TECHNOLOGY LTD.
+64897	Union College ITS
+64898	Gemeinschaft fuer Erziehungskunst e.V.
+64899	Beacon Telecom, Inc.
+64900	BEYAZ BILGISAYAR YAZILIM TASARIM SANAYI VE TICARET LIMITED SIRKETI
+64901	Ricardo Lacerda
+64902	MJW Innovations LLC
+64903	Smagtronics Private Limited
+64904	Kokkolan Energia Oy
+64905	FMS Group S.r.l.
+64906	Verbandswasserwerk Langenfeld-Monheim GmbH & Co. KG
+64907	ASB Bank Corp S.A.
+64908	MaiaEdge
+64909	ETHERNEXION NETWORKS PTE. LTD.
+64910	Maptek Pty Limited
+64911	CHENLE
+64912	Maven Securities Ltd
+64913	NS123.Net Service Ink
+64914	SecureIT Georgia
+64915	Max Sports Analysis
+64916	Running on Nutshells Lab
+64917	AffianceTech
+64918	Richard Munson
+64919	SCSDC (Super Cool Software Development Company)
+64920	Gaeltec Utilities Limited
+64921	MK Smart Joint Stock Company
+64922	Tianjin Yingdaxin Technology Co., Ltd.
+64923	Goldcard Water Technology Co.,Ltd.
+64924	Ferdinand Porsche FERNFH
+64925	HAMEEM VENTURES
+64926	Chongqing Hua Hong Metering Co., Ltd.
+64927	é½çç§æéå¢æéå¬å¸ (Qiben Technology Group Co., Ltd.)
+64928	Grant Gossett
+64929	3DBackup Limited
+64930	Beijing Noah Shield Technology Co., Ltd.
+64931	Partaharjun Puutarha Oy 2061174-9
 \.
