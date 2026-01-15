@@ -1,1 +1,1 @@
-bootstrap/netdisco-mibs-snmp-object.sql filter=lfs diff=lfs merge=lfs -text
+bootstrap/netdisco-mibs-snmp-object.sql filter=lfs diff=lfs text
