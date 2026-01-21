@@ -49512,7 +49512,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 49510	Pragmatik
 49511	Arcom Digital, LLC.
 49512	ipHouse
-49513	AgResearch Ltd
+49513	New Zealand Institute for Bioeconomy Science Limited
 49514	EPK Solutions
 49515	SQLTreeo
 49516	Jesse Friedman
@@ -64931,4 +64931,42 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64929	3DBackup Limited
 64930	Beijing Noah Shield Technology Co., Ltd.
 64931	Partaharjun Puutarha Oy 2061174-9
+64932	Vantageo Private Limited
+64933	Gotlandsflis Aktiebolag
+64934	Commercial Credit Adjusters Ltd.
+64935	Cooperative Computing Alliance LLC
+64936	CoralCMD Inc.
+64937	Cilicia
+64938	Advanzio
+64939	Hausbetreuung Attensam GmbH
+64940	AGJ-Fachverband fÃ¼r PrÃ¤vention und Rehabilitation in der ErzdiÃ¶zese Freiburg e.V.
+64941	First Community Bank
+64942	Gridware Technologies Inc.
+64943	TULLOCH
+64944	Property Management People, Inc.
+64945	CBC CORPORATION INDIA PVT LTD
+64946	æ­¦æ±ææ­ç½ç»ç§ææéå¬å¸ (Wuhan Mingge Network Technology Co., Ltd.)
+64947	Michael Ulrich edv-beratung.net
+64948	Advita, Inc
+64949	GLPH
+64950	visigate Software GmbH
+64951	TRALLES GmbH
+64952	Instituto AntÃ¡rtico Chileno
+64953	Institute for Research Education and Social Development
+64954	Patrick Boyne
+64955	Ricardo JaÃ±a
+64956	Trustels GmbH
+64957	Bywaysoft LLC
+64958	Neural Designs Inc.
+64959	blackcorp.me
+64960	GGO
+64961	Mimaki Electronics Components Co., Ltd.
+64962	WolfieTech
+64963	Cybrent Technology Solutions (OPC) Pvt. Ltd.
+64964	Error404Net
+64965	kayeff
+64966	Kaya Security LLC
+64967	ALPHABET CAPITAL SDN. BHD.
+64968	Integrity Logic Corporation
+64969	DN-Systems Enterprise Internet Solutions GmbH
 \.
