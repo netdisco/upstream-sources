@@ -3346,7 +3346,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3344	Helsinki Televisio Oy
 3345	Nemetschek SE
 3346	Vocom
-3347	Hitachi Kokusai Electric Inc.
+3347	KOKUSAI DENKI Electric Inc.
 3348	Reliable Network Solutions
 3349	Vogo Networks
 3350	beusen
@@ -64969,4 +64969,43 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64967	ALPHABET CAPITAL SDN. BHD.
 64968	Integrity Logic Corporation
 64969	DN-Systems Enterprise Internet Solutions GmbH
+64970	Radian Generation
+64971	Nepegnik
+64972	Jarda Nedved
+64973	Xeront
+64974	Wanstorm
+64975	ShieldWorks OT System Pvt Ltd
+64976	ev.energy
+64977	Divyanshu Pandey
+64978	swabian.net
+64979	EES Clemessy AST
+64980	Alliance Broadband
+64981	Wecan-IT Aps
+64982	AUMOVIO SE
+64983	Hayden AI
+64984	PROBECOM
+64985	Shaanxi Probecom Microwave Technology Co., Ltd
+64986	å¹¿å·å¸æ£®éç§æè¡ä»½æéå¬å¸ï¼Guang Zhou Sunrise Technology Co., Ltd.ï¼
+64987	Telconic
+64988	Kyrene School District
+64989	Flexmail
+64990	NextMeta co.,ltd
+64991	Temco Controls
+64992	Arendt Digital Services
+64993	Quantum Encryption
+64994	SSE Gridtech Sistemas e SoluÃ§Ãµes Ltda
+64995	ProNova Solutions, LLC
+64996	Meridian Digital Systems Inc.
+64997	Cattyatty Inc
+64998	JP VY Limited
+64999	Digito Financial Technology Group, LLC
+65000	Cooler Master Co., Ltd
+65001	Tactile Metrology B.V.
+65002	ICT Rijk van Nijmegen
+65003	Blahaj Studio
+65004	CaveFox LLC
+65005	evroc
+65006	Wuxi Hongsheng heat exchanger
+65007	Abhishek Kasaudhan
+65008	Vermont Public Co.
 \.
