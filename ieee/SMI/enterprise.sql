@@ -18929,7 +18929,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 18927	tandav enterprises
 18928	Areca Technology Corporation
 18929	Interwise, Inc.
-18930	OXW
+18930	NEFA.IO
 18931	cybersekkin
 18932	Naeilnet Inc.
 18933	ActivNetworks
@@ -22885,7 +22885,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 22883	OPENLiMiT SignCubes GmbH
 22884	Western Gas Resources, Inc.
 22885	GIP CPAGE
-22886	Astro Strobel Kommunikationssysteme GmbH
+22886	Astro Bit GmbH
 22887	PC-Ware Information Technologies AG
 22888	Interface Business GmbH
 22889	Zenprise, Inc.
@@ -29342,7 +29342,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 29340	joncaves.com
 29341	Ingenieurbuero Schmid
 29342	Browave Inc.
-29343	Grundig SAT-Systems GmbH
+29343	GSS Smart Solutions GmbH
 29344	ShangHai HuaBo Taifu Internet Technology Co.,Ltd
 29345	Softing AG
 29346	UKN Group Limited
@@ -57269,7 +57269,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57267	Bravas Sistemas Ltda
 57268	Unitac Technology Ltd.
 57269	Energy Queensland
-57270	JRC Mobility Inc.
+57270	JRC Mobility, Inc.
 57271	Open SDN & NFV Lab (OSNL)
 57272	highstreet technologies USA Corp.
 57273	highstreet technologies GmbH
@@ -60304,7 +60304,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 60302	ev-lution-charger
 60303	ev-lution-chargeur
 60304	Metaverse Multiverse
-60305	Tendaworld
+60305	Tendaworld Ltd.
 60306	Christopher Spivey
 60307	Entrack AS
 60308	Alder Holdings LLC
@@ -61085,7 +61085,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61083	Marcel Metzen
 61084	Cleverbase
 61085	Terra Sound
-61086	Chengdu BeiZhongWangXin Technology Co.Ltd
+61086	Chengdu NorthLink Technology Co., Ltd.
 61087	shenzhen real linkShenzhen Real Link Technology Co.,Ltd
 61088	MTNSAT
 61089	Lighthouse Credit Union
@@ -65046,4 +65046,59 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65044	DEBUGALIA S.L.
 65045	NyaLake
 65046	Quiot Security Inc.
+65047	Tamara Alana Barber
+65048	Jiaxun Yang
+65049	Bruno Briante
+65050	Vedmaster
+65051	Elizabeth Peraza Slator
+65052	DMEGC RENEWABLE ENERGY AUSTRALIA PTY LTD
+65053	Shanwei BYD Auto Co., Ltd.
+65054	Relcom, Ltd.
+65055	COSMIKAL
+65056	Myto Limited
+65057	CrosSystems MX
+65058	Pantherx Rare Pharmacy
+65059	Prisma Technologies SRL
+65060	ECI Networks
+65061	Banque Centrale Luxembourg
+65062	UniversitÃ© de Picardie Jules Verne
+65063	Essendant Co.
+65064	WestJet Airline Ltd.
+65065	Kelco Industries
+65066	yamanju LLC
+65067	Alpha Software Dienstleistungs ASD GmbH
+65068	Institut Dr. Foerster GmbH & Co. KG
+65069	Meestgroup
+65070	Tida SkogsvÃ¥rd
+65071	Physical Security Interoperability Alliance
+65072	Keyfactor Federal
+65073	GCVE
+65074	Writerslogic Inc
+65075	Beijing Loong Network Technology Co., Ltd.
+65076	Tonghua Dongchang Superzhao Information Technology Consulting Studio
+65077	Polytec GmbH
+65078	SATELCOM TELEKOMÃNÄ°KASYON, BÄ°LGÄ° VE Ä°LETÄ°ÅÄ°M TEKNOLOJÄ°LERÄ° Ä°THALAT Ä°HRACAT SANAYÄ° ANONÄ°M ÅÄ°RKETÄ°
+65079	BeVoiceAI
+65080	RAFI Group
+65081	PCS Elektronik d.o.o.
+65082	Akademischer Verein an der TU Darmstadt
+65083	LIMITED LIABILITY COMPANY "ALTSIGHT"
+65084	Aria Barak
+65085	ZTX6D Studio
+65086	Evolution Tool
+65087	doll 41666
+65088	CreeperNET Consulting
+65089	Instituto de AdministraÃ§Ã£o da SaÃºde, IP-RAM
+65090	SLAL
+65091	Asapien
+65092	LUPUS-Electronics GmbH
+65093	Ondarea Holding
+65094	Kva IndÃºstria e ComÃ©rcio Ltda
+65095	Madriam Services
+65096	Aunalytics
+65097	å¤©æ´¥æè¯ºä¿¡æ¯ç§ææéå¬å¸ (Tianjin Xingnuo Information Technology Co., Ltd.)
+65098	NorthC Schweiz AG
+65099	Brown Rook
+65100	Aumayr GmbH
+65101	Stefeli OÃ
 \.

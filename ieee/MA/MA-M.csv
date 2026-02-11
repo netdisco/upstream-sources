@@ -1273,6 +1273,7 @@ MA-M,083C037,G-Innovations Vietnam,"12th Floor, G-Group Tower, No. 5 Nguyen Thi 
 MA-M,34D7F54,"Shenzhen Huchi Technology Co.,Ltd.","Province/1001 Xueyuan Avenue, Changyuan Community, Taoyuan Street, Nanshan District/1714, Building C2, Nanshan Zhiyua shenzhen guangdong CN 518000 "
 MA-M,34D7F57,SOFTEL,Camino a Santa Teresa 187 Tlalpan Ciudad de México MX 14010 
 MA-M,6C47804,Battery Management Technology Corporation,"1255 West 15th Street, Suite 325 Plano TX US 75075 "
+MA-M,6C47807,ONICON ,11451 Belcher Rd S Largo FL US 33773 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -2452,6 +2453,11 @@ MA-M,083C034,"Beijing New Matrix Information Technology CO., Ltd","Building 2,No
 MA-M,34D7F51,ShenZhen C&D Electronics CO.Ltd.,"9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park,  Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,34D7F5B,"Resnics Technology (Shanghai), lnc.","Room·701,·No.1188. Qinzhou· North· Road,.Xuhui. District Shanghai Shanghai CN 200233 "
 MA-M,34D7F55,"Acellent Technologies, Inc.",835 Stewart Dr. Sunnyvale CA US 94085 
+MA-M,6C4780D,JEL Corporation,"2-8-20, Kusado-cho FUKUYAMA HIROSHIMA JP 7200831 "
+MA-M,18C3E4D,CASE Deutschland GmbH,Gruener Ring 126 Braunschweig Niedersachsen DE 38108 
+MA-M,6C47801,"HD HYUNDAI ENERGY SOLUTIONS CO., LTD.","477, Bundangsuseo-ro Bundang-gu, Seongnam-si Gyeonggi-do KR 13553 "
+MA-M,6C4780A,Prolink Surveillance Technology Co.Ltd,"10F.-7, No.18, Ln. 609, Sec. 5, Chongxin Rd., Sanchong Dist. New Taipei City  TW 241 "
+MA-M,6C47806,CTHINGS.CO sp. z o.o.,Aleja Niepodleglosci 18 Warsaw  PL 02-653 
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -3739,8 +3745,9 @@ MA-M,083C032,Wildtech,23 Leinster Road Christchurch  NZ 8014
 MA-M,083C030,Federal Signal SSG,2645 Federal Signal Drive University Park IL US 60484 
 MA-M,5062551,"Hagiwara Solutions Co., Ltd ","9F, DP Square Higashi-Sakura, 1-14-11  Higashi-Sakura Higashi-ku, Nagoya  JP 461-000 "
 MA-M,34D7F5D,Schenker Storen AG,Stauwehrstrasse 34 Schönenwerd Solothurn CH 5012 
-MA-M,34D7F59,Optikinetics Ltd,38 Cromwell Road Luton Beds GB LU3 1DN 
 MA-M,34D7F52,Venture Corporation Limited,"Blk 5006 Ang Mo Kio Avenue 5, #05-01/12  TECHplace II   SG 569873 "
+MA-M,34D7F59,Optikinetics Ltd,38 Cromwell Road Luton Beds GB LU3 1DN 
+MA-M,6C47802,CAF Power and Automation,Paseo Mikeletegi 58 San Sebastian Gipuzkoa ES 20009 
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -4978,6 +4985,7 @@ MA-M,6C47809,Private,
 MA-M,34D7F5E,Catapult Sports Inc,"10 Post Office Square, Floor 9 Boston MA US 02109 "
 MA-M,6C47800,"KEI SYSTEM Co., Ltd.","2-2-23 Kishinosato,  Nishinari Ward Osaka City Osaka JP 557-0041 "
 MA-M,34D7F53,Cassel Messtechnik GmbH,In der Dehne 10 Dransfeld  DE 37127 
+MA-M,18C3E41,HuiTong intelligence Company,"8F., No. 51, Ln. 258, Rueiguang Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.) Taipei  TW 114 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -6237,3 +6245,5 @@ MA-M,34D7F5C,Lucy Electric Manufacturing and Technologies India Pvt Ltd,"Survey 
 MA-M,04A16F4,"Akubela Co., Ltd.","9/F, No.56 Guanri Road, Software Park II, Xiamen 361009, China Xiamen Fujian CN 350000 "
 MA-M,34D7F58,AIoTrust,66 Bd Niels Bohr Villeurbanne Rhone FR 69100 
 MA-M,6C4780C,ZVK GmbH,Technologiecampus 2 Teisnach  DE 94244 
+MA-M,6C4780B,CARDIO SISTEMAS COMERCIAL E INDUSTRIAL LTDA,"AVENIDA PAULISTA, 509 ANDAR 1, 3, 21 E 22, CONJUNTOS 308, 309 E 310 SAO PAULO SAO PAULO BR 01311910 "
+MA-M,18C3E4B,Cascadia Motion LLC,"7929 SW Burns Way, Ste F WILSONVILLE OR US 97070 "
