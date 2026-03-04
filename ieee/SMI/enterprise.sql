@@ -42880,7 +42880,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 42878	Credit-Moscow Bank
 42879	Sielaff GmbH & Co. KG
 42880	Uwe Disch
-42881	No Limit Network
+42881	B2 Network
 42882	Jiangsu Fablesoft Co.,Ltd
 42883	CARC (C-DOT Alcatel-Lucent Research Centre Pvt Ltd)
 42884	Anderson Morgan Kelowna Inc.
@@ -65208,4 +65208,41 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65206	SkifteCentralen ApS
 65207	Seralto Bilgi Teknolojileri ve Guvenligi Ltd.
 65208	Privatbrauerei Zwettl
+65209	Kenneth MÃ¸rch
+65210	Monadnock Community Hospital
+65211	Saronic Technologies
+65212	KENTECH SECURITY LLC
+65213	TransItServiceLLC
+65214	TAURON ObsÅuga Klienta sp. z o.o.
+65215	MIS Security LLC
+65216	Twisted Ceptors Corporation
+65217	Pond IoT
+65218	Savannah Informatics Limited
+65219	Center for Ecological Research
+65220	ProSafety d.o.o.
+65221	Universidade da Beira Interior
+65222	RT Medical Systems LTDA.
+65223	HAZON TECHNOLOGIES LIMITED
+65224	Metadata, SL
+65225	K. N. Toosi University of Technology,
+65226	Marquis Companies
+65227	Uone Infotech Co.,LTD
+65228	Municipio de JuÃ¡rez, Nuevo LeÃ³n
+65229	UniverzitnÃ¡ nemocnica Nemocnica svÃ¤tÃ©ho Michala, a.s.
+65230	Privasys Ltd
+65231	Institut fÃ¼r Wissenschaft und Weisheit (IWW)
+65232	Vital Tech Industria e Comercio Ltda
+65233	Rip City Refrigeration
+65234	Seattle School District #1
+65235	Hudson River Trading
+65236	TSCP LLC
+65237	Noser Engineering AG
+65238	LMD HITECH INDIA PRIVATE LIMITED
+65239	Hans-Joachim Knobloch
+65240	iSYS Software GmbH
+65241	Arberlandkliniken Kommunalunternehmen
+65242	NEPKI
+65243	QFJ Home Network
+65244	SC Smart Office SRL
+65245	Athena Networks
 \.
