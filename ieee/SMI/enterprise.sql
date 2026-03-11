@@ -106,7 +106,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 104	Micro Technology
 105	Process Software Corporation
 106	EMC Data General Division
-107	Bull Company
+107	Bull S.A.S.
 108	Broadcom Emulex Connectivity Division
 109	Warwick University Computing Services
 110	NetScout Systems, Inc. (formerly 'Network General Corporation')
@@ -36813,7 +36813,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 36811	Consendo Systems A/S
 36812	CSP, Inc.
 36813	SafeTek USA, LLC
-36814	DEFFAYET
+36814	Unassigned
 36815	Savings Society Inc
 36816	Beijing Abloomy Technologies Co., Ltd (formerly 'Beijing Yunshengfa Technologies Co., Ltd')
 36817	Bohemia Interactive Simulations
@@ -59776,7 +59776,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 59774	Teyf Pardazan Spadana (TPS) Co.
 59775	AB GyllsjÃ¶ TrÃ¤industri
 59776	Webloom S.r.l.
-59777	Martin Johansson
+59777	Tidaholms kommun
 59778	Tiáº¿n Tráº§n
 59779	INBOH DOOEL Skopje
 59780	PFALZKOM GmbH
@@ -65245,4 +65245,66 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65243	QFJ Home Network
 65244	SC Smart Office SRL
 65245	Athena Networks
+65246	Guardant Health
+65247	Evorit
+65248	William Harrison
+65249	SZ Grid
+65250	Christian Zietz
+65251	SAXONIA Edelmetalle GmbH
+65252	Henke-Sass, Wolf GmbH
+65253	Advanced Fiber Resources Milan srl
+65254	Paceline Services
+65255	åäº¬æ³°æ¯æ±éä¿¡ææ¯æéå¬å¸ (Beijing Testing Technology Co., Ltd.)
+65256	Codibly S.A.
+65257	Sheffield Children's NHS Foundation Trust
+65258	11:11 Systems Inc.
+65259	Bayer Radiology
+65260	Base Power, Inc.
+65261	Keeper Security, Inc
+65262	B&G Digital Services GmbH
+65263	Alfred Hochleithner e. U.
+65264	Shenzhen Enjoy Technology Co.,Ltd.
+65265	Jeremy Jay
+65266	olstenwood logistic AB
+65267	XPC Corporation
+65268	SHENZHEN FOCUSCOM TECHNOLOGIES CO.,LTD
+65269	Autobahn Tank u Rast
+65270	extocode GmbH
+65271	Convey Health Solutions
+65272	Philippine Society for Digital Health
+65273	IMSENZ
+65274	Projekt IP, sodobne IP komunikacije d.o.o.
+65275	Hiab
+65276	B2B Solutions Zrt.
+65277	CORPORACIÃN EMPRESARIAL ALTRA S.L.
+65278	DANEXiS AG
+65279	it@business GmbH & Co. KG
+65280	Juha mielonen
+65281	Supertrace
+65282	CHRISTIE OWEN & DAVIES LIMITED
+65283	Cantrell Cloud ES
+65284	ram krishnan
+65285	Altos Computing Inc.
+65286	Phison Electronics Corp.
+65287	Akarui Networks Private Limited
+65288	Suzhou Langkong Post-Quantum Technology Co., Ltd.ï¼LK Quantumï¼
+65289	ZPPP-Blonie
+65290	LaunchWindow Software Inc.
+65291	Konduit KYA
+65292	Aleph Cloud (Aleph.im SAS)
+65293	SSC-Services GmbH
+65294	Novatronic LLC
+65295	Innovoris Labs IT srl
+65296	Netvio
+65297	CAITEK for Information Systems
+65298	Exian Systems Limited
+65299	Grumpy Bastards
+65300	LikeDotAudio
+65301	Null Grid Ltd
+65302	Linneman Labs
+65303	Simgenet
+65304	Institut Mallorqui Afers Socials
+65305	MIOS ELETTRONICA
+65306	Tetranetics Private Limited
+65307	nfiniity GmbH
 \.
