@@ -19547,7 +19547,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 19545	Sony CISC
 19546	MELENTANE
 19547	Oplink Communications, Inc.
-19548	FROX communication
+19548	FROX AG
 19549	Uni-Q Systems (formerly 'ENGREN.NET')
 19550	an Academic Network at Sao Paulo (ANSP)
 19551	Thales Naval France
@@ -26535,7 +26535,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26533	Nurun inc.
 26534	think project! International (formerly 'AEC/communications GmbH')
 26535	OMNEX Control Systems ULC
-26536	Ringland Consulting LLC
+26536	Jim Ringland
 26537	Riorey Inc.
 26538	Duaxes Corporation
 26539	Ionoscape Associates
@@ -41295,7 +41295,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 41293	Taylor Innovations, LLC
 41294	Datafrog
 41295	Andalusia Group
-41296	E-Gate Communications Inc.
+41296	EGATE Networks Inc.
 41297	Nextech Co.,Ltd
 41298	BRGFrauengasse
 41299	Infodom d.o.o.
@@ -50032,7 +50032,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 50030	BENTELER Business Services GmbH
 50031	Ring Central, Inc
 50032	City of Edmond
-50033	IT-Solutions Nuernberg
+50033	AKITN Consulting
 50034	AR24 SAS
 50035	Identinetics IT-Services GmbH
 50036	Cancer South Institute
@@ -53190,7 +53190,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 53188	Queen Margaret's School
 53189	Share IT Limited
 53190	LittleMouseCloud
-53191	Telmex Colombia S.A.
+53191	Comcel S.A.
 53192	Socially Determined, Inc.
 53193	UVEX WINTER HOLDING GmbH & Co. KG
 53194	Goodbaby International
@@ -63168,7 +63168,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63166	Scanvaegt Systems AB
 63167	FUNDACIÃN CIVITANA
 63168	UnipartRail
-63169	TEXAS DEPARTMENT OF DEVELOPMENT
+63169	Dev Recon Inc
 63170	XYC INDUSTRY CO.,LIMITED
 63171	C4 Energi AB
 63172	Brueterei Weser-Ems GmbH & Co. KG
@@ -65066,7 +65066,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65064	WestJet Airline Ltd.
 65065	Kelco Industries
 65066	yamanju LLC
-65067	Alpha Software Dienstleistungs ASD GmbH
+65067	Netcetera Software Services GmbH
 65068	Institut Dr. Foerster GmbH & Co. KG
 65069	Meestgroup
 65070	Tida SkogsvÃ¥rd
@@ -65212,7 +65212,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65210	Monadnock Community Hospital
 65211	Saronic Technologies
 65212	KENTECH SECURITY LLC
-65213	TransItServiceLLC
+65213	TransItServiceLLC.com
 65214	TAURON ObsÅuga Klienta sp. z o.o.
 65215	MIS Security LLC
 65216	Twisted Ceptors Corporation
@@ -65307,4 +65307,86 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65305	MIOS ELETTRONICA
 65306	Tetranetics Private Limited
 65307	nfiniity GmbH
+65308	Insky Communications Private Limited
+65309	IHX(Thailand) Co., Ltd.
+65310	David Keller
+65311	UANATACA ECUADOR S.A.
+65312	Persona Identities
+65313	Zhongrui Green Energy Technology (Shenzhen) Co., Ltd.
+65314	IsoFind
+65315	Transas Navigator Ltd.
+65316	CTHINGS.CO Sp. z o.o.
+65317	Foxway AB
+65318	Chengdu Newglee Technology Co., LTD.
+65319	Vardaan Electronics Industries Pvt. Ltd.
+65320	Seminole County Public Schools
+65321	Exavision
+65322	ServerForge LLC
+65323	GCH Technologies Inc.
+65324	Kern County Sheriff's Office
+65325	NetCuras
+65326	Azerconnect Group
+65327	ATSN Ltd
+65328	Multrees Investor Services
+65329	Hunt Electric
+65330	Voltra
+65331	XIPE Networks LLC
+65332	Cohesive Database Synoptics
+65333	Sisgarbe - Solucoes De Informatica Lda
+65334	easier.digital
+65335	MEK, Inc
+65336	AVISIA
+65337	Stephan Harrer
+65338	HPELab
+65339	LotusFlare Inc
+65340	New Use Energy Solutions
+65341	Claiborne County School District
+65342	Haerang Energy
+65343	FLDG Holding SASU
+65344	Dustin Ward
+65345	Communications Regulatory Authority of Namibia
+65346	Yaskawa America Inc.
+65347	Beijing Unihannto Technology Co., Ltd.
+65348	Florian Sluiter
+65349	Microgrid Energy Pty Ltd
+65350	Ruchi Telecom Private Limited
+65351	Sigalion
+65352	Space-Tech LLC
+65353	CEDIA
+65354	TRAC Intermodal
+65355	Apache Corporation
+65356	Julian Pawlowski
+65357	JosÃ© EliÃ©cer Loaiza Duque
+65358	Mark Nolan
+65359	Rainer W. Gerling
+65360	Point And Click Solutions, Inc
+65361	xSyLent
+65362	Liujiacheng
+65363	MerkleCerts
+65364	Verific Design Automation, Inc.
+65365	SOI Asia
+65366	Fast Module
+65367	Numeracle, Inc.
+65368	Jacobs.Tech
+65369	Affinda Group
+65370	Nexiom
+65371	VietCA Technology JSC
+65372	Electron do Brasil Tecnologia Digital Ltda
+65373	BK Tech Group AB
+65374	Ampaura Australia
+65375	PRZEDSIEBIORSTWO WIELOBRANZOWE CASTON SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA (Caston Multi-Branch Enterprise Limited Liability Company)
+65376	Famoco
+65377	Compass Group North America
+65378	è¯æç§ææéå¬å¸ Xinsheng Technology Co., Ltd
+65379	LLC "PF STIS"
+65380	Mark Mackenzie
+65381	Michael Kirkpatrick
+65382	Water & Wastewater Technic WWT GmbH
+65383	Endritâs Digital Solutions e.K.
+65384	Association of Azerbaijani British Professionals
+65385	FORITECH
+65386	DAPsystems
+65387	BEQ Manufacturier
+65388	Viridi Parente, Inc.
+65389	Romagnole Produtos ElÃ©tricos SA (Filial Juiz de Fora)
 \.
