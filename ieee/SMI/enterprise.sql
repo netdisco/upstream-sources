@@ -3997,7 +3997,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3995	VASCO Data Security International, Inc.
 3996	Open Systems AG
 3997	ImproWare AG
-3998	Mediagroup Vtoroy
+3998	VTOROY
 3999	dydx
 4000	Hi-net Research Group
 4001	KADAK Products Ltd.
@@ -61832,7 +61832,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61830	Tinh Van Technologies JSC.
 61831	MFK Burny
 61832	Alfavit
-61833	Xiaojun Ben
+61833	StarCharge
 61834	Venturus Centro de Inovacao Tecnologica
 61835	Otheda Limited
 61836	AtFocus
@@ -65389,4 +65389,58 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65387	BEQ Manufacturier
 65388	Viridi Parente, Inc.
 65389	Romagnole Produtos ElÃ©tricos SA (Filial Juiz de Fora)
+65390	Md Shahab Uddin
+65391	Gouvernement du Togo
+65392	HALE electronic GmbH.
+65393	National Gas
+65394	XIVAuth Project
+65395	Indonesia Research and Education Network
+65396	220NET
+65397	Crosstech Solutions Group LLC
+65398	Altalink
+65399	Honeywell Aerospace
+65400	Construction Company "Facade Systems" LLC
+65401	Mosproject
+65402	Yannick Schneider
+65403	Starlink
+65404	Horizon Credit Union
+65405	Console Now Inc.
+65406	OpConnect Inc.
+65407	Niklights
+65408	AEWIN Technologies Co., Ltd.
+65409	Uniserv GmbH
+65410	Defidev
+65411	Salience Labs
+65412	Chaos1
+65413	DragonWave Technologies
+65414	ç¦å·é«æ°åºèèç½ç»æéå¬å¸ (Fuzhou High-tech Zone Weilan Network Co., Ltd.)
+65415	Bergslagets Egendomar AB
+65416	After Hours Audio
+65417	Pippin Technical Service
+65418	HIPOINT TECHNOLOGY CO., LTD
+65419	Serhii Parshyn
+65420	Haoren Hu
+65421	Pfano Kate
+65422	SigmaMD
+65423	Transumption Pte Ltd
+65424	Dermavision Solutions SL
+65425	Municipal institution City Institute
+65426	SXarc
+65427	Yu Energy
+65428	m3g yazilim danismanlik tic. ltd. sti.
+65429	Duix Tecnologia Industria e Comercio LTDA
+65430	Carnival Corporation & PLC
+65431	Logipix
+65432	LukuID Oy
+65433	City of Orem, Utah
+65434	Mark Purcell
+65435	Paul Robinson
+65436	MdProSoft
+65437	Mikael Hansson Ãkeri AB
+65438	Ram Jee Aryal (Independent Developer)
+65439	Sherpa-IRS
+65440	Signal24 LLC
+65441	Wendy Labs, Inc.
+65442	CV BÄ°LÄ°ÅÄ°M TEKNOLOJÄ° TÄ°CARET LÄ°MÄ°TED ÅÄ°RKETÄ°
+65443	Horry County Government
 \.
