@@ -65443,4 +65443,61 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65441	Wendy Labs, Inc.
 65442	CV BÄ°LÄ°ÅÄ°M TEKNOLOJÄ° TÄ°CARET LÄ°MÄ°TED ÅÄ°RKETÄ°
 65443	Horry County Government
+65444	ShenZhen Action Technologies Co., Ltd.
+65445	Sirraya Labs
+65446	OnLogic Inc
+65447	Core Concept Collective
+65448	Augeral Pty Ltd
+65449	ISTREAMS SOLUTIONS FZE
+65450	Devops-DB
+65451	Stadtverwaltung Borken
+65452	Sallan yhteismetsÃ¤
+65453	Weinholt Consulting AB
+65454	Swarco Futurit Verkehrssignalsysteme Ges.m.b.H.
+65455	Denny Thomas
+65456	SHI Lili
+65457	SECORO INC
+65458	Starnitzke Consulting GmbH
+65459	Salt Group
+65460	d-Matrix
+65461	Universidad AutÃ³noma de Nayarit
+65462	NymÃ¶lla Skog AB
+65463	PANTHEON.tech
+65464	Granite Telecommunications LLC.
+65465	bosloven
+65466	TELENICK
+65467	nekohaxx
+65468	SRNE Solar Co.,Ltd
+65469	ArtSanEnerji
+65470	TriCore Engineering UG (haftungsbeschrÃ¤nkt)
+65471	Mobi Acquisition LLC
+65472	BYD Finland Oy
+65473	DS Soft Olomouc, spol. s r.o.
+65474	CedarDB GmbH
+65475	DESKO GmbH
+65476	Ducati Motor Holding S.p.A
+65477	å¦é¨æ±å°è¡ä»½æéå¬å¸ (Xiamen Hanin Co., Ltd.)
+65478	Rune Vikestad
+65479	SmartSolo
+65480	BitKiva
+65481	FIRMA INTERSVYAZ LIMITED TRADE DEVELOPMENT
+65482	Conekt.ai, Inc.
+65483	å¤©æ´¥å¤å½è¯­å¤§å­¦(Tianjin Foreign Studies University), TJFSU, TFSU
+65484	Nimbis Services, Inc.
+65485	LSW tech
+65486	Sky Digital Co., Ltd.
+65487	Maryland Benefits DHS CJAMS
+65488	MIROSLAV VASILEV TZONKOV
+65489	Jerome Freeman
+65490	AUTONOMY OF ZALESK TRUST
+65491	DABify Ltd
+65492	ABPS Radio Network
+65493	States of Jersey Police (SOJP)
+65494	KOEN Inc
+65495	Nimbus Hrvatska d.o.o.
+65496	Company ONC
+65497	GK FUTURE Inc.
+65498	Vecto
+65499	Gildas Le Drogoff
+65500	Wolf Rosewood Media
 \.
