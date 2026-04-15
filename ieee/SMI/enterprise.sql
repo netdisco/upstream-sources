@@ -11078,7 +11078,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 11076	Banesto S.A.
 11077	Andrej Ota (formerly 'C.net d.o.o.')
 11078	Centralworks LLC
-11079	EIT Ltd
+11079	Greg Malewski
 11080	Airwide Solutions (formerly 'First Hop')
 11081	Hydrogen Line, Inc.
 11082	Illinois Central College
@@ -25534,7 +25534,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 25532	BCA Services Ltd.
 25533	IdentityForge, LLC.
 25534	Lusan Systems
-25535	Klas Ltd.
+25535	Anduril Voyager
 25536	Probaris Technologies, Inc.
 25537	Thomas Friedl
 25538	GNU Telephony
@@ -30014,7 +30014,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 30012	ipoque GmbH
 30013	Den selvejende institution Paul BargsÃ¸e Kollegiet
 30014	Pecsi Tudomanyegyetem Klinikai Kozpont
-30015	KBC Bank
+30015	KBC Global Services
 30016	Anel-Elektronik AG
 30017	TAG Aviation
 30018	FusionIO
@@ -52331,7 +52331,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52329	DSI DGAC
 52330	Chubb Systems Ltd
 52331	learntotechsolutions Limited
-52332	INTEGRITY Security Services LLC
+52332	OmniTrust Security LLC
 52333	Banco de Credito del Peru
 52334	Systematic Inc
 52335	Alignment Healthcare
@@ -65495,9 +65495,65 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65493	States of Jersey Police (SOJP)
 65494	KOEN Inc
 65495	Nimbus Hrvatska d.o.o.
-65496	Company ONC
+65496	LAYER1
 65497	GK FUTURE Inc.
 65498	Vecto
 65499	Gildas Le Drogoff
 65500	Wolf Rosewood Media
+65501	Mpirical
+65502	Techielab.ch
+65503	Artsan Enerji static voltage stabilizer
+65504	VWFNDR  CAMERA
+65505	Tumee
+65506	DOBE COMPUTING Co., Ltd.
+65507	Midwest Fastener Corp
+65508	Oregonians Credit Union
+65509	Santa Casa de Marilia
+65510	GIP RECIA
+65511	James L Baker
+65512	åäº¬ä¸æ¹äº¬æµ·çµå­ç§ææéå¬å¸ (Beijing Dongfang Jinghai Electronic Technology Co., Ltd.)
+65513	Alyiah Samara
+65514	Premkumar Prithivirajan
+65515	TeX Users Group
+65516	Bribus B.V.
+65517	Construmart S.A.
+65518	Pumatronix Equipamentos Eletronicos Ltda
+65519	Informationsverarbeitung Leverkusen GmbH
+65520	æå (Li Gang)
+65521	Biobot Surgical Pte. Ltd.
+65522	CVC Co.,Ltd.
+65523	æ å·å¸åå®ç»ç§ææéå¬å¸ (Huizhou Boshijie Technology Co., Ltd.)
+65524	Information Accessibility Institute
+65525	SONACA S.A.
+65526	Delos Cloud GmbH
+65527	Zodiac
+65528	CleverEnable
+65529	Dion Kitsos
+65530	Vectanor
+65531	çå°äºçµçµå­ç§ææéå¬å¸ (Yantai Yundian Electronics Technology Co., Ltd.)
+65532	Code 626, Inc.
+65533	Scottish Power Energy Networks
+65534	Intersys Teknoloji Sanayi Ticaret A.Å.
+65535	Kuusamon yhteismetsÃ¤
+65536	KemijÃ¤rven yhteismetsÃ¤
+65537	Bilerro Solutions, S.L.U.
+65538	SEnergy IoT Pvt Ltd
+65539	Modern Urology, PLLC
+65540	Indra Heera Network Private Limited
+65541	BRADIN
+65542	å¹¿ä¸TCLæ·±èææ¯æéå¬å¸ (TCL Digital Power Co. Ltd)
+65543	G-Wayz Productions LLC,
+65544	Digital Trust International
+65545	Christophe Wolfhugel
+65546	Testmar Muhendislik ve Dis Ticaret Ltd.
+65547	HJ-Systems
+65548	Energywave Technology Inc.
+65549	Energonix
+65550	HePoJ BV
+65551	Tindango
+65552	Nay San
+65553	Signaliks
+65554	Maschinenfabrik Gustav Eirich GmbH & Co KG
+65555	Hensoldt AG
+65556	Replit
 \.
