@@ -65074,7 +65074,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65072	Keyfactor Federal
 65073	GCVE
 65074	Writerslogic Inc
-65075	Beijing Loong Network Technology Co., Ltd.
+65075	Peking Loong Network Technology Co., Ltd.
 65076	Tonghua Dongchang Superzhao Information Technology Consulting Studio
 65077	Polytec GmbH
 65078	SATELCOM TELEKOMÃNÄ°KASYON, BÄ°LGÄ° VE Ä°LETÄ°ÅÄ°M TEKNOLOJÄ°LERÄ° Ä°THALAT Ä°HRACAT SANAYÄ° ANONÄ°M ÅÄ°RKETÄ°
@@ -65513,7 +65513,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65511	James L Baker
 65512	åäº¬ä¸æ¹äº¬æµ·çµå­ç§ææéå¬å¸ (Beijing Dongfang Jinghai Electronic Technology Co., Ltd.)
 65513	Alyiah Samara
-65514	Premkumar Prithivirajan
+65514	Charter Communications
 65515	TeX Users Group
 65516	Bribus B.V.
 65517	Construmart S.A.
@@ -65528,7 +65528,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65526	Delos Cloud GmbH
 65527	Zodiac
 65528	CleverEnable
-65529	Dion Kitsos
+65529	Kitsos
 65530	Vectanor
 65531	çå°äºçµçµå­ç§ææéå¬å¸ (Yantai Yundian Electronics Technology Co., Ltd.)
 65532	Code 626, Inc.
@@ -65556,4 +65556,73 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65554	Maschinenfabrik Gustav Eirich GmbH & Co KG
 65555	Hensoldt AG
 65556	Replit
+65557	Sarvis Health
+65558	Indra Heera Technology LLP
+65559	University Hospital Southampton NHS Foundation Trust
+65560	Szpital Miejski w Rudzie ÅlÄskiej Sp. z o.o.
+65561	Luminary Health Data Inc
+65562	QNT Systemy Informatyczne Sp. z o.o.
+65563	Wizmo, Inc.
+65564	SkyFoundry
+65565	Information Technology Orbit (Ito) B.V.
+65566	JSC "Smartcom"
+65567	Deutsche Rentenversicherung Oldenburg-Bremen
+65568	Mosas Akilli Ulasim Teknolojileri A.S.
+65569	æ²³åé«è¾¾æºè½è£å¤è¡ä»½æéå¬å¸
+65570	LLC "Sibneftekart"
+65571	Alliance For Empowerment Inc
+65572	Ylem
+65573	Magma Studio Ltd
+65574	ID10T Academy
+65575	TatumSecurity
+65576	National Institute of Public Health
+65577	beSIGN
+65578	Nordsnipe
+65579	TV2 AS
+65580	CME Technologies LLC
+65581	QuizBin
+65582	Bjoern MeiÃ©r
+65583	Helco Systems, LLC
+65584	Yuanjia Liu
+65585	Certus Limited
+65586	Lanas ANZ
+65587	OTA-NET
+65588	9P2000.N Project
+65589	Viking Electronics
+65590	Stranto Business Solutions GmbH
+65591	Maritime Silk Road Time Center Co., Ltd.
+65592	Jiangsu Xingwang Time-frequency Technology Co., Ltd.
+65593	ARNOLD Group
+65594	SECLOUS GmbH
+65595	TD Bank
+65596	Chipus Microeletronica SA
+65597	Cascade Federal Credit Union
+65598	Alan Cui
+65599	Breccia Infrastructure
+65600	Hangzhou Lititi Technology Co., Ltd
+65601	HMN Tech Co., Ltd.
+65602	ATMOCE Australia PTY LTD
+65603	Trexcel Corporation
+65604	Ericsson - IT Managed Services
+65605	OneWiseTech
+65606	Gavin John
+65607	Seaal
+65608	NodeX
+65609	NodeAI Diagnostics Corp.
+65610	Rootist, LLC
+65611	Turaco Labs Ltd
+65612	ZK-PKI
+65613	SYSBRAN
+65614	Eric Carrozzo
+65615	Guangdong CASSTK Co., Ltd.
+65616	XDISC SA
+65617	XIPE
+65618	Carmentis SAS
+65619	Opsens Solutions Inc
+65620	Spectronic Denmark A/S
+65621	Clever Cloud
+65622	Axians HR
+65623	PC-Wolf EDV-Service & -Notdienst
+65624	Ordr, Inc
+65625	Valkyrie Bioscience
 \.
