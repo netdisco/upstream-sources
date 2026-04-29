@@ -15671,7 +15671,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 15669	Lifecycle Software
 15670	The Internet Marketing Center
 15671	Wardega Consulting
-15672	Javno preduzece "Posta Srbije" (formerly 'Javno preduzece PTT saobracaja "Srbija"')
+15672	Posta Srbije d.o.o.
 15673	Codeangels Solutions
 15674	Valente CC
 15675	StoneDonut, LLC
@@ -37512,7 +37512,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37510	SilentSystem
 37511	Future Dynamics Interstellar
 37512	Systems Corps
-37513	Citkomm
+37513	SÃ¼dwestfalen-IT (Zweckverband)
 37514	Raphael Frasch GmbH
 37515	Avajadi Solutions
 37516	Software Integration Development
@@ -65625,4 +65625,57 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65623	PC-Wolf EDV-Service & -Notdienst
 65624	Ordr, Inc
 65625	Valkyrie Bioscience
+65626	Vaunix Technology Corporation
+65627	Anthropic, PBC.
+65628	Decentralized Quantum Key Management Infrastructure
+65629	xHSM
+65630	Shenzhen Tocloud-iot technology Co.,Ltd
+65631	Shenzhen Qin'an Technology Co., Ltd.
+65632	Grupo ComputaciÃ³n Modular Avanzada S.A.
+65633	HBA International
+65634	Swen Scholz
+65635	Aplus Power Technology (Hangzhou) Co., Ltd.
+65636	IOTRONICS
+65637	Polska Agencja Rozwoju PrzedsiÄbiorczoÅci
+65638	Port of Antwerp-Bruges
+65639	KatBox GmbH
+65640	Sicoob Credicaf
+65641	DENQEN engineering SRL
+65642	Stellar Quanta Labs
+65643	Tours-Ã©vÃ©nements
+65644	LeSecure
+65645	American ID Group
+65646	Desistec ingenierÃ­a y servicios Ltda.
+65647	Hagbergs Skogstransport AB
+65648	City of Highland Village
+65649	CMCC OTT-CDN
+65650	WORKBASE JOINT STOCK COMPANY
+65651	ITALGRANITI GROUP S.P.A.
+65652	SurrealDB Ltd
+65653	ADK Hospital
+65654	Georgia Farm Bureau Mutual Insurance Company
+65655	Jonel Mawirat
+65656	365id AB
+65657	Ticnow Spa
+65658	EMERALD ENERGY PTY LTD
+65659	China Broadcasting International Economic and Technical Cooperation Co., Ltd.
+65660	SensNet
+65661	DSMentoring
+65662	KeyGrid
+65663	The Joy of Engineering - Compelcon AB
+65664	Bluedot Insight LLC
+65665	Shenzhen Xihe Future Technology Co., Ltd.
+65666	Friendly Technologies LTD.
+65667	Shanghai YueJing Network Technology Co.,LTD
+65668	Treuco AG
+65669	ELEXTRA
+65670	LANVIX, FZCO
+65671	AMS Software Solutions, Inc.
+65672	Jonatan Miarecki
+65673	High Ridge Services, Inc.
+65674	Czech Hydrometeorological Institute
+65675	e-Xpert Solutions SA
+65676	Hirslanden AG
+65677	enyo GmbH
+65678	STACKDEEP.AI PRIVATE LIMITED
 \.
