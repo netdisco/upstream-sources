@@ -48300,7 +48300,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48298	Health Choice Management Company
 48299	Koninklijke Nederlandse Dambond
 48300	ComSource s.r.o.
-48301	NathanNet
+48301	NatNet
 48302	Big Neptune
 48303	0x0f
 48304	American Financial Group Inc
@@ -65530,7 +65530,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65528	CleverEnable
 65529	Kitsos
 65530	Vectanor
-65531	çå°äºçµçµå­ç§ææéå¬å¸ (Yantai Yundian Electronics Technology Co., Ltd.)
+65531	çå°äºè½¯çµå­æéå¬å¸ (Yantai Yunruan Electronics Co., Ltd.)
 65532	Code 626, Inc.
 65533	Scottish Power Energy Networks
 65534	Intersys Teknoloji Sanayi Ticaret A.Å.
@@ -65678,4 +65678,58 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65676	Hirslanden AG
 65677	enyo GmbH
 65678	STACKDEEP.AI PRIVATE LIMITED
+65679	St. Paul's Hospital Millennium Medical College
+65680	PEC Technology (Thailand)
+65681	InfoPro Solution CO., LTD.
+65682	Telovis Solutions (OPC) Private Limited
+65683	Centric Limited
+65684	Nordic Bio Power
+65685	Nami.ai Pte. Ltd.
+65686	kaSoft GmbH
+65687	DELTA ELECTRONICS INDIA PRIVATE LIMITED
+65688	Prolan Process Control Co.
+65689	University of Mohamed El Bachir El Ibrahimi Bodj Bou ArrÃ©ridj
+65690	Spintronica LLC
+65691	ATON
+65692	Enschede.dev
+65693	City of Federal Way
+65694	Swedish Microwave AB
+65695	OmniVision Technologies Inc
+65696	Andermatt Swiss Alps AG
+65697	atNorth ehf.
+65698	Penny Plate, LLC
+65699	benningshof-it
+65700	Institute of Provenance
+65701	Amanger ConsultorÃ­a Informatica
+65702	Weintek
+65703	Intellics Co.,Ltd
+65704	Extop AB
+65705	SMARTOPTIMUS TECHNOLOGIES FZ LLC
+65706	Perspic AS
+65707	Fidelity International
+65708	FIL Fondsbank GmbH
+65709	qonduit GmbH
+65710	Sharonview Federal Credit Union
+65711	Intalio
+65712	INNO LOTUS PTY LTD
+65713	Athena Cybersecurity Pty Ltd
+65714	Lab Acacia Open Source
+65715	Neuro Protocol Suites Committee
+65716	Clinical Science Systems
+65717	EZMA GmbH
+65718	Foam Design, Inc.
+65719	Techinova AB
+65720	Shaanxi Zhongke Lixing Intelligent Technology Co., Ltd.
+65721	SAKO Brno, a.s.
+65722	Markgraf Consulting
+65723	Firma Chile
+65724	Ace Power Works
+65725	Zeev Lazarev
+65726	The CORE Group
+65727	Narayana OÃ
+65728	Xygeni Security
+65729	Medizinischer Dienst Westfalen-Lippe
+65730	F/G/M Mettchen MÃ¼ller GmbH & Co. KG
+65731	ldaldx+ml
+65732	Qrypt Inc
 \.
