@@ -31126,7 +31126,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 31124	ABF Baltic AS
 31125	Ressources Informatiques
 31126	ASTELLIA
-31127	Emerson Process Management
+31127	Emerson
 31128	Lead Tech Design
 31129	Alaska Satellite Facility
 31130	Basho Technologies, Inc.
@@ -65732,4 +65732,61 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65730	F/G/M Mettchen MÃ¼ller GmbH & Co. KG
 65731	ldaldx+ml
 65732	Qrypt Inc
+65733	Moultbase
+65734	PicoKeys
+65735	vossic
+65736	AceBIT GmbH
+65737	Zomputer Kft.
+65738	netcosystems GmbH
+65739	ARZ Haan AG Unternehmensgruppe
+65740	SAIC MOTOR Overseas Intelligent Mobility Technology Co., Ltd.
+65741	Maxworks Systems LLC
+65742	Li lilingyi
+65743	LeSoluzioni scarl
+65744	Inspakt Teknoloji A.Å.
+65745	MOKA
+65746	ShenZhen HCAILink Technology Co.,Ltd
+65747	Harrison Lee
+65748	wattsonic
+65749	iWave Global
+65750	Kuvik
+65751	Wavera Health, Inc.
+65752	Kared Sp. z o.o.
+65753	Prologin
+65754	Veranet B.V.
+65755	Timber Group Oy
+65756	Iver AB
+65757	kematek.com
+65758	Hochschule fuer Musik und Darstellende Kunst Frankfurt am Main
+65759	Devix Portugal, Lda
+65760	Maestranza Diesel
+65761	MeediaLabs SpA
+65762	IKnowICT
+65763	China Hualu Panasonic AVC Networks Co.,Ltd.
+65764	Gravity8
+65765	NetSense CyberSecurity Private Limited
+65766	Zambia Information and Communications Technology Authority
+65767	BOTWORX
+65768	JSC "Ural Factories"
+65769	Sekom Iletisim Sistemleri A.S.
+65770	Wireskop
+65771	LYNX VISION
+65772	Web Lite Solutions Corp.
+65773	AGROWAY TECNOLOGIA
+65774	Kimber Mfg., Inc.
+65775	SIRECOM S.A.R.L
+65776	Mapsted Corp
+65777	Nemzeti Ãzleti SzolgÃ¡ltatÃ³ Zrt.
+65778	Business Opportunity Management
+65779	TransWorld Scribes Limited
+65780	FGDConsulting AB
+65781	Sun Electronics Co., Ltd.
+65782	Resonance Health
+65783	Taifun Tofu GmbH
+65784	ENFASYS INGENIERIA SL
+65785	Insightexus
+65786	Simple Sign
+65787	CANOPY
+65788	Airiam
+65789	Thessia s.r.o.
 \.
