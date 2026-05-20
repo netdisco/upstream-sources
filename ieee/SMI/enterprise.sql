@@ -20752,7 +20752,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 20750	Technolution BV
 20751	PERAX
 20752	SA Polyclinique de Courlancy
-20753	Pharos Consulting (Pty) Ltd.
+20753	Pharos Avantgard (Pty) Ltd.
 20754	UniversitÃ¤tsklinikum Aachen
 20755	WestGlobal Ltd.
 20756	het Concertgebouw NV
@@ -20845,7 +20845,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 20843	Philipp Strozyk
 20844	L'OREAL
 20845	Linux Information Systems AG
-20846	SURFsara
+20846	SURF B.V.
 20847	Atlas Development Corporation
 20848	Zope Corporation
 20849	OMT Systems (Shenzhen) Limited
@@ -35409,7 +35409,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35407	BOUYGUES IMMOBILIER
 35408	Ing. Roman TÄÅ¡Ã­k
 35409	AccelOps, Inc.
-35410	SOLIS - Cooperativa de SoluÃ§Ãµes Livres Ltda
+35410	SOLIS - SoluÃ§Ãµes Livres Ltda
 35411	Fortium Technologies Ltd
 35412	CZ-MAN s.r.o.
 35413	GlideAround LLC
@@ -65789,4 +65789,51 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65787	CANOPY
 65788	Airiam
 65789	Thessia s.r.o.
+65790	SevenLayerTea
+65791	Hasil Technologies Inc.
+65792	Lampyris Factory LLC
+65793	CELLCON BIOMEDICAL TECH. CO., LTD.
+65794	Gospower
+65795	homelabsdx
+65796	Niklas Vlach
+65797	STORYBEL
+65798	Be-ys Health Solutions France
+65799	TLI
+65800	Keynua Peru S.A.C.
+65801	CNS-LINK
+65802	Configura
+65803	John Michael Kane
+65804	Sintela, Inc.
+65805	HIT Systempartner GmbH (PC-SPEZIALIST Hannover)
+65806	BubbleFish Technologies, Inc
+65807	Tronic
+65808	å¥¥éç¹å»çç§æï¼æ·±å³ï¼æéå¬å¸ (AIBRT Medical Technology (Shenzhen) Co., Ltd.)
+65809	æ·±å³å¸æ±è¾¾å»çå¨æ¢°æéå¬å¸ (Shenzhen Yuda Medical Instruments Co., Ltd.)
+65810	ZHUO YI TECHNOLOGY CO., LTD.
+65811	In the Cloud (Thailand) Co., Ltd.
+65812	ingeek
+65813	Triangle Products Co., Ltd.
+65814	Black Horse Pike Regional School District
+65815	via donau - Ãsterreichische WasserstraÃen-Gesellschaft mbH
+65816	Flatiron Health
+65817	KIT
+65818	E-Consilium Pty. Ltd.
+65819	Vasolytics LLC
+65820	Synop Inc
+65821	Trisula Medika Teknologi
+65822	Martin Daur
+65823	General Reasoning
+65824	Quantum Logic Corporation
+65825	MATVIS GmbH
+65826	Micro Ocean Technologies
+65827	Pateon Network Technology
+65828	GHESAR
+65829	ECMC Shared Services Co LLC
+65830	University of Nottingham
+65831	Bristol Foundation Trust
+65832	Convergent Solutions Group, LLC
+65833	AyaTech LTD
+65834	Lukasz Rzepecki
+65835	Information Processing Society of Japan
+65836	F.R.S.-FNRS
 \.
