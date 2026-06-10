@@ -14816,7 +14816,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 14814	CaroTechnology BV
 14815	Datasul S.A.
 14816	Thomas Polnik
-14817	4RF Communications Ltd.
+14817	4RF
 14818	Voice Mobility, Inc.
 14819	University of Cyprus
 14820	net outremer caledonie
@@ -65293,7 +65293,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65291	Konduit KYA
 65292	Aleph Cloud (Aleph.im SAS)
 65293	SSC-Services GmbH
-65294	Novatronic LLC
+65294	Novatronic DOO
 65295	Innovoris Labs IT srl
 65296	Netvio
 65297	CAITEK for Information Systems
@@ -65951,4 +65951,60 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65949	Nikita Ledenev
 65950	Afore New Energy Technology (Shanghai) Co., Ltd.
 65951	Airly sp. z o.o.
+65952	Kearfott Corporation, Guidance & Navigation Division
+65953	Sanctum SecOps LLC
+65954	Await Godot
+65955	smlx
+65956	Daniel Smith
+65957	KBE Srl
+65958	EPC Power Corp.
+65959	Ellipse World, Inc.
+65960	Kyle Evans
+65961	ABLECOM TECHNOLOGY INC.
+65962	Standart AG, LLC
+65963	Technicalfellow Holding B.V.
+65964	Xtractor UG (haftungsbeschraenkt)
+65965	zerohash LLC
+65966	æ­¦æ±æ©æºçµå­ç§ææéå¬å¸ (Wuhan Enzhi Electronic Technology Co., Ltd.)
+65967	GMB
+65968	IIT Research Institute
+65969	e-BO Enteprises
+65970	GA Technologies
+65971	Xiamen Tonmind Technology Co., Ltd.
+65972	Dixit Srl
+65973	Eccellenza Technologies Ltd
+65974	Ellisys
+65975	POS Solutions GmbH
+65976	VerAvanti, Inc
+65977	Jiangsu Koyoe Energy Technology Co., Ltd.
+65978	National Digital Transformation Infrastructure Office
+65979	Bleistahl Brasil Metalurgia Ltda.
+65980	SPIFFE
+65981	De Technische Jongens B.V.
+65982	Counties Energy Limited
+65983	Integrated Operations, LLC.
+65984	Astrobit SpA
+65985	VoxyWatch
+65986	HÃ´pital Universitaire de Bruxelles
+65987	CONVIDA
+65988	uni-assist e.V.
+65989	Leandro Felipe Castilhos
+65990	Lakshcore Technologies Private Limited
+65991	Jeff Welsh
+65992	Hangzhou Gold Electronic Equipment Co., Ltd.
+65993	TAS
+65994	Evoked
+65995	Universal Protocol Research Fundation
+65996	Identity Consortium d.o.o.
+65997	Reprodrive Center For Innovation Limited
+65998	Reclaim Protocol
+65999	SYL (Ningbo) Battery Co., Ltd.
+66000	Nuclear Power Institute of China
+66001	COSLINK DIGITAL ENERGY TECHNOLOGY CO., LTD
+66002	DaDaCon GmbH
+66003	Brabantia
+66004	ServiÃ§os Partilhados do MinistÃ©rio da SaÃºde, E.P.E.
+66005	Secure Radio Communications Limited
+66006	StÃ¤dtische Werke Magdeburg GmbH & Co. KG
+66007	CEA Technologies Pty Limited
 \.
