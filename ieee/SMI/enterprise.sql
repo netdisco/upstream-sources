@@ -3716,7 +3716,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3714	BellSouth Wireless Data, L.P.
 3715	Teleste Corporation
 3716	Brand Communications Limited
-3717	GeNUA mbH
+3717	genua GmbH
 3718	Philips Broadband Networks
 3719	Exmicro
 3720	Visiqn
@@ -7213,7 +7213,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 7211	Raiffeisen Schweiz
 7212	Raiffeisen Schweiz
 7213	Datria Systems
-7214	Virginia-Meryland Regional College of Veterinary Medicine
+7214	Virginia-Maryland College of Veterinary Medicine
 7215	ABN AMRO
 7216	Institut National de la Recherche Agronomique
 7217	The University of Memphis
@@ -61967,7 +61967,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61965	Knoxville Utilities Board
 61966	MythicalKitten
 61967	SCM Insurance Services
-61968	Wojciech Teichert (6961405014)
+61968	Wojciech Teichert (9522207207)
 61969	TCIIT
 61970	Kinder.Bildung.Zukunft e.V.
 61971	Teleradiologia Avanzada SL
@@ -65994,7 +65994,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65992	Hangzhou Gold Electronic Equipment Co., Ltd.
 65993	TAS
 65994	Evoked
-65995	Universal Protocol Research Fundation
+65995	AI Universal Protocol Research Foundation
 65996	Identity Consortium d.o.o.
 65997	Reprodrive Center For Innovation Limited
 65998	Reclaim Protocol
@@ -66007,4 +66007,33 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66005	Secure Radio Communications Limited
 66006	StÃ¤dtische Werke Magdeburg GmbH & Co. KG
 66007	CEA Technologies Pty Limited
+66008	LumenaDx Inc.
+66009	CRYPTOSIGN S.A.S.
+66010	Materosava AB
+66011	Hero Imaging AB
+66012	Theo End Computing (Nanjing) Technology Co., Ltd
+66013	Tierra S.p.A.
+66014	Lightware Zrt.
+66015	zhutangdata
+66016	MORPON Technology Co., Ltd.
+66017	Magnetica Limited
+66018	SentryLabs Private Limited
+66019	VOORTMANN GmbH & Co. KG Steuerungstechnik
+66020	Select Mechanical Services
+66021	ComitÃ© Unicef EspaÃ±a
+66022	Samlex Europe BV
+66023	Encrypia Labs
+66024	QOS.CH Sarl
+66025	Datasoro
+66026	Enginsight GmbH
+66027	Timmergruppen i Norr AB
+66028	Diehl Aviation Gilching GmbH
+66029	ICB S.A.
+66030	Heinrich KlÃ¶cker GmbH & Co. KG
+66031	cadiros
+66032	MaxxKonnect
+66033	Abdal Security Group
+66034	78ResearchLab
+66035	Yucca Technology Co., LTD
+66036	City of Davenport, IA
 \.
