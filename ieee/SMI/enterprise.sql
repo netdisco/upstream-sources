@@ -18443,7 +18443,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 18441	National Football League
 18442	Vimatix
 18443	Netsys.IT GbR
-18444	Sandwich.Net, LLC
+18444	Sandwich Internet Corp.
 18445	Datacard Corporation
 18446	Ascendant Technologies, Inc.
 18447	Willis Consulting
@@ -23942,7 +23942,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23940	Sysco S.p.A.
 23941	Opentaskforce
 23942	Intelligent Mobile Solutions, Inc.
-23943	Cendres+MÃ©taux Holding SA
+23943	CMSA Holding SA
 23944	DENIC eG
 23945	Institute of Journalism, University Dortmund
 23946	MINISTERO DELL'INTERNO - DIREZIONE CENTRALE POLIZIA CRIMINALE
@@ -38991,7 +38991,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 38989	Qtree BVBA
 38990	Nova World International, LLC dba Nova Shipping
 38991	Innoforma E-learning Technologies
-38992	SCCT, Wilhelm Wimmreuter
+38992	Wilhelm Wimmreuter
 38993	South Jersey Healthcare
 38994	San Juan Software
 38995	Connexon Telecom Inc.
@@ -48788,7 +48788,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48786	heiland.io
 48787	linudata GmbH
 48788	Bohlins TrÃ¤export AB
-48789	Fielmann AG
+48789	Fielmann Group AG
 48790	OOO KIT
 48791	H. Elderson
 48792	SCC Technology GmbH
@@ -51437,7 +51437,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 51435	SCLE SFE
 51436	Opendigitalradio
 51437	Razberi Technologies, Inc.
-51438	Unshare
+51438	unshare
 51439	Videotec S.P.A.
 51440	smart-edge.com
 51441	InfraNet AG
@@ -66036,4 +66036,162 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66034	78ResearchLab
 66035	Yucca Technology Co., LTD
 66036	City of Davenport, IA
+66037	ESTA
+66038	Wathiqa PQC
+66039	Joshua Cox
+66040	Barkov Alexey Fedorovich
+66041	HENAN JIUYU TENGLONG INFORMATION ENGINEERING CO.,LTD.
+66042	Potin (Beijing) Technology Co., Ltd.
+66043	imsoftware
+66044	GEODIS
+66045	AlbertiGroup
+66046	Technix S.p.A.
+66047	Marian, Inc.
+66048	SPOT Imaging dba Diagnostic Instruments, Inc.
+66049	Arpnex Technologies
+66050	Vistra Netherlands
+66051	GHQ systems s.r.o.
+66052	Wireless Supply, LLC
+66053	Bill Farmer, Jr.
+66054	PetaBit S.r.l.
+66055	Moultbase CAD for Code Signing
+66056	Fablaja
+66057	Aman Afzar Nahaanbin
+66058	Bexyhub
+66059	VYRTY Corporation d/b/a Sync.MD
+66060	Chane Terminals
+66061	ConnectPoint Sp. z o. o.
+66062	Realworld
+66063	Easy Telecom Law Firm S.L.
+66064	Black & Veatch
+66065	SORACOM, INC.
+66066	Shenzhen SOSEN Innovation Technology Co.,Ltd
+66067	Apoldaer Wasser GmbH
+66068	JÃ¤rbo Elektro-Kapsel AB
+66069	Dayton Photonics
+66070	MX Healthcare GmbH
+66071	China Telecom Cybersecurity Technology
+66072	Reddy Apps LTD
+66073	Eastman Ghent S
+66074	Damon Gillard
+66075	Studentenwerk Chemnitz-Zwickau
+66076	Z9 Security
+66077	Mederer GmbH
+66078	RSpond, Inc.
+66079	SEVENP
+66080	myenergi Ltd
+66081	Transline Technologies Limited
+66082	magnusschatz
+66083	1off
+66084	XXXLGroup
+66085	Networkables
+66086	AutenTIC S.A
+66087	AgilityDelivered
+66088	Boundless Rise LLC
+66089	vinciBytes GmbH
+66090	Nuupiot Labs
+66091	Alvian Networks
+66092	Axians RMP xG
+66093	Locale Systems LLC
+66094	BERAG
+66095	Tomoverse Imaging Inc.
+66096	NTT Data Global
+66097	SOFTDREAMS TECHNOLOGY INVESTMENT AND TRADING JOINT STOCK COMPANY
+66098	HOYAN Electronics Technology Co., Ltd.
+66099	Sindhu Saraswati Research Pvt Ltd
+66100	infinit IngenieurbÃ¼ro fÃ¼r industrielle Innovationstechniken
+66101	WISTERIA LAB
+66102	Sky Guard Cyber
+66103	Parto Ertebat Saba
+66104	Aragonese Institute of Health Sciences
+66105	LLC Â«INFOMATÂ»
+66106	iTEAM (Instituto de Telecomunicaciones y Aplicaciones Multimedia, Grupo MCG)
+66107	FEHC-HHCP
+66108	Coleg y Cymoedd
+66109	Vendel IllyÃ©s
+66110	Cape Fear Community College
+66111	Polyflex Natal (Pty) Ltd
+66112	åäº¬è¿ªä¸ºåå´éè®¯ææ¯æéå¬å¸ (Beijing Diwei Shuangxing Communication Technology Co., Ltd.)
+66113	lightupq technology
+66114	Sierra Nevada Company, LLC - Defensible Security
+66115	BrkrOps Inc
+66116	HistoSonics, Inc.
+66117	Andrews & Arnold Ltd
+66118	Mats Classons SkogsvÃ¥rd i Mangskog AB
+66119	Orsis Limited
+66120	Acist Medical Systems
+66121	Traversal Health
+66122	RauchSystems
+66123	YJC POWER AUSTRALIA PTY LTD
+66124	Henrik levinsson AB
+66125	PRAIMTECH, LIMITED LIABILITY COMPANY
+66126	Perinet GmbH
+66127	ANF AC DOMINICANA
+66128	PharmaProspective LLC
+66129	Ontario School District
+66130	Wreckedkernel
+66131	China Broadnet
+66132	HaysMac LLP
+66133	THINGS4NUVA SL
+66134	AIRNITY
+66135	Telonic Systems Inc.
+66136	OOO NPO "MIR"
+66137	Natalka
+66138	Civic Hacker LLC
+66139	slvk
+66140	Viaflux
+66141	extr3m IT
+66142	NBSN Telecom Limited
+66143	Bergkvist Siljan InsjÃ¶n AB
+66144	Arexico
+66145	Reuniwatt SAS
+66146	Hmi Muhendislik Otomatik Kontrol Sistemleri
+66147	TAKE IT GmbH & Co. KG
+66148	Cambodian Network Exchange
+66149	FOM Hochschule fÃ¼r Oekonomie und Management
+66150	Global Reach Technology EMEA Limited
+66151	Signater
+66152	Diatrend Corporation
+66153	Transcom (Shanghai) Technologies Co., Ltd.
+66154	Forged Networks
+66155	Belikin Roman
+66156	FIRMATIC S.A
+66157	Marueng
+66158	RDP Innovation
+66159	Scorpio IT d.o.o.
+66160	Netvyn
+66161	Mysterion
+66162	AlphaTrading SpA
+66163	FunnelCloud Inc.
+66164	Nordstam AB. (Namn pÃ¥ Bolagsverket Skog & Virke Nordstam AB) 559586-3449
+66165	Adam Grazioli
+66166	Narodna banka Srbije
+66167	NetCon IT-Security GmbH
+66168	EsyTech Pty Ltd
+66169	CLEMAR ENGENHARIA LTDA
+66170	BT Equipamentos EletrÃ´nicos LTDA
+66171	New Jersey Resources
+66172	Netralux
+66173	Digital Cinema Network Pty Ltd
+66174	emplohouse spÃ³Åka z ograniczonÄ odpowiedzialnoÅciÄ
+66175	Siemens Mobility GmbH (OT)
+66176	SHENZHEN JIUZHOU ELECTRIC CO.,LTD.
+66177	Lars Kohnert
+66178	Quantum B
+66179	Edwin L. Heim Company
+66180	Rubrix.lat
+66181	Ranidae Aquaculture & Herpetoculture
+66182	Tom Internet Research Office
+66183	ZHOU YUTAO
+66184	Oliver AruvÃ¤li
+66185	NULL Pointers
+66186	Hilscher Gesellschaft fÃ¼r Systemautomation mbH
+66187	UNIVERSITI MALAYSIA KELANTAN
+66188	SECUDOCX
+66189	Banca Transilvania
+66190	XCENA Inc.
+66191	Stadt AngermÃ¼nde
+66192	GIGAMEDIA
+66193	Kayten GmbH
+66194	Romer Technologies, Inc
 \.
