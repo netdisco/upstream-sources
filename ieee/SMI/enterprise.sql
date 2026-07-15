@@ -34558,7 +34558,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34556	EDAN INSTRUMENTS CO., LTD.
 34557	Ministerio de Justicia
 34558	Unassigned
-34559	Maschinenfabrik Reinhausen GmbH
+34559	Reinhausen GmbH
 34560	Marquise Technologies
 34561	VITALATIV, s.r.o.
 34562	FUHST MEHRENS
@@ -57725,7 +57725,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57723	Christian Financial Resources
 57724	SEPI Engineering & Construction
 57725	Xage Security, Inc.
-57726	VivoKey Technologies
+57726	VivoKey Inc.
 57727	Calspan
 57728	InsidePacket Inc
 57729	Foundry Health - an IQVIA business
@@ -64874,7 +64874,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64872	Elemenik
 64873	Kendal College
 64874	Shanghai Hema Optical Co., Ltd.
-64875	BJL13 Enterprise Solutions, LLC d/b/a CivicBrands
+64875	CivicBrands
 64876	Nestor cv
 64877	Beacon Link Inc.
 64878	Prima Vista Solusi
@@ -65199,7 +65199,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65197	Simsalasim Germany GmbH
 65198	VADES, LLC
 65199	HanÃ¥sa SÃ¥gverk Aktiebolag
-65200	coresdev, LLC
+65200	Wavelet Systems Ltd
 65201	LMI Technologies
 65202	Dane
 65203	æ¥ æ³°ç§æï¼æ·±å³ï¼æéå¬å¸ (Nantech Technology (Shenzhen) Co., Ltd.)
@@ -66194,4 +66194,90 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66192	GIGAMEDIA
 66193	Kayten GmbH
 66194	Romer Technologies, Inc
+66195	NQNET
+66196	Depth Development, Inc.
+66197	Coreason AI
+66198	secbits private limited
+66199	æ±ä¸­å¸é¾å²é«çº§ä¸­å­¦ (Hanzhong Longgang Senior High School)
+66200	Devling
+66201	RAB Services LLC
+66202	cisowscyEU
+66203	Elshan M. Huseynov
+66204	STRATAON EQUIPAMENTOS ELETRONICOS LTDA
+66205	Auspex Labs Inc.
+66206	LSE Group Corporation
+66207	FreeDSx
+66208	PathWarden
+66209	SentinelSec Studios
+66210	CÃNG TY TNHH CÃNG NGHá» MÃY CHá»¦ 365
+66211	Ryan T. Dean
+66212	DEVTYPED sp. z o.o.
+66213	Zeus Project Services Pty Ltd
+66214	Viktor Gurgenidze
+66215	Outlier Engineering Group LLC
+66216	Shyam Electronics & Magnetics
+66217	Rolf Ganser
+66218	Sherief Farouk
+66219	Atrius Healthcare Private Limited
+66220	Hazelesque
+66221	Rhiannon AI, LLC
+66222	Sumauma Computadores e TelecomunicaÃ§Ãµes S.A.
+66223	Xinuo Information Technology (Xiamen) Corp.,Ltd
+66224	iVeriTech
+66225	nexos
+66226	enia
+66227	iDM Energiesysteme GmbH
+66228	Northern Ireland Ambulance Service
+66229	See All AI Inc.
+66230	BrÃ¼el & KjÃ¦r Vibro GmbH
+66231	Thomas Huppertz
+66232	CyberMyte, LLC
+66233	ServerJanitor
+66234	biobedded systems GmbH
+66235	Clutterbot Inc.
+66236	SYNKEE
+66237	IT Works
+66238	FoxESS Australia Pty Ltd
+66239	AnyRF Kft.
+66240	Altyma Pty Ltd
+66241	Massive Beams GmbH
+66242	La Famosa
+66243	UniversitÃ  degli Studi di Salerno
+66244	DefenXee Private Limited
+66245	Emma Paki
+66246	Shanghai Xiongzhan Information Technology Co., Ltd.
+66247	smuPweb Ltda
+66248	MUST ENERGY (GUANGDONG) TECHNOLOGY CO.,LTD
+66249	PLEIN SUD IT
+66250	Doxee S.p.A.
+66251	Radtech Systems L.L.C.
+66252	Geomys
+66253	Softonic
+66254	F6
+66255	DATAKEEN
+66256	Philippine Army
+66257	Varwof PKI
+66258	Universal Quantum Ltd
+66259	ComTRUST CyberSecurity LLC
+66260	Anlix
+66261	Rivian and Volkswagen Group Technologies, LLC
+66262	Synaxiom Inc
+66263	Network 23 LLC
+66264	MASSPOINT
+66265	Seven Fortunas
+66266	GROUPE-SOINS
+66267	RaoLabs, LLC
+66268	Stadt Marl
+66269	DYTECH CORP
+66270	Allfunds Digital Solutions, SL
+66271	PT Inti Muda Teknologi
+66272	Tone HellstrÃ¶m
+66273	Ciklo Industria e Comercio de Geradores LTDA
+66274	Professional Systems Management Co., Ltd.
+66275	Dekatron Sp. z o.o.
+66276	Beeker Tech GmbH & Co. KG
+66277	The San-in Godo Bank, Ltd.
+66278	GaardTech
+66279	EYKON AG
+66280	Davosys
 \.
