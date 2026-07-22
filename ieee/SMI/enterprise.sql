@@ -3866,7 +3866,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 3864	InTalk, Inc.
 3865	Thorne, West
 3866	Global Net Center
-3867	Presence Technology GmbH+Co.KGMichael
+3867	Webolution GmbH
 3868	Concentrix
 3869	IntelliLogic Networks, Inc.
 3870	Internet Business Emporium
@@ -33422,7 +33422,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 33420	Voalte, Inc
 33421	South Gloucestershire Council CYP ICT
 33422	Com-Ned Netwerken B.V.
-33423	Safran Passenger Innovations Germany GmbH
+33423	RAVE Aerospace GmbH
 33424	ITXTEND LLC
 33425	Fortisbank NL NV
 33426	Mirae Ikorn company
@@ -40128,7 +40128,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 40126	real virtual GmbH
 40127	Federos
 40128	Beijing Photon-Byte Technology Co., Ltd.
-40129	MarLukKi Centre
+40129	Axfootar
 40130	Tempered Networks
 40131	Nuvem Networks Inc
 40132	Telemedia Argentina S.A.
@@ -66280,4 +66280,68 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66278	GaardTech
 66279	EYKON AG
 66280	Davosys
+66281	Moehrke Research LLC
+66282	Adiumentum GmbH
+66283	Wolfgang Mitterbucher
+66284	California State University, Fresno
+66285	Fidalia Networks Inc
+66286	William Dy AymÃ£n Francisco Rodrigues Costa
+66287	Questel
+66288	Cades Schutte LLP
+66289	Distribuidora Diceltecsa S.A.
+66290	yerendian.com
+66291	Sololc
+66292	Diti
+66293	Abhishek Jain
+66294	OPTILINK NETWORKS PVR LTD
+66295	AUNDE Achter & Ebels GmbH
+66296	Stream Checker
+66297	AddendAI
+66298	Umano Medical
+66299	shen zhen vetoo Medical company
+66300	TIFLEX
+66301	WoodsNET
+66302	Lembaga Akreditasi Mandiri Sains Alam dan Ilmu Formal (LAMSAMA)
+66303	ARMAND DE BEER
+66304	Willamette Education Service District
+66305	Servicio de AdministraciÃ³n Tributaria
+66306	National information Technology Authority - Uganda (NITA-U)
+66307	Yeswanth Sappa
+66308	Airlinq Inc
+66309	NANOSYSTEMS SRL
+66310	RME Sensors
+66311	CSIRT Infrastruktura
+66312	Alessandro De Carne
+66313	Solvegia
+66314	Gabriel GutiÃ©rrez Fuentes
+66315	MinebeaMitsumi Inc.
+66316	scemtec Transponder Technology GmbH
+66317	Bitron Electronics LAB srl
+66318	Havi's Inc.
+66319	Stone Security
+66320	Suzhou RouteFlow Energy Technology Co., Ltd.
+66321	ODVA, Inc.
+66322	BB Tecnologia e ServiÃ§os S.A.
+66323	QWSoftware
+66324	Mission Critical Innovation
+66325	Private Tier Solutions
+66326	Voltie Kft.
+66327	Acentury Inc.
+66328	Perkumpulan Ruang Kemajuan Indonesia (RKI)
+66329	Anreal Twin Inc.
+66330	Main-Taunus-Kreis, Der Kreisausschuss
+66331	ORLEN TERMIKA S.A.
+66332	Tinklo
+66333	Zevix B.V.
+66334	Zorggroep H.Hart
+66335	Modeemi Ry
+66336	China Huaxin Post and Telecommunication Technology Co., Ltd.
+66337	Whessoe Engineering Limited
+66338	INSA Strasbourg
+66339	CyberSecAI Ltd
+66340	Family Dollar
+66341	KATHREIN Digital Systems GmbH
+66342	UseKrypt
+66343	Control Applications ltd.
+66344	Innovasis Enerji Elektronik San. ve Tic. Ltd. Sti.
 \.
