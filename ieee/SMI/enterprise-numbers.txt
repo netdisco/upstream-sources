@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-08-03)
+(last updated 2026-08-12)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -38815,8 +38815,8 @@ Decimal
       bbrower&axc.com
 9700
   Boehringer-Ingelheim GmbH
-    Lothar Schildwaechter
-      schildwa&ing.boehringer-ingelheim.com
+    Danielle Sheehan
+      danielle.sheehan&boehringer-ingelheim.com
 9701
   Commerce NTI
     Mark Hollow
@@ -41088,7 +41088,7 @@ Decimal
 10268
   Enterprise Commerce
     Mike Tynas
-      mtynas&bigpond.com
+      mtynas&gmail.com
 10269
   ePropose
     Matt Lippert
@@ -48178,9 +48178,9 @@ Decimal
     Gary Ogasawara
       garyogasawara&yahoo.com
 12041
-  HTL Braunau
+  emicrotec
     Auer Andreas
-      aauer1&gmx.at
+      andreas.auer&emicrotec.at
 12042
   Infosys Corporation
     John McGloughlin
@@ -92011,8 +92011,8 @@ Decimal
       Hubert.Kowalczyk&allstream.com
 22999
   FURUNO SYSTEMS Co.,Ltd.
-    MAKOTO FUJII
-      fujii&furunosystems.co.jp
+    Hiromichi Ono
+      kaiswstuff&furunosystems.co.jp
 23000
   Nexis s.r.l.
     Cesare Fontana
@@ -108098,9 +108098,9 @@ Decimal
     Fanny Tse
       fanny.tse&tradelink.com.hk
 27021
-  Pactiv  Corp.
-    Marius Satas
-      msatas&pactiv.com
+  Novolex Holdings, LLC
+    Edward Greenspan
+      Edward.Greenspan&novolex.com
 27022
   Instrumentation Technology Systems Corporation
     Paul Hightower
@@ -108543,7 +108543,7 @@ Decimal
       rkantz&planiglobe.com
 27132
   APIS IT d.o.o.
-    Perica Simundic
+    Tomislav Fuckar
       oid.admin&apis-it.hr
 27133
   Hensley, Elam & Associates
@@ -163803,8 +163803,8 @@ Decimal
       kontact&moskovets.com
 40947
   Metromatics Pty Ltd
-    Damien Cahill
-      dcahill&metromatics.com.au
+    Rodrigo Baleiro
+      rbaleiro&metromatics.com.au
 40948
   BiTMICRO Networks, Inc.
     Chris Mostrales
@@ -265694,8 +265694,8 @@ Decimal
     Samuel James
       samuel&rotesolutions.com.au
 66420
-  NOENEX TECNOLOGIA ELETRONICA LTDA
-    CRISTIAN MATEUS VOGT
+  NEONEX Tecnologia Eletronica Ltda
+    Cristian M. Vogt
       cristian&neonex.com.br
 66421
   Necessary Innovations AB
@@ -265733,6 +265733,342 @@ Decimal
   Isla Cloud Solutions, S.L.
     Jose Ignacio Isla Pinto
       dominios&islacloudsolutions.com
+66430
+  Stansell Electric Company
+    Wesley Harris
+      iana&stansellelectric.com
+66431
+  Paul Stanley Shulins
+    Paul Stanley Shulins
+      paulshulins&gmail.com
+66432
+  MysticMoments Soap
+    Eamonn A, Lalor
+      eamonnlalor&mysticmomentssoap.ie
+66433
+  Alex Terrats Ciberseguretat SLU
+    Alex Terrats Molina
+      alex.terrats&securepeak.ad
+66434
+  Resonance Development
+    IANA Admin
+      iana.admin&rsndev.com
+66435
+  360biolabs
+    Nicholas Sadaka
+      nicholas.sadaka&360biolabs.com
+66436
+  CORYS
+    IT Support
+      it.support&corys.fr
+66437
+  Knitli
+    Adam Poulemanos
+      adam&knitli.com
+66438
+  Firjen Cloud & Datacenters
+    Lorenzo Grijzenhout
+      lorenzo&grijzenhout.fr
+66439
+  Integrated Control Technology Limited
+    Tony Milligan-Smith
+      it&ict.co
+66440
+  TEPSYS (TDH / Z1D8)
+    Masato Mimura
+      mimura-masato&tepsys.co.jp
+66441
+  Districratic SpA
+    Sebastián Andrés MIllán Coronado
+      operations&districratic.com
+66442
+  Hitachi Rail, Ltd
+    Daniel Maringer
+      daniel.maringer&hitachirail.com
+66443
+  PPS Data LLC
+    April Bott
+      april.bott&340BDirect.com
+66444
+  Bureau of Motor Vehicles Indiana
+    Carl Bentley
+      CaBentley&bmv.IN.gov
+66445
+  Moss Point School District
+    Bobby Sloan
+      sysIANA&mpsdnow.org
+66446
+  Noon Technology Co., Ltd.
+    product department
+      pm&terra-master.com
+66447
+  ROBERT ENAHOLO ASIBOR
+    ROBERT E ASIBOR
+      rasibor&gmail.com
+66448
+  Beijing Millennium Software Co., Ltd.
+    Qiao Fanxing
+      qiaofanxing&fastmail.com
+66449
+  Vayu
+    Anju Venu
+      anjumvenu&gmail.com
+66450
+  LEMIER LLC
+    Sergey Samoylov
+      info&lemier.ru
+66451
+  CE-LINK
+    Jiaxiang Liu
+      jiaxiang.liu&ce-link.com
+66452
+  WardenRTU
+    Steven McCoy
+      smccoy&WardenRTU.com
+66453
+  Reduxi GmbH
+    Damir Omrčen
+      damir.omrcen&reduxi.eu
+66454
+  Tilitoimisto Ikonen Ky
+    Olavi Ikonen
+      info&tilitoimistoikonen.fi
+66455
+  NewRedo Ltd
+    Alan Raison
+      alan.raison&newredo.com
+66456
+  bezDodavatele a.s.
+    IT support
+      it.support&bezdodavatele.cz
+66457
+  Mahmut Erdem Özgen
+    Mahmut Erdem Özgen
+      m.erdemozgen&gmail.com
+66458
+  cyclohexane
+    Hannah Gesser
+      contact&totient.eu
+66459
+  Isaiah Williams
+    Isaiah Williams
+      idwilliams&outlook.com
+66460
+  Tiet AI
+    David Rey
+      david&tiet.ai
+66461
+  Bitsmart TI
+    Ramiro Agundis Arredondo
+      sistemas&bitsmart.mx
+66462
+  Ministry of Commerce, Cambodia
+    Chhouk Titpanhara
+      chhouk.titpanhara&moc.gov.kh
+66463
+  Monoma Ltd
+    Rachid Chami
+      rachid&celestia.org
+66464
+  Devops & Platforms
+    David Douglas Menache
+      dave&devopsandplatforms.com
+66465
+  KCEP LLP
+    Vadim Kulikov
+      admin&kcep.kz
+66466
+  Shenzhen HugeMed Medical Technical Development Co., Ltd.
+    zhen wang
+      lenvoe&hugemed.net
+66467
+  GoodWe Technologies Co., Ltd
+    jinjin.wu
+      jinjin.wu&goodwe.com
+66468
+  Nova Goose Global Publishing Group Inc.
+    Anders Andersen
+      njDQE2023&163.com
+66469
+  南京浩铭电子科技有限公司 (Nanjing Haoming Electronic Technology Co., Ltd.)
+    柳贺 (Liu He)
+      634410948&qq.com
+66470
+  Opn Communication Inc.
+    Bryan Cohen
+      bcohen&opncomm.com
+66471
+  veesix ::networks
+    Brandon Spendlove
+      brandon.spendlove&veesix-networks.co.uk
+66472
+  Coppin State University Community Health Center
+    Jennifer Pope
+      jpope&coppin.edu
+66473
+  Tiszamenti Regionális Vízművek Zrt.
+    Völgyi József
+      volgyi.jozsef&nusz-zrt.hu
+66474
+  manji0
+    Wataru Manji
+      manji&linux.com
+66475
+  Percivix
+    Deepak Thounaojam
+      deepakt12&hotmail.com
+66476
+  Psyray International B.V.
+    Sjef Verschuren
+      sjef.verschuren&psyray.com
+66477
+  GrowVolution e.V.
+    Pierre Schkoldow
+      pierre&growvolution.org
+66478
+  NextITX
+    Tsai Chih-Chang
+      jack&nextitx.com
+66479
+  CompleteMSP
+    Forrest Pachmayr
+      info&completemsp.com
+66480
+  aethercert
+    Simon Müller
+      security&aethercert.com
+66481
+  Speedit
+    Ronald Terpak
+      ronald&terpak.nl
+66482
+  Securepeak LLC
+    Alex Terrats Molina
+      alex.terrats&securepeak.ad
+66483
+  GoFirmex
+    Arturo Mantinetti
+      arturo&gofirmex.com
+66484
+  Fexsign
+    Arturo Mantinetti
+      arturo&fexsign.com
+66485
+  Ternstack
+    Sudhi Herle
+      pen-admin&ternstack.com
+66486
+  Saturn Pathology
+    Michael Tynas
+      mtynas&saturnpathology.com.au
+66487
+  Maven Logix Private Limited
+    Umer Khan
+      umer&mavenlogix.org
+66488
+  SE Service GmbH
+    Raik Grohmerr
+      info&se-service.gmbh
+66489
+  NtangledState Inc.
+    Sasikaran Selvendran
+      sasi&ntangledstate.com
+66490
+  Lyon Systems
+    Matthew Lyon
+      matthew&lyon.systems
+66491
+  Wild Turtles
+    BARDOT Jérôme
+      contact&wild-turtles.com
+66492
+  VusionGroup GmbH
+    Horst Kautschitz
+      horst.kautschitz&vusion.com
+66493
+  East Lothian Council
+    David Morris
+      dmorris&eastlothian.gov.uk
+66494
+  MetTel
+    Ifesinachi Osude
+      iosude&mettel.net
+66495
+  ISOLEDIN s.r.o.
+    Jakub Zrzavý
+      jakub.zrzavy&isoledin.com
+66496
+  CXL Consortium
+    CXL Administration
+      admin&computeexpresslink.org
+66497
+  SHIVANSHU JHA
+    SHIVANSHU JHA
+      indiahostya&gmail.com
+66498
+  Mariusz Drozdowski
+    Mariusz Drozdowski
+      schemedit&wp.pl
+66499
+  Estado de Goias - Tecnologia da Informacao
+    Equipe de Seguranca - STI
+      seguranca.sti&goias.gov.br
+66500
+  Kodiak AI
+    Manish Mahajan
+      webmaster&kodiak.ai
+66501
+  Simple Designs Software LLC
+    Thomas Avato
+      snmpcontact&simpledesignssoftware.com
+66502
+  NetInTech
+    Evgenii Vidyakin
+      evgenii&netintech.ru
+66503
+  Guilin Guangyi Intelligent Technology Co., Ltd.
+    ZengWeiqiang
+      zengweiqiang&glgyzn.com
+66504
+  Moon Biotech Co., Ltd.
+    Yajun Liang
+      moonis&moonbio.com
+66505
+  Callray Communications Co., Ltd.
+    Xu Liu Bing
+      xulb&callray.com.cn
+66506
+  PILA GROUP JOINT STOCK COMPANY
+    Nguyễn Võ Nguyên
+      nguyennv&pila.vn
+66507
+  Xiaomi EV Technology Co., Ltd.
+    Shiyu He
+      heshiyu&xiaomi.com
+66508
+  Creotech Quantum S.A.
+    Paweł Zienkiewicz
+      pawel.zienkiewicz&creotechquantum.pl
+66509
+  Maru Ná ~ Verein für Bewußtseinsentwicklung
+    Marcus Bauch
+      mb&maru-na.org
+66510
+  OpenWrt
+    Christian Marangi
+      contact&openwrt.org
+66511
+  Micos
+    Micos - IANA Registry Administration
+      iana-pen&micos.net
+66512
+  Washington State Dept of Transportation
+    Jacob Jorgensen
+      jacob.jorgensen&wsdot.wa.gov
+66513
+  W&H Dentalwerk Bürmoos GmbH
+    Lackner Thomas
+      thomas.lackner&wh.com
 
 
 End of Document

@@ -12040,7 +12040,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 12038	everyhost.com
 12039	Exalead S.A.
 12040	gull house
-12041	HTL Braunau
+12041	emicrotec
 12042	Infosys Corporation
 12043	Jasmap Inc.
 12044	Lakesoft Consulting & ISP
@@ -27020,7 +27020,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 27018	TDC Switzerland AG
 27019	Envision Network Technologies Pvt. Ltd.
 27020	Pan Asian Certificate Policy Authority Limited
-27021	Pactiv  Corp.
+27021	Novolex Holdings, LLC
 27022	Instrumentation Technology Systems Corporation
 27023	Nexant, Inc.
 27024	I-Connect Inc
@@ -66419,7 +66419,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66417	ARIS
 66418	Netavo Global Data Services Ltd
 66419	ROTE Solutions
-66420	NOENEX TECNOLOGIA ELETRONICA LTDA
+66420	NEONEX Tecnologia Eletronica Ltda
 66421	Necessary Innovations AB
 66422	DistroGlobe Solutions Private Limited
 66423	Betreiberverein ZAM e.V.
@@ -66429,4 +66429,88 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66427	DreamCoder
 66428	Verity AI Technologies, Inc.
 66429	Isla Cloud Solutions, S.L.
+66430	Stansell Electric Company
+66431	Paul Stanley Shulins
+66432	MysticMoments Soap
+66433	Alex Terrats Ciberseguretat SLU
+66434	Resonance Development
+66435	360biolabs
+66436	CORYS
+66437	Knitli
+66438	Firjen Cloud & Datacenters
+66439	Integrated Control Technology Limited
+66440	TEPSYS (TDH / Z1D8)
+66441	Districratic SpA
+66442	Hitachi Rail, Ltd
+66443	PPS Data LLC
+66444	Bureau of Motor Vehicles Indiana
+66445	Moss Point School District
+66446	Noon Technology Co., Ltd.
+66447	ROBERT ENAHOLO ASIBOR
+66448	Beijing Millennium Software Co., Ltd.
+66449	Vayu
+66450	LEMIER LLC
+66451	CE-LINK
+66452	WardenRTU
+66453	Reduxi GmbH
+66454	Tilitoimisto Ikonen Ky
+66455	NewRedo Ltd
+66456	bezDodavatele a.s.
+66457	Mahmut Erdem Ãzgen
+66458	cyclohexane
+66459	Isaiah Williams
+66460	Tiet AI
+66461	Bitsmart TI
+66462	Ministry of Commerce, Cambodia
+66463	Monoma Ltd
+66464	Devops & Platforms
+66465	KCEP LLP
+66466	Shenzhen HugeMed Medical Technical Development Co., Ltd.
+66467	GoodWe Technologies Co., Ltd
+66468	Nova Goose Global Publishing Group Inc.
+66469	åäº¬æµ©é­çµå­ç§ææéå¬å¸ (Nanjing Haoming Electronic Technology Co., Ltd.)
+66470	Opn Communication Inc.
+66471	veesix ::networks
+66472	Coppin State University Community Health Center
+66473	Tiszamenti RegionÃ¡lis VÃ­zmÅ±vek Zrt.
+66474	manji0
+66475	Percivix
+66476	Psyray International B.V.
+66477	GrowVolution e.V.
+66478	NextITX
+66479	CompleteMSP
+66480	aethercert
+66481	Speedit
+66482	Securepeak LLC
+66483	GoFirmex
+66484	Fexsign
+66485	Ternstack
+66486	Saturn Pathology
+66487	Maven Logix Private Limited
+66488	SE Service GmbH
+66489	NtangledState Inc.
+66490	Lyon Systems
+66491	Wild Turtles
+66492	VusionGroup GmbH
+66493	East Lothian Council
+66494	MetTel
+66495	ISOLEDIN s.r.o.
+66496	CXL Consortium
+66497	SHIVANSHU JHA
+66498	Mariusz Drozdowski
+66499	Estado de Goias - Tecnologia da Informacao
+66500	Kodiak AI
+66501	Simple Designs Software LLC
+66502	NetInTech
+66503	Guilin Guangyi Intelligent Technology Co., Ltd.
+66504	Moon Biotech Co., Ltd.
+66505	Callray Communications Co., Ltd.
+66506	PILA GROUP JOINT STOCK COMPANY
+66507	Xiaomi EV Technology Co., Ltd.
+66508	Creotech Quantum S.A.
+66509	Maru NÃ¡ ~ Verein fÃ¼r BewuÃtseinsentwicklung
+66510	OpenWrt
+66511	Micos
+66512	Washington State Dept of Transportation
+66513	W&H Dentalwerk BÃ¼rmoos GmbH
 \.
