@@ -56170,7 +56170,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 56168	dotup IT solutions
 56169	Open Products, Networks & Software (OPNS)
 56170	Secure Nordic Payments
-56171	Samm Technology Communications Industry and Trade Inc.
+56171	SAMM Teknoloji Iletisim San. ve Ticaret A.S.
 56172	Unassigned
 56173	A.J. Steenkist
 56174	Geminare Inc.
@@ -66513,4 +66513,55 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66511	Micos
 66512	Washington State Dept of Transportation
 66513	W&H Dentalwerk BÃ¼rmoos GmbH
+66514	ABBRobotics
+66515	Navisys Technology Corp.
+66516	Coastal Energy Solutions
+66517	Bizit Global
+66518	CyberDD - Cybersecurity Consulting
+66519	BXB Electronics Co., Ltd.
+66520	HUB IT Co., Ltd.
+66521	TimeServerZero
+66522	XIAMEN HANIN CO., LTD.
+66523	Zhamp Limited
+66524	Kynetix
+66525	Cabarrus County Government
+66526	VNPT-CA
+66527	HyperDigital Technology Co., Ltd.
+66528	Senfio SoluÃ§Ãµes TecnolÃ³gicas Ltda
+66529	VINOC, S.A.P.I. de C.V.
+66530	Tactical Signals Intel
+66531	SPON Communications
+66532	Aaron Forsythe
+66533	Sergio Alejandro Murillo Olaya
+66534	Shenzhen Tringo Control Co., Ltd
+66535	MobileTek communication
+66536	1SINQ GmbH
+66537	New Wave Design and Verification, LLC, dba New Wave Design
+66538	ZDN Enterprises, LLC
+66539	Ahmed Atef Hamdy Ibrahim
+66540	Tellus Power
+66541	ESL Advanced Information Technology GmbH
+66542	Options for Southern Oregon
+66543	Rantec Power Systems, Inc.
+66544	Neptune Technology Group Inc
+66545	Noidon
+66546	Astreaprtcl
+66547	Network Engineering Europe S.L.
+66548	CloudCore Technologies
+66549	Identix Inc
+66550	Twin Cities Open Systems - Operations LLC
+66551	Terabyte GmbH
+66552	BoundarySevenLLC
+66553	Wyatt Anderson
+66554	Tremolo Security, Inc.
+66555	Section 5 Labs
+66556	DD Skog & Virkeshandel AB
+66557	Nymbis Cloud Solutions (Pty) Ltd.
+66558	3R Swiss Imaging Network SA
+66559	Government Digital Service
+66560	Xcobean Systems Limited
+66561	FleetOS (Fleet Orchestration System)
+66562	Casper Medical Imaging
+66563	TOKEN2
+66564	New Products Group
 \.
