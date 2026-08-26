@@ -30571,7 +30571,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 30569	Globitel
 30570	Radiator Software Oy
 30571	Mesto Domazlice
-30572	TDC-NetDesign A/S (formerly 'NetDesign A/S')
+30572	TDC Erhverv
 30573	Photon Meissener Technologies GmbH
 30574	Fixma S.L.
 30575	castLabs GmbH
@@ -50642,7 +50642,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 50640	R2 Dermatology
 50641	OrthopÃ¤die-Schuhtechnik Frisch GmbH & Co. KG
 50642	Andreas Schufft SW Entwicklung & EDV Beratung
-50643	"ÐÐ" Kostakov Dmitry
+50643	"ÐÐ" Kostakov Dmitrii
 50644	Elumbus GmbH
 50645	Salvage Management & Disposals (Pty) Ltd.
 50646	Signaturit Solutions, S.L.
@@ -64454,7 +64454,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64452	Chris Rose
 64453	Strand Psychiatric Associates
 64454	Stephon X. Jones
-64455	DâAndilly Group
+64455	Cooper D'Andilly
 64456	Jenn Tribble
 64457	Goose
 64458	OTO GK
@@ -66547,7 +66547,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66545	Noidon
 66546	Astreaprtcl
 66547	Network Engineering Europe S.L.
-66548	CloudCore Technologies
+66548	Cloud and Virtual Infrastructure Systems
 66549	Identix Inc
 66550	Twin Cities Open Systems - Operations LLC
 66551	Terabyte GmbH
@@ -66564,4 +66564,79 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66562	Casper Medical Imaging
 66563	TOKEN2
 66564	New Products Group
+66565	Geeks for Business, LLC
+66566	Texas Institute for Electronics
+66567	ExactNet
+66568	nyanet
+66569	RÃDL
+66570	VeilNet
+66571	LeoLabs
+66572	Ellenby Technologies Inc.
+66573	Finger Lakes Community College
+66574	Alveon
+66575	MTX Connect
+66576	EdgeDX
+66577	ViaNet
+66578	Nyx Telecom
+66579	æ²³åä¸åçµå­ç§ææéå¬å¸ (Hebei Wanhua Electronic Technology Co., Ltd.)
+66580	We Build Networks
+66581	Edgar DÃ©sert
+66582	Human Execution Engine
+66583	BITWATT PTY LTD
+66584	RDNet Rafal Domeracki
+66585	BODA LIU
+66586	ElaraGrid Ltd
+66587	Geekdojo
+66588	JIACUNTECH
+66589	+STOR
+66590	EntryPoint Communications, LLC
+66591	Mobile Digital Imaging
+66592	TrueLime B.V.
+66593	CiuP
+66594	Solinteg Australia
+66595	Richard Taylor
+66596	VEZA LLC
+66597	å¹¿å·æç¾æ°è½æºè¡ä»½æéå¬å¸ (TWS Technology (Guangzhou) Limited)
+66598	BeezX
+66599	Latch.ai
+66600	Bao Linh Connect Technology
+66601	OrionM2M
+66602	ACentauri Technology Limited
+66603	highQ solutions GmbH
+66604	FACTS Engineering, LLC
+66605	StarTech.com Ltd.
+66606	Kam Shing Ernest Lee (iFire)
+66607	æ·±å³å¦æç§ææéå¬å¸ (Shenzhen Miaoyue Technology Co., Ltd.)
+66608	Hermann Sewerin GmbH
+66609	ADRIAN CAPEL
+66610	Kaltech Lighting Systems
+66611	Safe Center Sp. z o. o.
+66612	Iapethus
+66613	Universidade Federal da Paraiba
+66614	ALPHA Electronics
+66615	CD IT Consult SRL
+66616	Northwatch Technologies LLC.
+66617	JP Capital GmbH
+66618	Smartmation SA
+66619	DÃ©dicace Software
+66620	CanTops Co., LTD.
+66621	Beijing Rainstelecom Ltd.
+66622	Stellicon Technology Co., Ltd.
+66623	Excellent Pharma Consulting Inc
+66624	Tre InnovatÃ¶rer AB
+66625	BCIX Management GmbH
+66626	BEATQUANTUM LIMITED
+66627	Sidam Srl
+66628	People Serving People Foundation
+66629	Litemax inc.
+66630	ONVIF, Inc.
+66631	Ternoxa
+66632	ArmorPoint
+66633	BOBi
+66634	Symcon GmbH
+66635	Kianpardaz
+66636	Edward Laverick
+66637	Holiday Robotics
+66638	Christoph Rust
+66639	OTPme Project
 \.
