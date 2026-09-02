@@ -14267,7 +14267,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 14265	itouch
 14266	Bulletproff Networks
 14267	WrjTec
-14268	Projekt Avalon
+14268	JRVFONPU
 14269	Beijing Vanlink Communication Co. P.R.China Yu
 14270	Technology Hackworks, Inc.
 14271	Iliad
@@ -26512,7 +26512,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 26510	Like Minded People Ltd
 26511	TAC Bilgisayar Hizmetleri Ic ve Dis Ticaret A.S.
 26512	GEEK Bilgisayar Muhendislik ve Sanayi LTD STI
-26513	Hellenic Academic and Research Institutions CertificationAuthority
+26513	HARICA
 26514	Suntel Communications
 26515	Tepe Teknoloji
 26516	Innovation Designs Ltd.
@@ -60260,7 +60260,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 60258	STATE ENTERPRISE âAIR TRAFFIC SERVICES AUTHORITYâ (BULATSA)
 60259	AUTMES s.r.o.
 60260	Maker Systems
-60261	Methinks software SL
+60261	Methinks Software SL
 60262	Stella Freyju
 60263	Raiys GmbH
 60264	Fuzzylabs private limited
@@ -64662,7 +64662,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64660	Polish Linux Users Group - PLUG
 64661	Puddingify, Inc
 64662	Relativity Space
-64663	Guangzhou Felicity Solar Technology Co., Ltd.
+64663	Guangdong Felicity New Energy Co Ltd
 64664	FinspÃ¥ngs Tekniska Verk AB
 64665	Camkeeper, LLC
 64666	SkogsbrÃ¤nsle SmÃ¥land AB
@@ -66639,4 +66639,59 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66637	Holiday Robotics
 66638	Christoph Rust
 66639	OTPme Project
+66640	AUSIGHT
+66641	John Portzer
+66642	Oliver Keutel
+66643	Rongta R&D Center
+66644	Electro-Voice Dynacord, LLC
+66645	Urban Baby Beginnings
+66646	J1-LED Intelligent Transport Systems Pty Ltd
+66647	Sudeep D Ghate
+66648	Abberior Instruments GmbH
+66649	Akino Medical Pte Ltd
+66650	Kenton Groombridge
+66651	Zhong'an Zhixin Standard Technical Service (Shanghai) Co., Ltd.
+66652	Robin Weiligmann
+66653	Anapaya Systems
+66654	Global Timestamp Authority
+66655	Bynn Intelligence, Inc.
+66656	The X ORB AB
+66657	Crystal
+66658	PT. Sydeco
+66659	ENERGY IN THE CLOUD SL
+66660	Titus d.o.o. Dekani
+66661	OPENWAY TECHNOLOGIES LTD
+66662	JSC "INTER GROUP"
+66663	Hexegic Limited
+66664	EU-Zahlstelle Sachsen-Anhalt
+66665	RaruseReiji
+66666	Packet Pilot LLC
+66667	Cooler Master Co., Ltd.
+66668	KS2 Corp Inc
+66669	EnergyNet Task Force
+66670	SunState Medical Specialists
+66671	Intradel
+66672	Cogniflow
+66673	Maicon Pereira da Silva
+66674	HopeTrek Innovations Co.,Ltd.
+66675	Leasing ÄeskÃ© spoÅitelny, a.s.
+66676	Corbotics
+66677	Caneline Limited
+66678	Wang Hailong
+66679	æé½æºèå´æç§ææéå¬å¸ (Chengdu Zhilian Xingming Technology Co., Ltd.)
+66680	Jagornet Technologies
+66681	SIGNIADIGITAL S.A.
+66682	Woxel Sp. z o.o.
+66683	DNP Users Group
+66684	Anamul Haque
+66685	AI Forward Inc.
+66686	ChengDu Gala Digital Intelligence Technology Co.,Ltd.
+66687	LaptopChips
+66688	Distribute Media LTD
+66689	Guangdong InnoLead Technology Co., Ltd
+66690	NEUTRON AUTOMATION PRIVATE LIMITED
+66691	PRICEWIN NETWORKS SL
+66692	NetSage LLC
+66693	Efsystem
+66694	Immunovant
 \.
