@@ -16176,7 +16176,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 16174	Sensatronics LLC
 16175	TRIADE Beratungsgesellschaft fÃ¼r Informationstechnologie mbH
 16176	Zephra Corp.
-16177	Westermo Teleindustri AB
+16177	Westermo Network Technologies AB
 16178	Elevance Health, Inc.
 16179	WAN Norway
 16180	Blue Data Networks Ltd
@@ -39431,7 +39431,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 39429	G10 Transportes - LTDA
 39430	ownCloud Inc.
 39431	BLT Italia srl
-39432	devcoach GbR - Michael Willers & Partner
+39432	devcoach GmbH
 39433	T8, LLC
 39434	Isthmus SARL
 39435	Sistemas Dypsa S.R.L
@@ -65132,7 +65132,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65130	Huawei FANO group
 65131	Huawei FANO group
 65132	ProvenRun
-65133	FITFAK
+65133	Oebarsius
 65134	TechRunes
 65135	Sygnature Discovery Canada
 65136	TECHSQUARE SOFTWARE SPÃÅKA Z OGRANICZONÄ ODPOWIEDZIALNOÅCIÄ
@@ -66984,4 +66984,136 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66982	NIRVA SOFTWARE
 66983	CÃNG TY TNHH GIáº¢I PHÃP CÃNG NGHá» Y Táº¾ HVTT
 66984	Shree Home Foods LLP
+66985	Stacy Olivas
+66986	Basin Urgent Care
+66987	Fill Easy (Malta) Limited
+66988	FIRMASELECTRONICAS EC S.A.S
+66989	ERGO Insurance SE
+66990	Femboy Solutions
+66991	Vela Research, LP
+66992	Meter Energy
+66993	ClearGrow LLC
+66994	Efftronics Systems Pvt. Ltd.
+66995	BioNautica Limited
+66996	Bassett Enterprises Ltd
+66997	Engeen Services
+66998	Libertystack
+66999	Krotion InfoTech (OPC) Private Limited
+67000	Cardioid Inc.
+67001	å±±ä¸åæºç§åéå¢æéå¬å¸(Shandong NorthSmart Technology Innovation Group Co., Ltd.)
+67002	åæ¹æºè½ï¼å±±ä¸ï¼ä¿¡æ¯ææ¯æéå¬å¸(NorthSmart (Shandong) InfoTech Co., Ltd.)
+67003	åæ¹æºè½ï¼å±±ä¸ï¼ç©èææ¯æéå¬å¸(NorthSmart (Shandong) IoT Tech Co., Ltd.)
+67004	North-AI
+67005	Ales Stibal
+67006	stackon tecnologia
+67007	PIP Total IT Solutions
+67008	Voibro AB
+67009	GridM
+67010	George Cummings
+67011	Logically Us Ltd
+67012	Beldar TeknÃ© SL
+67013	Silitics GmbH
+67014	The City of Thibodaux, Louisana
+67015	ADM Language Project
+67016	Marcus Felipe Fernandes Cruz
+67017	Kern AutomaÃ§Ã£o
+67018	PT Alat Cerdas Adikarya Bersama
+67019	NAK Electronics Private Limited
+67020	CoderForge.org Ltd
+67021	Hengst SE
+67022	Steinmeyer Holding GmbH
+67023	Vesiro AB
+67024	FanConnect
+67025	Winmed sp. z o.o.
+67026	Pratuu Labs LLC
+67027	Open Trusted Service Provider Initiative
+67028	Nullspire LLC
+67029	Alexander Savonchik
+67030	MTN Business Africa
+67031	Twinning Labs, Inc.
+67032	SECAB SocietÃ  Cooperativa
+67033	NetConfig
+67034	Infocoding SPA
+67035	Perseverous Apps
+67036	Nakashima Medical Systems Co., Ltd.
+67037	Simulated Golf Association (SGA) LLC
+67038	IG Digital Lab
+67039	5xS s.r.o.
+67040	Siav s.p.a.
+67041	Bionic.Network Ltd
+67042	tinycontrol Marcin Nosek
+67043	Raider Defense LLC
+67044	Tasso Inc., dba Ramorra
+67045	Ascom UMS Unipersonale srl
+67046	Coretura AB
+67047	IPng Networks GmbH
+67048	Helix Software, LLC
+67049	Krill Energy
+67050	MARCO VLADIMIR VELOZ HERNANDEZ
+67051	JOSTALY TECHNOLOGIES
+67052	Consolinno Energy GmbH
+67053	MEDIA VISION INFOTECH PRIVATE LIMITED
+67054	3MT Galicia Global Services SL
+67055	Aisitec LTD
+67056	LLC Distribuciya Svyazi
+67057	Encypher Corporation
+67058	Fr0ntierX Inc.
+67059	Hadley So
+67060	Serinya Telecom
+67061	Adam Hellberg
+67062	Business Services Yahia El-Qasem
+67063	Rajendarreddy Jagapathi
+67064	GLAMOX AS
+67065	yettiesoft
+67066	MENNEKES Elektrotechnik GmbH & Co. KG
+67067	Farmacol
+67068	Terasic Technologies Inc.
+67069	Soneric Ltd.
+67070	NostVex
+67071	Soft-Gorizont, LLC
+67072	Arta Cyber Inc.
+67073	Reindex Srl
+67074	EigenQ, Inc.
+67075	Clegg's Termite and Pest Control, LLC
+67076	Nooran Ertebatat
+67077	PixFlow
+67078	TEAM T5 INC.
+67079	Arul Raj
+67080	Prospective Monitoring
+67081	Finanzmarktaufsicht Liechtenstein
+67082	Digital Strategy Solutions, LLC
+67083	Sistema DIF Hidalgo
+67084	Narwatt Energy Inc.
+67085	Reddit, Inc.
+67086	ClÃ¡udio Silva
+67087	Sysnet Yazilim ve Bilgi Teknolojileri Ltd.Sti.
+67088	Nervus Technologies
+67089	Nervus Data Labs
+67090	RDC Products LLC
+67091	Tchobanski
+67092	Herrick Networks
+67093	Ubu AI Inc.
+67094	PT Inti Tech Indonesia
+67095	eCentric TI
+67096	Agantra Inovatif OÃ
+67097	VougaDev
+67098	Philipp Meyer
+67099	Frischlecker LLC
+67100	HTTPS CARD - INTERNET IDENTITY CARD LIMITED
+67101	Shenzhen Rayin Technology Co., Ltd.
+67102	BrainWave Software GmbH
+67103	SMARTFOX - DAfi GmbH
+67104	Fernando Catullo (FUTURE)
+67105	Luca Cappelletti
+67106	enteria a.s.
+67107	VAE, Inc.
+67108	Netwrix Corporation
+67109	ComputerTalk Technology
+67110	Queensland Department of State Development, Infrastructure and Planning
+67111	RAY SECURE INNOVATIONS PVT LTD
+67112	FED invest
+67113	BITE GmbH
+67114	Giovanni Cofone
+67115	Phase Zero Integration Inc
+67116	Skyeng
 \.
