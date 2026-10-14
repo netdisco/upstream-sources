@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-10-06)
+(last updated 2026-10-13)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -44710,9 +44710,9 @@ Decimal
     Aaron Arbery
       aaron&arbery.com
 11174
-  DX Antenna Co., Ltd.
-    Makota Haswgawa
-      kaihatsu&dxantenna.co.jp
+  Nippon DX Antenna Co., Ltd.
+    Tomoyuki Takebayashi
+      t_takebayashi&ndx-antenna.co.jp
 11175
   Epic Group plc
     Paul Collis
@@ -241040,7 +241040,7 @@ Decimal
 60256
   Think Freely Consulting
     Neil Horman
-      nhorman&think-freely.org
+      nhorman&gmail.com
 60257
   LITA S.r.l.
     Andrea Lisa
@@ -256411,8 +256411,8 @@ Decimal
       lucas&g3pix.com.br
 64099
   Huge Networks
-    Matheus Castanho
-      matheus.castanho&huge-networks.com
+    Erick Nascimento
+      erick.nascimento&huge-networks.com
 64100
   Cybermancers
     Wayne Smith
@@ -264704,7 +264704,7 @@ Decimal
 66172
   Netralux
     Thomas Stolt
-      thomas.stolt&gmail.com
+      admin&netralux.ai
 66173
   Digital Cinema Network Pty Ltd
     James Gardiner
@@ -268481,6 +268481,218 @@ Decimal
   Skyeng
     Mikhail Panfilov
       mikhail.p&skyeng.ru
+67117
+  SunState Medical Specialists
+    Christy Oxenrider
+      coxenrider&uniteduro.com
+67118
+  LEY DEL SEXTO
+    Ricardo Alexis Salazar Peña
+      leydelsexto&proton.me
+67119
+  vmpn
+    Vladimir Berezniker
+      iana-26pvso87v7&vmpn.net
+67120
+  Patrick Tudor
+    Patrick Tudor
+      ianapen&mx.ptudor.net
+67121
+  ZSD Systems LLC
+    Brian Taber
+      zsdsystems&gmail.com
+67122
+  NanoCry Technologies, Inc.
+    Shannon Hebert
+      shebert&nanocry.com
+67123
+  AppaBits
+    Jay Ponce
+      iana&appabits.com
+67124
+  Technoblox
+    Mahmoud Zahran
+      mahmoud.zahran&technoblox.com
+67125
+  PT Priva Identitas Digital
+    Mirza Maulana Azmi
+      mirzamaulanaazmi&gmail.com
+67126
+  GEMSS Healthcare Co., Ltd.
+    Hae Soo Hwang
+      hshwang&gemss.co.kr
+67127
+  Wipak Walsrode GmbH
+    Jan Augustin
+      pen&wipak.com
+67128
+  Aaron Tulino
+    Aaron Tulino
+      iana&aaronjamt.com
+67129
+  Elgens Co., Ltd.
+    Sam Liao
+      sam.liao&elgens.com.tw
+67130
+  ZaiNar, Inc
+    David Burgess
+      david.burgess&zainartech.com
+67131
+  BankSouth
+    Amy Everett
+      iana&banksouth.com
+67132
+  Muun Wallet Inc.
+    Nicolás Rey
+      iana&muun.com
+67133
+  Consejo Superior de Deportes
+    Marcos Soto
+      sistemas2&externos.csd.gob.es
+67134
+  ILLEVANTE CLOUD SERVICE & DATACENTERS PROVIDERS CO. L.L.C
+    Abd Alwahed Muhammad
+      hostmaster&illevante.com
+67135
+  IAAXIN TECH LABS INDIA PVT LTD
+    Gunasekar Kandhasamy
+      guna&iaaxin.com
+67136
+  Ecosuite Inc.
+    Philip Court
+      itsupport&ecosuite.io
+67137
+  Equitaria
+    William McGhee
+      hello&equitaria.org
+67138
+  Olivine, Inc.
+    Robert Anderson
+      netadmin&olivineinc.com
+67139
+  Diasorin S.p.A.
+    Brian Tabone
+      brian.tabone&diasorin.com
+67140
+  NTEKSYSTEM Co., Ltd.
+    KIM JINSEONG
+      ntek&nteksys.com
+67141
+  ZKTL INFORMATION TECHNOLOGY LTD
+    曹俊 (Cao Jun)
+      caojun&sugon.com
+67142
+  FTSTECH AUSTRALIA PRIVATE LIMITED
+    Shishir Chauhan
+      support&ftstech.ai
+67143
+  Volvo Car Retail AB
+    Fredrik Winäs
+      fredrik.winas&volvocarretail.se
+67144
+  FORYOULINK CO.,LTD
+    Seho Kim
+      shkim&foryoulink.net
+67145
+  MVision AI Oy
+    Saad Ullah Akram
+      saad.akram&mvision.ai
+67146
+  Pier MTTP GmbH (Ataves)
+    Milad Pourshoja
+      milad.pourshoja&ataves.com
+67147
+  APRO Kassensysteme GmbH
+    Thomas Fischer
+      tf&apro.at
+67148
+  IVSO SYSTEMS PIOTR MRÓZ
+    Piotr Mróz
+      biuro&ivso.pl
+67149
+  Signalmover OÜ
+    Andreas Fink
+      andreas&fink.org
+67150
+  CANDA Solutions
+    Anthony Newton
+      anthony.newton&candasolutions.com
+67151
+  Observatoire des Sciences de l’Univers de Grenoble - OSUG
+    Raphaël Jacquot
+      raphael.jacquot&univ-grenoble-alpes.fr
+67152
+  Emporia Energy
+    Andy Bond
+      abond&emporiaenergy.com
+67153
+  Henry Willis
+    Henry Willis
+      iana&haw8411.dev
+67154
+  Shanghai Yuxun Network Technology Co., Ltd.
+    Zhiyong Chen
+      chenzhiyong&harnets.ai
+67155
+  Seven Fortunas, Inc.
+    Buck Smith
+      buck&sevenfortunas.com
+67156
+  Veysel GÜVEN
+    Veysel GÜVEN
+      ypyzkgvn&gmail.com
+67157
+  Earth Metabolome Initiative
+    Pierre-Marie Allard
+      grndstt&protonmail.com
+67158
+  Quantum Bridge Technologies Inc.
+    Greg Wiseman
+      org-product-management&quantumbridgetech.com
+67159
+  Tabith LLC
+    Dustin Henry Offutt
+      dusty&tabith.com
+67160
+  Hangzhou Kangxuan Technology Co.,LTD
+    Gong Zhi
+      roger.gong&kangxuan.tech
+67161
+  TRUTEK MÜHENDiSLiK VE TEKNOLOJİK ÜRÜNLER SANAYi VE TiCARET ANONiM ŞiRKETi
+    Umur AKINCI
+      umur.akinci&togg.com.tr
+67162
+  Overview Technology Solutions Inc.
+    Marc P. Menzies
+      Marc.Menzies&overviewts.com
+67163
+  Validated One
+    Kuson Sintusingha
+      pki&validated.one
+67164
+  Link2Trust bv
+    Johan Kestens
+      j.kestens&link2trust.be
+67165
+  SHENZHEN PREVAIL TECHNOLOGY CO., LTD.
+    CHI WEI
+      info&prevailtec.com
+67166
+  Blaylar Health EHR
+    Matthew Fleming
+      admin&blaylarhealth.com
+67167
+  Rizki Yandri
+    Rizki Yandri
+      rizkiyandri710&gmail.com
+67168
+  Attila Kalcso
+    Attila Kalcso
+      attila.kalcso&gmail.com
+67169
+  Insane Cyber
+    Dan Gunter
+      dgunter&insanecyber.com
 
 
 End of Document

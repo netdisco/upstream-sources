@@ -11173,7 +11173,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 11171	CRoL
 11172	Die Informatik-Werkstatt GmbH
 11173	Directory Solutions
-11174	DX Antenna Co., Ltd.
+11174	Nippon DX Antenna Co., Ltd.
 11175	Epic Group plc
 11176	Objective Pathology Services Limited (formerly 'Extelligence')
 11177	Grapevine Interactive (Pty) Ltd
@@ -67116,4 +67116,57 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 67114	Giovanni Cofone
 67115	Phase Zero Integration Inc
 67116	Skyeng
+67117	SunState Medical Specialists
+67118	LEY DEL SEXTO
+67119	vmpn
+67120	Patrick Tudor
+67121	ZSD Systems LLC
+67122	NanoCry Technologies, Inc.
+67123	AppaBits
+67124	Technoblox
+67125	PT Priva Identitas Digital
+67126	GEMSS Healthcare Co., Ltd.
+67127	Wipak Walsrode GmbH
+67128	Aaron Tulino
+67129	Elgens Co., Ltd.
+67130	ZaiNar, Inc
+67131	BankSouth
+67132	Muun Wallet Inc.
+67133	Consejo Superior de Deportes
+67134	ILLEVANTE CLOUD SERVICE & DATACENTERS PROVIDERS CO. L.L.C
+67135	IAAXIN TECH LABS INDIA PVT LTD
+67136	Ecosuite Inc.
+67137	Equitaria
+67138	Olivine, Inc.
+67139	Diasorin S.p.A.
+67140	NTEKSYSTEM Co., Ltd.
+67141	ZKTL INFORMATION TECHNOLOGY LTD
+67142	FTSTECH AUSTRALIA PRIVATE LIMITED
+67143	Volvo Car Retail AB
+67144	FORYOULINK CO.,LTD
+67145	MVision AI Oy
+67146	Pier MTTP GmbH (Ataves)
+67147	APRO Kassensysteme GmbH
+67148	IVSO SYSTEMS PIOTR MRÃZ
+67149	Signalmover OÃ
+67150	CANDA Solutions
+67151	Observatoire des Sciences de lâUnivers de Grenoble - OSUG
+67152	Emporia Energy
+67153	Henry Willis
+67154	Shanghai Yuxun Network Technology Co., Ltd.
+67155	Seven Fortunas, Inc.
+67156	Veysel GÃVEN
+67157	Earth Metabolome Initiative
+67158	Quantum Bridge Technologies Inc.
+67159	Tabith LLC
+67160	Hangzhou Kangxuan Technology Co.,LTD
+67161	TRUTEK MÃHENDiSLiK VE TEKNOLOJÄ°K ÃRÃNLER SANAYi VE TiCARET ANONiM ÅiRKETi
+67162	Overview Technology Solutions Inc.
+67163	Validated One
+67164	Link2Trust bv
+67165	SHENZHEN PREVAIL TECHNOLOGY CO., LTD.
+67166	Blaylar Health EHR
+67167	Rizki Yandri
+67168	Attila Kalcso
+67169	Insane Cyber
 \.
