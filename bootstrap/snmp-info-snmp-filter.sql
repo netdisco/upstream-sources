@@ -238,6 +238,12 @@ lldp_rem_vendor	SNMP::Info::munge_null
 lldp_sys_cap	SNMP::Info::munge_bits
 lldp_sysdesc	SNMP::Info::munge_null
 lldp_sysname	SNMP::Info::munge_null
+lldp_v2_dest_mac	SNMP::Info::munge_mac
+lldp_v2_rem_cap_spt	SNMP::Info::munge_bits
+lldp_v2_rem_sys_cap	SNMP::Info::munge_bits
+lldp_v2_rem_sysdesc	SNMP::Info::munge_null
+lldp_v2_rem_sysname	SNMP::Info::munge_null
+lldp_v2_sys_cap	SNMP::Info::munge_bits
 m_ports_status	SNMP::Info::CiscoStack::munge_port_status
 mac	SNMP::Info::munge_mac
 mac_table	SNMP::Info::munge_mac
