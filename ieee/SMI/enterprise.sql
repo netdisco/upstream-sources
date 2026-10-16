@@ -16101,7 +16101,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 16099	Pinion Group, LLC
 16100	Iron Mountain
 16101	Cadero, Inc.
-16102	Miharu Communications Inc.
+16102	Furukawa Miharu Solutions Corporation
 16103	Nilgiri Networks
 16104	KeyCOM Information Technology CO.,Ltd
 16105	Standard Information Data Centre of Ministry of Education P.R.C
@@ -23356,7 +23356,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 23354	Niska AB
 23355	Gosh Enterprises, Inc.
 23356	TRYSKEL
-23357	Twenty Four Nine Development Ltd
+23357	General Syntax Corporation Limited
 23358	Typhon SARL
 23359	Hexod
 23360	Pacific Union College
@@ -38874,7 +38874,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 38872	JSC "Prompribor"
 38873	Alex Bolgov
 38874	ENABIL Solutions Ltd.
-38875	UnifiedPost S.A.
+38875	Banqup SA
 38876	Mork
 38877	BPM Advanced Technology Company
 38878	s.d.i. s.p.a.
@@ -51861,7 +51861,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 51859	IDS Ingegneria Dei Sistemi
 51860	Syscom
 51861	Safe Stamper
-51862	East Coast Simulation
+51862	Christopher Collins
 51863	serv.it Gesellschaft fÃ¼r IT Services mbH
 51864	PayamPardaz
 51865	Ian Bobbitt
@@ -62255,7 +62255,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 62253	Bas Westerbaan
 62254	KWD Automotive AG & Co. KG
 62255	Mats Klepsland
-62256	Trusthub, LLC
+62256	Unassigned
 62257	candifloss.cc
 62258	Blokkus S.A.S.
 62259	MD West One
@@ -64874,7 +64874,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64872	Elemenik
 64873	Kendal College
 64874	Shanghai Hema Optical Co., Ltd.
-64875	CivicBrands
+64875	Means+Measures LLC
 64876	Nestor cv
 64877	Beacon Link Inc.
 64878	Prima Vista Solusi
@@ -66243,7 +66243,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66241	Massive Beams GmbH
 66242	La Famosa
 66243	UniversitÃ  degli Studi di Salerno
-66244	DefenXee Private Limited
+66244	TrustPlane
 66245	Emma Paki
 66246	Shanghai Xiongzhan Information Technology Co., Ltd.
 66247	smuPweb Ltda
@@ -67169,4 +67169,87 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 67167	Rizki Yandri
 67168	Attila Kalcso
 67169	Insane Cyber
+67170	Kyndryl France
+67171	Fairmat
+67172	TSD IT b.v.
+67173	Hosted Network
+67174	MobilALLY LLC
+67175	Ether Healthcare
+67176	Jordan Escobar
+67177	Xologie Ltd
+67178	LiangLu
+67179	æ²³åè¯é²ä¿¡æ¯ææ¯æéå¬å¸ / Henan Lianglu Information Technology Co., Ltd.
+67180	Polar Monitoring Pty Ltd
+67181	SECUEDGE NETWORK TECHNOLOGIES PRIVATE LIMITED
+67182	Radiarch
+67183	egos.tech
+67184	BAYOOMED GmbH
+67185	LIU, ZHAOSHENG
+67186	Networked Energy Services
+67187	Qubiten Systems, INC.
+67188	AndroWorx
+67189	Shenyang Jovotek Technology Co.,Ltd
+67190	Beitsing Jinru Communication Technology Co., Ltd
+67191	EYL, Inc.
+67192	Ionian University
+67193	BIODATA DEVICES SL
+67194	State tax Inspectorate under the Ministry of Finance of the Republic of Lithuania
+67195	AsterSQL
+67196	Velor Technologies LLC
+67197	Greggs plc
+67198	Carrier Energy
+67199	Datarex s. r. o.
+67200	Thomas Christopher Nevin
+67201	Simigo.ai
+67202	Adihadi
+67203	Lockwood Technology Solutions, LLC
+67204	Elim Foursquare Gospel Alliance
+67205	Proxelera Pvt Ltd
+67206	WardAI
+67207	PrimeCare Medical, Inc.
+67208	somos
+67209	Telmobil INC
+67210	Noaberkracht
+67211	Magistrat der Stadt Lampertheim
+67212	IT-BUDGET GmbH
+67213	FLINK LLC
+67214	TELMA SAS
+67215	Rimatel SA
+67216	Mobile Power, Ltd.
+67217	Sensorise Smart Solutions Private Limited
+67218	Airbus DS PSS
+67219	PressHat
+67220	STRATEC SE
+67221	Jim Shorkey Auto Group
+67222	BAAR Technologies Inc.
+67223	RADIOCOMS SYSTEMES
+67224	Hoth Technologies LLC
+67225	Tychon, LLC
+67226	DDSALLY LLC
+67227	XMS Group UK
+67228	Yang Zhijian
+67229	Surpedia Technologies Co., Ltd.
+67230	Dingjunshan Digital Media Technology (Shenzhen) Co., Ltd.
+67231	HEIM Infrastrukturbau GmbH
+67232	Fox Solutions Pvt. Ltd.
+67233	Digiyo S.A
+67234	Planteam Servernetzwerk
+67235	RELAW GmbH
+67236	Firefly Aerospace
+67237	Ultreia Comunicaciones, SL
+67238	Bridgewell Communications LLC
+67239	Daily Fantasy Technologies Private Limited
+67240	ç©èª (Mu Hang)
+67241	TALTUL TECHNOLOGIES LTD
+67242	Michael Kappe
+67243	Unico, LLC
+67244	HavocAI, Inc.
+67245	PsyData Labs L.L.C.
+67246	Wazi Technical Solutions, LLC
+67247	Maisel GmbH
+67248	Sunrise AI Inc.
+67249	Mustard Seed Networks
+67250	INSPIRAL
+67251	mailiko
+67252	INSTINCT IA
 \.
