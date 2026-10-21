@@ -67252,4 +67252,20 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 67250	INSPIRAL
 67251	mailiko
 67252	INSTINCT IA
+67253	JSC "Smartcom Holding"
+67254	TACO EV Component Solutions Pvt. Ltd
+67255	Kugan Daniil
+67256	Nexwave Networks OU
+67257	Diddy Netsight
+67258	Carrizales
+67259	ANA Healthcare
+67260	ENAT IP, LLC
+67261	Nossic
+67262	Hazon Labs
+67263	RENEWABLE ENERGY SYSTEM INTEGRATION PTY LTD
+67264	MEC electronics Entwicklung und Produktion GmbH
+67265	IRLS Sachsen
+67266	Vigensis GmbH
+67267	Docloop doo
+67268	Plessey Semiconductors Ltd
 \.

@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-10-15)
+(last updated 2026-10-21)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -115172,7 +115172,7 @@ Decimal
 28789
   Cory Albrecht
     Cory Albrecht
-      hostmaster&cory.albrecht.name
+      hostmaster&hanfastolfe.com
 28790
   Poslovno informacioni sistemi, d.o.o.
     Milos Merdzanovic
@@ -247327,8 +247327,8 @@ Decimal
       BogushevichDV&cloudx.group
 61828
   MTN Converged Solutions
-    Ayabonga Ngoma
-      ayabonga.ngoma&mtn.com
+    Azam Irshad
+      azam.irshad&mtn.com
 61829
   SAJ DIGITAL ENERGY AUSTRALIA PTY LTD
     Alan Li
@@ -261251,8 +261251,8 @@ Decimal
       guruprasad&insky.in
 65309
   IHX(Thailand) Co., Ltd.
-    Komsun Rinsan
-      komsun.rinsan&gmail.com
+    Komsun R
+      komsun.r&ihx.co.th
 65310
   David Keller
     David Keller
@@ -269025,6 +269025,70 @@ Decimal
   INSTINCT IA
     Guillaume MARZOCCHI
       contact&instinct-ia.com
+67253
+  JSC "Smartcom Holding"
+    Vladimir
+      vladimir.sakharov&smartcom.city
+67254
+  TACO EV Component Solutions Pvt. Ltd
+    RahulKumar Thakur
+      RahulKumar.Thakur&tataautocomp.com
+67255
+  Kugan Daniil
+    Kugan Daniil
+      vetary4&gmail.com
+67256
+  Nexwave Networks OU
+    Nagraj S Yangunti
+      support&nexwavenetworks.com
+67257
+  Diddy Netsight
+    Fakhri A. Permana
+      fakhri.permanaa&gmail.com
+67258
+  Carrizales
+    Christian Carrizales
+      angry.cube4226&ccmrit.com
+67259
+  ANA Healthcare
+    Thomas Salnot
+      security&ana-healthcare.com
+67260
+  ENAT IP, LLC
+    Donald Jacobs
+      don&enatip.com
+67261
+  Nossic
+    Andrew Rawding
+      Andrew.rawding&outlook.com
+67262
+  Hazon Labs
+    Mark W. Carr
+      mark&markwcarr.com
+67263
+  RENEWABLE ENERGY SYSTEM INTEGRATION PTY LTD
+    Lily Zhou
+      lily.zhou&resi.net.au
+67264
+  MEC electronics Entwicklung und Produktion GmbH
+    Andreas Günser
+      andreas.guenser&mec.at
+67265
+  IRLS Sachsen
+    Clamor Sachtler
+      clamor.sachtler&leipzig.de
+67266
+  Vigensis GmbH
+    Arnoud Kleinloog
+      contact&vigensis.com
+67267
+  Docloop doo
+    Goran Rudinac
+      goran.rudinac&docloop.rs
+67268
+  Plessey Semiconductors Ltd
+    Toby Gollop
+      toby.gollop&plessey.com
 
 
 End of Document
