@@ -28103,7 +28103,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 28101	MIVAN KIER JOINT VENTURE LIMITED NEWPARK BUCHAREST
 28102	baringanet gmbh
 28103	Audionics Ltd
-28104	Evorad
+28104	IKNOWHEALTH S.A.
 28105	Arcelor Bremen GmbH
 28106	GEUTEBRUECK
 28107	Liangjiang Communications System Inc.
@@ -29067,7 +29067,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 29065	vzcs
 29066	enovatia
 29067	The Loop Communications
-29068	OpenSource Training Ralf Spenneberg
+29068	OpenSource Security GmbH
 29069	HartmannSoft
 29070	Conversion Co., Ltd.
 29071	ON DEMAND Microelectronics AG
@@ -61646,7 +61646,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61644	Lunner.Kommune.no
 61645	Dyagsys Karya Informatika
 61646	RÃ©gion RÃ©union
-61647	Fractal Energy Pty Ltd
+61647	Unassigned
 61648	Norcal Ambulance
 61649	Citykinect Inc
 61650	Semco Maritime A/S
@@ -65327,7 +65327,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65325	NetCuras
 65326	Azerconnect Group
 65327	ATSN Ltd
-65328	Multrees Investor Services
+65328	Unassigned
 65329	Hunt Electric
 65330	Voltra
 65331	XIPE Networks LLC
@@ -67268,4 +67268,154 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 67266	Vigensis GmbH
 67267	Docloop doo
 67268	Plessey Semiconductors Ltd
+67269	Ambibox GmbH
+67270	AUTENFIRMA S.A.S.
+67271	Function Health
+67272	NETWWORKS TECH
+67273	Greenlabs Technologies S.R.L.
+67274	Thakaa Med for Information Technology Co. (ThakaaMed)
+67275	ID CONTROL SERVICOS DE TECNOLOGIA LTDA
+67276	Seth M. Price
+67277	Mediot AI
+67278	AndrÃ© Santos
+67279	Sodibur Reunion
+67280	Manuel FLURY
+67281	Jomaro GmbH
+67282	TÃ©lavie
+67283	Intrinsic MFG
+67284	tstolt
+67285	UNISOC
+67286	S3C SRL
+67287	DNI Solutions
+67288	Shenzhen Noble Opto CO.,Ltd
+67289	BatteriesLab
+67290	Monterey-Salinas Transit District
+67291	AMANPROTECT
+67292	NextHop DOOEL Skopje
+67293	Teleryn Broadcast
+67294	STR llc
+67295	SGCL Project
+67296	NAS
+67297	Atea AS
+67298	Spatium North Inc.
+67299	trypando
+67300	Gravitas Cyber Solutions LLC
+67301	Braemac
+67302	Roelingnet
+67303	ITZg GefStdStff
+67304	ArcSaver Inc.
+67305	raebbit networks GmbH
+67306	Voltfactory GmbH
+67307	Diagnoly
+67308	LLC GEOSAP
+67309	AIS Clinics & Hospital SRL
+67310	TORC Robotics, Inc.
+67311	Integrated System Technologies Limited
+67312	ComUE Lyon Saint-Ãtienne
+67313	DirectDemocracyS
+67314	Ralliant
+67315	OrganizaciÃ³n Talumm SAS
+67316	Ensitec Tecnologia de Produtos Ltda
+67317	VERITSYS TECNOLOGIA LTDA
+67318	Foshan Trafficon Technology Co., Ltd
+67319	China Merchants Shipbuilding Industry Digital Technology (Jiangsu) Co., Ltd.
+67320	LANLI
+67321	Vertell
+67322	AuthFi Private Limited
+67323	Z&D
+67324	Overwatch Labs
+67325	t3ra
+67326	JOINTER SOLUCOES EM TECNOLOGIA LTDA
+67327	Kevin Pietsch
+67328	ARFNET
+67329	City of Hutto
+67330	SmithSoft Pty Ltd
+67331	Automaze IT Solutions B.V.
+67332	OKTE, a.s.
+67333	Wavesurf Technologies
+67334	POWER GLOBAL
+67335	FISEGO Holding GmbH
+67336	Signal Dynamics, LLC
+67337	TRIGO GmbH
+67338	Aramco Digital
+67339	ZTPass Inc.
+67340	Sun Point Global LLC
+67341	Guangzhou Punp Electronics Manufacturing Co., Ltd.
+67342	Megalith B.V.
+67343	datAInsights GmbH
+67344	Secureletter.inc
+67345	Lab0nline
+67346	Shenzhen Silicon Dynamic Networks Co.,Ltd.
+67347	PRESTAR SERVICOS E SOLUCOES LTDA
+67348	CyberSecSecurity Inc.
+67349	BudgetCity Inc.
+67350	Rai
+67351	Zecurit Technologies Private Limited
+67352	ConnectMyAssets
+67353	å¸æ(Brin)
+67354	Each Energy Technology (Suzhou) Co.,Ltd.
+67355	Kim Bonde
+67356	F. X. MEILLER Fahrzeug- und Maschinenfabrik - GmbH & Co KG
+67357	Born3
+67358	Persante Healthcare
+67359	Keystone Insights Corp
+67360	Keystone Digital Sdn Bhd
+67361	DuoKey SA
+67362	Vinterra Technology Private Limited
+67363	Ateleris GmbH
+67364	Fria Skog AB
+67365	Mega AS Consulting
+67366	Virtue Digital Indonesia
+67367	Akya Group
+67368	tado GmbH
+67369	DENNIS EDMUND HELMS
+67370	CABLENET LTD.
+67371	Quicksand Cyber Defense
+67372	Heinz Siegfried AG
+67373	Oncodata Solucoes Tecnologicas Ltda
+67374	Inex.net
+67375	Toccata Systems Inc.
+67376	Shinerium Foundation
+67377	Tannerpress
+67378	æ²³ååº·æ®ç§ææéå¬å¸ (Hebei Kangpu Technology Co., Ltd.)
+67379	TPSBoston
+67380	SÅawomir Koszewski
+67381	CORUH ARGE VE TEKNOLOJI SANAYI TICARET LIMITED SIRKETI
+67382	Cognisn Pty Ltd
+67383	Platinum Relations
+67384	NomaSign (YouSource SA Pty Ltd)
+67385	EVEX TECHNOLOGY CO., LTD.
+67386	Vinicius A. Santana
+67387	Saltline Software
+67388	LabOWL
+67389	AppXLerate, LLC
+67390	DhitraLabs
+67391	PATA SALADA GRUPO CORPORATIVO
+67392	SID banka, d.d.
+67393	Tianjin Beifang Hengye Electriacal Technical co.,LTD
+67394	Centrum voor Kankeropsporing vzw
+67395	DATA KNOX DMS PRIVATE LIMITED
+67396	H&M Software-Netzwerktechnik-GmbH
+67397	Cylenk S.A.
+67398	Impuls ing d.o.o.
+67399	University of Defence
+67400	BURGERETCIE
+67401	Devolutions
+67402	Mesoscale Systems Ltd. Co.
+67403	Healistic Group Ltd
+67404	Fromages Fins CA
+67405	Lightfield Medical, Inc.
+67406	Vasily Povalyaev
+67407	Net Max for Communication Services,General Trading,General Contracting,Energy Solutions  and Renewable Energy
+67408	Validated One
+67409	NAKIVO Inc.
+67410	YASSS
+67411	xorpoz
+67412	accroma labtec Ltd.
+67413	ä¸æµ·éæ¦æºè½ç§ææéå¬å¸ (Shanghai Jinbang Intelligent Technology Co., Ltd.)
+67414	Rush Enterprises
+67415	Markovian Protocol
+67416	Certificate.Digital Ltd.
+67417	Starostwo Powiatowe w Oswiecimiu
+67418	VIZIOME
 \.
